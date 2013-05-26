@@ -10,3 +10,22 @@ title: Voice
 <p>Siri has ushered in a new approach to using voice as a tool for not just searching, but actually interactig in real-time with your onlie world.</p>
 <p>APIs will be the channel in which voice finds the data and information it needs to fulfill requests made by mobile and web users worldwide.</p>
 <p>There are several platforms focusing on the world of API and voice. In this section I will be tracking on news and companies that are doing interesting things around API to Voice, while also sharing blog analysis as well.</p>
+
+{% raw  %}
+<script id="companyListingTemplate" type="text/template">       
+    <li style="list-style: none; padding: 30px; border: 0px solid #000;">
+        <a href="companies-detail.html?id={{id}}"><img src="{{logo}}" width="{{width}}" align="left" style="padding: 15px;" /></a>
+        <a href="companies-detail.html?id={{id}}" style="color: #000;"><strong>{{name}}</strong></a> - {{summary}}... <a href="companies-detail.html?id={{id}}">details</a>.
+    </li>                                                                                               
+</script>
+{% endraw %}
+
+<p><a id="jsonlink" href="data/companies.json" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-json-data-store.png" align="right" width="50" style="padding-top: 10px;" /></a></p>
+<h1>Voice Companies</h1>
+<div style="padding-left: 10px; padding-right: 10px; width:550px;">
+     <ul id="companyListing" style="padding-left: 30px;"></ul>
+</div>  
+
+<script type="text/javascript">
+listCompanies();
+</script>
