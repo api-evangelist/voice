@@ -1,0 +1,4 @@
+<p>We are happy to announce our several new features for public release. These features give you lots of power when it comes to voice technology and phone calls.Now you have access to the following:
+ Voice Recording: Record the callers voice at selected stages in your IVR menu, to create things such as “voice tickets”.You can also use this to publish voice recordings to the web.Or why not build your own voicemail together with a web audio player.</p>
+<center><p><a href="http://46elks.com/blog/2012/07/20/announcement/new-voice-features" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

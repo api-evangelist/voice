@@ -1,0 +1,4 @@
+<p>“Wedgies are fun to give.And it’s fun to watch what happens after,” explains Jimmy Jacobson, co-founder of social polling service Wedgies.“But we aren’t talking about in real life wedgies, like you got in school.”
+ Las Vegas based members, Wedgies, offers users easy, realtime social polls for the web.With Wedgies, you can share a poll on Twitter or broadcast an SMS poll to thousands of fans on a jumbotron at an NCAA basketball game (yeah, that happened).</p>
+<center><p><a href="http://www.twilio.com/blog/2013/04/twilio-fund-winner-profile-wedgies-making-social-polling-easy-and-fun-w-twilio.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

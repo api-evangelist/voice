@@ -1,0 +1,9 @@
+<p>Last September, OneTok announced that its API moved out of beta and was publicly available for developers to integrate speech recognition functionality into any app.Since then, OneTok has overhauled the platform, refined its focus, and readied itself to better meet developer needs.Today, the platform focuses on audio transport and processing.OneTok has captured its core functionality in an SDK that developers can embed in existing apps or websites.OneTok co-founder and CEO, Ben Lilienthal, told Programmableweb:
+
+
+
+
+
+With the platform makeover, OneTok focused primarily on carriers, messaging apps, and social networks.</p>
+<center><p><a href="http://blog.programmableweb.com/2013/04/23/onetok-refines-sdk-and-focuses-on-carriers-social-networks-and-messaging-apps/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

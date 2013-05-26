@@ -1,0 +1,3 @@
+<p>I can’t meet up with friends in Dolores Park.It’s one of the most popular parks in San Francisco, in one of the most popular neighborhoods in San Francisco.On weekends, it’s hard to move through the crowd of hundreds of people, let alone find someone in that crowd.When I get a text from a friend saying “Where are you in the park?” I have no response except something like, “Near the dancing robot.</p>
+<center><p><a href="http://www.twilio.com/blog/2012/12/dropping-a-pin-in-a-haystack-meattext-lets-you-share-your-exact-location.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

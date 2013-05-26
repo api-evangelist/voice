@@ -1,0 +1,3 @@
+<p>Flying 7,500 miles from San Francisco to Ghana wasn’t new to Robin Bigio.He worked in Tanzania architecting new cookstoves and in Kenya building scalable water and hygiene businesses as part of IDEO’s Fellowship Program.But, Robin’s project in Kumasi, Ghana was a little different.His team’s goal was to address public defecation with the help of community members, and a Twilio powered app.He used Twilio SMS and Voice, to collect information and organize Kumasi residents to “change the tide” on public defecation.</p>
+<center><p><a href="http://www.twilio.com/blog/2013/02/hacking-for-good-ideo-cleans-up-kumasi-with-twilio.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

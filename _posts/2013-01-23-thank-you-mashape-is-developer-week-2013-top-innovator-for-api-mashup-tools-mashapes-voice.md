@@ -1,0 +1,3 @@
+<p>Mashape is honored and proud to be the Award Recipient for DeveloperWeek 2013s Top Innovator for API Mashup Tools! Other award recipients for different categories include  Paypal, UserVoice, Stackmob, among others.(We are also giving away limited Complimentary Passes to DeveloperWeek 2013).Over 450 DeveloperWeek community members contributed to over 2000 online votes for the DeveloperWeek 2013 awards.We here at Mashape are very thankful to all the Mashapers out there!</p>
+<center><p><a href="http://blog.mashape.com/thank-you-mashape-is-developer-week-2013-top" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

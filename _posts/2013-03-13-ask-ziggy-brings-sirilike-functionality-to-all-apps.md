@@ -1,0 +1,3 @@
+<p>Ask Ziggy, best known as the “Siri for Window’s Phone,” has launched the Ask Ziggy API, which enables natural speech processing within any app.The API enables speech processing, but must be used in conjunction with other speech services to complete the offering (e.g.Nuance, AT&T, etc.).</p>
+<center><p><a href="http://blog.programmableweb.com/2013/03/13/ask-ziggy-brings-siri-like-functionality-to-all-apps/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

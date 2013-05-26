@@ -1,0 +1,4 @@
+<p>Since the opening of the London Twilio office in 2011, we’ve had the privilege of participating in the incredible growth of the European startup and tech community.We feel lucky to work alongside so many European-based DOers focused on changing the future of communications.Today we’re beyond excited to announce Twilio Fund Europe for 2013, extending our microfund supported by 500 Startups for Twilio-powered companies and products to the EU.A Microfund to Support Innovation in Communications
+ Twilio Fund provides Twilio-powered companies with the resources to take their products to the next level with support from 500 Startups.Our goal is to provide you with the resources you need to build the next generation of communications.</p>
+<center><p><a href="http://www.twilio.com/blog/2013/03/twilio-fund-europe-2013-opens-for-submissions.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

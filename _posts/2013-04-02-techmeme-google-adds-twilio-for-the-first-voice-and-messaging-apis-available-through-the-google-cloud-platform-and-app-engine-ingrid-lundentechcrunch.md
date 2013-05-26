@@ -1,0 +1,5 @@
+<p>Sorry Apple gets respect in China after tabloid trial  —  (Reuters) - With its rare apology, Apple Inc went from pariah to praiseworthy in the eyes of Chinas state-controlled media, a lesson for other foreign firms not to underestimate the speed and power of the government press.More: AllThingsD, iMore, New York Times, Ars Technica, GigaOM, Washington Post, Computerworld, BGR, CNET, Network World, MacNN, SlashGear, 9to5Mac, TUAW, Fortune, The Verge, ValueWalk, iDownloadBlog.com, AppleInsider, Forbes, PhoneArena, iPhone and BBC
+  
+ Microsofts Windows Blue looks to be named Windows 8.1  —  Summary: The Windows Blue operating system update is likely to be named “Windows 8.1” when it hits later this summer, according to sources.</p>
+<center><p><a href="http://www.techmeme.com/130402/p20#a130402p20" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+
