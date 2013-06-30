@@ -1,0 +1,11 @@
+---
+layout: post
+title: Publik Demand Gives Customers A Voice With Twilio
+url: http://www.twilio.com/blog/2013/01/publik-demand-gives-customers-a-voice-with-twilio.html
+source: http://www.twilio.com/blog/2013/01/publik-demand-gives-customers-a-voice-with-twilio.html
+domain: www.twilio.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/5474_www_twilio_com.png
+---
+{% include JB/setup %}<p>When I flew home to Maryland last week, I dealt with some downright awful customer service.Not your run of the mill flight attendant, tired from the holiday travel insanity.This was exceptional.I tweeted about my experience and quickly got a response from the airline.I was surprised to say the least.</p>
+<center><p><a href="http://www.twilio.com/blog/2013/01/publik-demand-gives-customers-a-voice-with-twilio.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

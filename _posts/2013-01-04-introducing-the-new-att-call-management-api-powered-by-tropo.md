@@ -1,0 +1,11 @@
+---
+layout: post
+title: Introducing the new ATT Call Management API powered by Tropo
+url: http://blog.tropo.com/2013/01/04/introducing-the-new-att-call-management-api-powered-by-tropo/
+source: http://blog.tropo.com/2013/01/04/introducing-the-new-att-call-management-api-powered-by-tropo/
+domain: blog.tropo.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+---
+{% include JB/setup %}<p>You may have noticed we’ve been a little quiet around here lately.That’s because we’ve been busy elves, working on a host of projects, not the least of which is that our own Tropo community manager, Cristina Moe Salanova, gave birth to a beautiful baby girl. Please join me in congratulating Cristina and her husband Carlos on the newest member of the Voxeo Labs team.But we’ve been busy with other things too, and yesterday I gave a workshop using Crunched.com talking about the new AT&amp;T Call Management API being announced this weekend at the annual AT&amp;T Developer Summit in Las Vegas.</p>
+<center><p><a href="http://blog.tropo.com/2013/01/04/introducing-the-new-att-call-management-api-powered-by-tropo/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

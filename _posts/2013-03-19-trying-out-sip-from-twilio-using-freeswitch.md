@@ -1,0 +1,11 @@
+---
+layout: post
+title: Trying Out SIP From Twilio Using FreeSWITCH
+url: http://www.twilio.com/blog/2013/03/trying-out-the-twilio-sip-noun-using-freeswitch.html
+source: http://www.twilio.com/blog/2013/03/trying-out-the-twilio-sip-noun-using-freeswitch.html
+domain: www.twilio.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/6969_www_twilio_com.png
+---
+{% include JB/setup %}<p>Twilio recently introduced the new noun which lets you directly dial a SIP server from your Twilio app.But what if you don’t have a SIP server?In this post I’ll show you how you can set up and use FreeSWITCH, a free, cross platform and open source communication server that includes SIP capabilities, to try out the noun.Before you get started setting up the FreeSWITCH server, it’s useful to have at least a cursory understanding of what SIP is.SIP, or session initiation protocol, is a common protocol used by IP Telephony equipment and software to create and manage communication sessions between two parties.</p>
+<center><p><a href="http://www.twilio.com/blog/2013/03/trying-out-the-twilio-sip-noun-using-freeswitch.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

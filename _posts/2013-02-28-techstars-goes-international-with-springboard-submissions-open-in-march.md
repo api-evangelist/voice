@@ -1,0 +1,11 @@
+---
+layout: post
+title: TechStars Goes International with Springboard Submissions Open in March
+url: http://www.twilio.com/blog/2013/02/techstars-goes-international-with-springboard-submission-open-now.html
+source: http://www.twilio.com/blog/2013/02/techstars-goes-international-with-springboard-submission-open-now.html
+domain: www.twilio.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+---
+{% include JB/setup %}<p>The London tech scene is exploding.It’s even better when two awesome accelerators merge to support the London DOers working on early stage startups.Techstars is opening in London, the first international branch of its accelerator program thanks to a partnership with Springboard.The TechStars London program is open to any company, regardless of where they’re based.Submissions open in March so keep an eye on the application page here.</p>
+<center><p><a href="http://www.twilio.com/blog/2013/02/techstars-goes-international-with-springboard-submission-open-now.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

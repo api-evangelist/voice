@@ -1,0 +1,11 @@
+---
+layout: post
+title: APIs based on Machine Learning
+url: http://blog.mashape.com/post/47218754214/apis-based-on-machine-learning
+source: http://blog.mashape.com/post/47218754214/apis-based-on-machine-learning
+domain: blog.mashape.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7293_blog_mashape_com.png
+---
+{% include JB/setup %}<p>Were Mashape, the Cloud API Hub.We provide a world-class marketplace to manage, distribute and consume any kind of API in the world, both cloud and internal, both existing or just born, targeting every developer and organization committed into the internet.</p>
+<center><p><a href="http://blog.mashape.com/post/47218754214/apis-based-on-machine-learning" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

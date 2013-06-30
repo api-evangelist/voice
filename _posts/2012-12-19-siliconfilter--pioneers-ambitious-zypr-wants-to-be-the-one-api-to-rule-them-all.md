@@ -1,0 +1,11 @@
+---
+layout: post
+title: SiliconFilter | Pioneer’s Ambitious Zypr Wants to be the One API to Rule Them All
+url: http://siliconfilter.com/pioneers-ambitious-zypr-wants-to-bring-voice-control-and-a-unified-web-api-to-cars-consumer-electronics-mobile-apps-and-the-web/
+source: http://siliconfilter.com/pioneers-ambitious-zypr-wants-to-bring-voice-control-and-a-unified-web-api-to-cars-consumer-electronics-mobile-apps-and-the-web/
+domain: siliconfilter.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+---
+{% include JB/setup %}<p>The consumer electronics giant Pioneer launched its Zypr platform today.With Zypr, the company wants to offer hardware manufacturers and software developers a single, simplified way to access Internet services like Slacker, Yelp, Facebook or Accuweather.The idea behind this project is that connected devices like phones, laptops, cars and TVs take some lead time to develop, but that there is no way to predict which service users will want to use in a year or two (or which ones will still be around).With Zypr, Pioneer wants to allow developers to create “future-proof mashups.” As an additional twist, Zypr mostly focuses on voice navigation to access these services.</p>
+<center><p><a href="http://siliconfilter.com/pioneers-ambitious-zypr-wants-to-bring-voice-control-and-a-unified-web-api-to-cars-consumer-electronics-mobile-apps-and-the-web/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

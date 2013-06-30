@@ -1,0 +1,11 @@
+---
+layout: post
+title: Metablocks Helps Bands Reach Fans via Social Apps with Twilio
+url: http://www.twilio.com/blog/2013/03/metablocks-helps-bands-reach-fans-via-social-apps-with-twilio.html
+source: http://www.twilio.com/blog/2013/03/metablocks-helps-bands-reach-fans-via-social-apps-with-twilio.html
+domain: www.twilio.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+---
+{% include JB/setup %}<p>Metablocks’ clients range from punk labels like Tooth and Nail Records, to Grammy winning artists like Sade.The thread connecting their client list is the ability to connect with fans through social apps.Their goal, in Oliver’s words, is to build “more compelling voice, text and mobile applications for the entertainment industry that more seamlessly integrate voice technology and social media channels.” For example, if you’re a Maggie Rose fan and you want to congratulate her on her new single, just call her.The Twilio app on her Facebook page lets you easily leave a message which will be embedded on that page.</p>
+<center><p><a href="http://www.twilio.com/blog/2013/03/metablocks-helps-bands-reach-fans-via-social-apps-with-twilio.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

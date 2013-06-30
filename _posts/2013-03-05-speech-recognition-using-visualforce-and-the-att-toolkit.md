@@ -1,0 +1,11 @@
+---
+layout: post
+title: Speech recognition using Visualforce and the ATT toolkit
+url: http://blogs.developerforce.com/developer-relations/2013/03/speech-recognition-att-toolkit.html
+source: http://blogs.developerforce.com/developer-relations/2013/03/speech-recognition-att-toolkit.html
+domain: blogs.developerforce.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+---
+{% include JB/setup %}<p>Many consider speech recognition to be the next ‘killer app’ for mobile.Apple famously (or infamously, depending on how much you’ve used it) added Siri in iOS 6 and Android responded with Google Now.So how do you add speech recognition to an enterprise mobile application built on the Salesforce Touch Platform?I thought you’d never ask!We recently hosted a webinar introducing the AT&amp;T Toolkit for Salesforce Platform and I demoed a simple mobile application built using Visualforce and the Salesforce Mobile SDK that uses the AT&amp;T toolkit to search for Case records in Salesforce based on a user’s voice input.</p>
+<center><p><a href="http://blogs.developerforce.com/developer-relations/2013/03/speech-recognition-att-toolkit.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

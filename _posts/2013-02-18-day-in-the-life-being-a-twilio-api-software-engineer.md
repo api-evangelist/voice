@@ -1,0 +1,11 @@
+---
+layout: post
+title: Day in the Life: Being a Twilio API Software Engineer
+url: http://www.twilio.com/blog/2013/02/day-in-the-life-being-a-twilio-api-software-engineer.html
+source: http://www.twilio.com/blog/2013/02/day-in-the-life-being-a-twilio-api-software-engineer.html
+domain: www.twilio.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+---
+{% include JB/setup %}<p>Twilio is hiring a Senior Software Engineer for the API team!We’re looking for someone who is driven to improve and maintain our API framework, and build new features for customers.You can find out more about the job here, but why not take a walk in an API Engineer’s shoes?Guillaume Binet is the Lead Engineer on the API Team at Twilio, and will gladly talk to you about team building, API maintenance, his pilot’s license, or his love of scuba diving.We kept the conversation to his day-to-day life at Twilio.</p>
+<center><p><a href="http://www.twilio.com/blog/2013/02/day-in-the-life-being-a-twilio-api-software-engineer.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

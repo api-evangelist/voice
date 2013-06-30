@@ -1,0 +1,11 @@
+---
+layout: post
+title: Philadelphia Police Department Fights Crime With Twilio SMS
+url: http://www.twilio.com/blog/2012/08/philidelphia-police-department-fighting-crime-one-text-at-a-time-with-twilio.html
+source: http://www.twilio.com/blog/2012/08/philidelphia-police-department-fighting-crime-one-text-at-a-time-with-twilio.html
+domain: www.twilio.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+---
+{% include JB/setup %}<p>The Philadelphia Police Department is the nation’s oldest municipal agency—and one of the most forward thinking.In March, the department decided to empower residents to ﬁght crime by using SMS message.“For many people, text messages are the preferred method of communication,” said Karima Zedan, director of communications for the Philadelphia Police Department.“We wanted to make it possible for people to send anonymous tips from their cell phones and potentially help us solve crimes.” The Philadelphia Police Department chose to build the tip line using Twilio based on ease of use and price.</p>
+<center><p><a href="http://www.twilio.com/blog/2012/08/philidelphia-police-department-fighting-crime-one-text-at-a-time-with-twilio.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

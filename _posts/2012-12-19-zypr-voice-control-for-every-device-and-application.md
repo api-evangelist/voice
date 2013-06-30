@@ -1,0 +1,11 @@
+---
+layout: post
+title: Zypr: Voice Control for Every Device and Application
+url: http://gizmodo.com/5856998/zypr-voice-control-for-every-device-and-application
+source: http://gizmodo.com/5856998/zypr-voice-control-for-every-device-and-application
+domain: gizmodo.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+---
+{% include JB/setup %}<p>One day, well all expect our gadgets to respond intelligently to voice commands.But right now, with the exception of Siri, nothing really works very well.Sure, there is software that takes pretty good dictation— Googles voice search for example—and the infotainment systems in cars have incorporated clunky voice control systems to make phone calls and play music.But when it comes to imaginary, techno-utopian futures in which voice control is really seamlessly integrated into the apps we use everyday, well, it just doesnt exist.Zypr, a new upstart built by Pioneer, could help change that.</p>
+<center><p><a href="http://gizmodo.com/5856998/zypr-voice-control-for-every-device-and-application" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+
