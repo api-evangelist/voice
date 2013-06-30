@@ -1,3 +1,0 @@
-<p>Apps To Empower is trying to make the tablet a life changing device for women in developing countries.They need your help.They’re calling on developers to build apps that aid in conflict resolution, entrepreneurship training, mentorship, business planning and a whole host of other areas.You’re invited to think outside of the App Store, and build a truly important app.The deadline for app submissions is April 30th, 2013.</p>
-<center><p><a href="http://www.twilio.com/blog/2013/02/apps-to-empower-build-an-app-to-support-women-in-developing-countries.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

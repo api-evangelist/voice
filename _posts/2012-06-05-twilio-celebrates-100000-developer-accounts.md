@@ -1,3 +1,0 @@
-<p>Were celebrating the DOers and heroes changing the way we communicate.In celebration of what you do we want to highlight the milestones youve achieved.Share your milestone moment with us in a short video to participate in a special feature debuting at TwilioCon this fall.Three DOers will be chosen to join us at TwilioCon - all expenses paid - to share their stories in person.Read the contest details.</p>
-<center><p><a href="http://ahoy.twilio.com/milestones" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

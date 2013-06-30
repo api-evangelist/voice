@@ -1,3 +1,0 @@
-<p>Codecademy wants to help anyone learn how to code, so  people at least have a basic understanding of programming.Last January the team declared 2012 “Code Year”, challenging anyone and everyone to learn programming skills.Over 450,000 people joined, including NYC Mayor Michael Bloomberg.Now in 2013, the team is expanding with new curriculums, including APIs, that further empower the newly-skilled developer.We are incredibly excited to be one of many great APIs launching lessons with Codecademy.</p>
-<center><p><a href="http://www.twilio.com/blog/2013/01/codecademy-launches-new-lessons-with-twilio-new-api-partners.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

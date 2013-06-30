@@ -1,4 +1,0 @@
-<p>2013 has already been an incredible year – our community is out there fighting human trafficking with shortcodes, battling robocallers and building communications solutions to disrupt the oldest of industries.Twilio-powered companies are accelerating faster than ever before.As our community grows, so do we and we’re super excited to be in a brand new office to accommodate the growing Twilio team.In fact, we’re hiring and we’d love to hear from you.A Brief History of Drawing the Owl
- CEO Jeff Lawson started hacking together Twilio in a Seattle coffee shop called Revolutions.</p>
-<center><p><a href="http://www.twilio.com/blog/2013/05/introducing-twilio-hq-3-0-our-brand-new-office.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
