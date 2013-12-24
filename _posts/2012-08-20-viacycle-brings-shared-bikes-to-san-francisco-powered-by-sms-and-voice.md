@@ -1,11 +1,0 @@
----
-layout: post
-title: viaCycle Brings Shared Bikes to San Francisco Powered by SMS and Voice
-url: http://www.twilio.com/blog/2012/08/viacycle-brings-shared-bikes-to-san-francisco-powered-by-sms-and-voice.html
-source: http://www.twilio.com/blog/2012/08/viacycle-brings-shared-bikes-to-san-francisco-powered-by-sms-and-voice.html
-domain: www.twilio.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-{% include JB/setup %}<p>Living in San Francisco, you see a lot of bikers on the road – it’s one of the most efficient ways to get around the city.But what if you’re not ready to invest in a bike, or maybe friends come to visit and you’re stuck driving across town to find a bike rental?viaCycle wants to change that by making bike sharing simple and accessible.Sid Doshi, CTO of viaCycle founded the company with a few of his Mechanical Engineering Grad friends at Georgia Tech in 2009 – which became their very first customer.Quickly realizing the challenge of the logistics and hardware around building a bike sharing program, the team built an electronic lock system powered by Twilio SMS and Twilio Voice, that also includes GPS tracking.</p>
-<center><p><a href="http://www.twilio.com/blog/2012/08/viacycle-brings-shared-bikes-to-san-francisco-powered-by-sms-and-voice.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

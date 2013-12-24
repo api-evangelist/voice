@@ -1,11 +1,0 @@
----
-layout: post
-title: Our Mobile SDKs Just Got Better: Twilio Client iOS and Android updates
-url: http://www.twilio.com/blog/2013/02/our-mobile-sdks-just-got-better-twilio-client-ios-and-android-updates.html
-source: http://www.twilio.com/blog/2013/02/our-mobile-sdks-just-got-better-twilio-client-ios-and-android-updates.html
-domain: www.twilio.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-{% include JB/setup %}<p>Today, we’re releasing updates to our iOS and Android Twilio Client SDKs.These SDKs contain numerous performance improvements as well as fixes for common issues reported since our last release, 3 months ago.For iOS, we now officially support ARMv7s.For Android, we’ve added x86 support in response to growing developer demand.To upgrade, just download our most recent version of the SDK and integrate it into your app.</p>
-<center><p><a href="http://www.twilio.com/blog/2013/02/our-mobile-sdks-just-got-better-twilio-client-ios-and-android-updates.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

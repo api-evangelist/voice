@@ -1,11 +1,0 @@
----
-layout: post
-title: Dropping A Pin In A Haystack: MeatText Lets You Share Your Exact Location
-url: http://www.twilio.com/blog/2012/12/dropping-a-pin-in-a-haystack-meattext-lets-you-share-your-exact-location.html
-source: http://www.twilio.com/blog/2012/12/dropping-a-pin-in-a-haystack-meattext-lets-you-share-your-exact-location.html
-domain: www.twilio.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-{% include JB/setup %}<p>I can’t meet up with friends in Dolores Park.It’s one of the most popular parks in San Francisco, in one of the most popular neighborhoods in San Francisco.On weekends, it’s hard to move through the crowd of hundreds of people, let alone find someone in that crowd.When I get a text from a friend saying “Where are you in the park?” I have no response except something like, “Near the dancing robot.</p>
-<center><p><a href="http://www.twilio.com/blog/2012/12/dropping-a-pin-in-a-haystack-meattext-lets-you-share-your-exact-location.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -1,11 +1,0 @@
----
-layout: post
-title: Mimvi and Mashape to Offer Mobile App Search API to Developers
-url: http://blog.mashape.com/mimvi-and-mashape-to-offer-mobile-app-search
-source: http://blog.mashape.com/mimvi-and-mashape-to-offer-mobile-app-search
-domain: blog.mashape.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-{% include JB/setup %}<p>Mimvi has announced today an agreement with Mashape to distribute Mimvis mobile app search and recommendation APIs. Quoting from the press release - A key component of the agreement is a revenue sharing plan for the distribution and monetization of Mimvis APIs.[.] It provides developers acccess to world-class technology.this includes matching mobile apps to content consumed by their users for a richer mobile-first experience, or supplying mobile app search results to websites, mobile products and services.</p>
-<center><p><a href="http://blog.mashape.com/mimvi-and-mashape-to-offer-mobile-app-search" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -1,11 +1,0 @@
----
-layout: post
-title: Build a Pure HTML Mobile App Landing Page with Twilio SMS and Parse
-url: http://www.twilio.com/blog/2013/01/build-a-pure-html-mobile-app-landing-page-with-twilio-sms-and-parse.html
-source: http://www.twilio.com/blog/2013/01/build-a-pure-html-mobile-app-landing-page-with-twilio-sms-and-parse.html
-domain: www.twilio.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-{% include JB/setup %}<p>Every mobile app developer knows that all their hard work on UI, performance, and seamless platform integration means nothing unless a user actually finds, downloads and installs the app.Twilio SMS can help by allowing users to receive an app download link directly on their phone.Great mobile apps like Quora (pictured at right) and Flickr have used Twilio SMS to great effect, helping drive downloads for their mobile apps across multiple platforms.Today, I’d like to show you how to build a pure HTML mobile app landing page with Twilio SMS and Parse.You can use this to drive more app downloads.</p>
-<center><p><a href="http://www.twilio.com/blog/2013/01/build-a-pure-html-mobile-app-landing-page-with-twilio-sms-and-parse.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

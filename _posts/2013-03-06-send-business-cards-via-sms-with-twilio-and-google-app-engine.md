@@ -1,11 +1,0 @@
----
-layout: post
-title: Send Business Cards via SMS with Twilio and Google App Engine
-url: http://www.twilio.com/blog/2013/03/send-business-cards-via-sms-with-twilio-and-google-app-engine.html
-source: http://www.twilio.com/blog/2013/03/send-business-cards-via-sms-with-twilio-and-google-app-engine.html
-domain: www.twilio.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-{% include JB/setup %}<p>This is a guest post by Robert Do, Product Marketing Manager on Google Cloud Platform.  Robert graduated from the University of Pennsylvania with a degree in Economics and Information Systems and has worked at Google since 2009.Robert used Google App Engine to create a new, easy way to distribute business cards via Twilio SMS.With the Twilio API, and Google App Engine’s scalable infrastructure, he had his app up and running fast.In this post, Robert explains how to send business cards directly to email via SMS.</p>
-<center><p><a href="http://www.twilio.com/blog/2013/03/send-business-cards-via-sms-with-twilio-and-google-app-engine.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -1,11 +1,0 @@
----
-layout: post
-title: Caremerge Automates Communications for Long Term Care Facilities
-url: http://www.twilio.com/blog/2012/08/update-long-term-care-communications-with-caremerge.html
-source: http://www.twilio.com/blog/2012/08/update-long-term-care-communications-with-caremerge.html
-domain: www.twilio.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-{% include JB/setup %}<p>Caremerge is disrupting and old industry with new tech.The young company recently won the InnovateLTC and LINKTank award for  “Most Innovative Company of 2012 in Long Term Care.” Caremerge is bringing mobile apps powered by Twilio to the long term care industry, connecting families, residents, nurses and doctors, all while saving time and money.The company, based in Chicago, was founded in 2011 by Fahad Aziz and Asif Kahn.Fahad previously worked at GE Healthcare IT in senior level marketing roles while Asif worked for various Fortune 500 companies in SaaS.</p>
-<center><p><a href="http://www.twilio.com/blog/2012/08/update-long-term-care-communications-with-caremerge.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

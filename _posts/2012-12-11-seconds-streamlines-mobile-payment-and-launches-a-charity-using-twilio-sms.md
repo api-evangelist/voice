@@ -1,11 +1,0 @@
----
-layout: post
-title: Seconds Streamlines Mobile Payment and Launches A Charity Using Twilio SMS
-url: http://www.twilio.com/blog/2012/12/seconds-streamlines-mobile-payment-and-launches-a-charity-using-twilio-sms.html
-source: http://www.twilio.com/blog/2012/12/seconds-streamlines-mobile-payment-and-launches-a-charity-using-twilio-sms.html
-domain: www.twilio.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-{% include JB/setup %}<p>There are six billion active cell phone subscriptions worldwide.Nick Hughes, CEO of Seconds, wanted to develop a service that would allow all of those people on all of those phones to easily exchange money, regardless of apps or operating systems.This is the idea behind online payment system, Seconds.Seconds allows you to send money to whoever you want via web or Twilio SMS.Once you and your friend are signed up, you can simply text a dollar amount to the proper number and Seconds handles the back end money transfer using Stripe and Dwolla.</p>
-<center><p><a href="http://www.twilio.com/blog/2012/12/seconds-streamlines-mobile-payment-and-launches-a-charity-using-twilio-sms.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

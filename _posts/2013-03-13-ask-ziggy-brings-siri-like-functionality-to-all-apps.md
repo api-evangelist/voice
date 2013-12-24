@@ -1,11 +1,0 @@
----
-layout: post
-title: Ask Ziggy Brings Siri like Functionality to All Apps
-url: http://blog.programmableweb.com/2013/03/13/ask-ziggy-brings-siri-like-functionality-to-all-apps/
-source: http://blog.programmableweb.com/2013/03/13/ask-ziggy-brings-siri-like-functionality-to-all-apps/
-domain: blog.programmableweb.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-{% include JB/setup %}<p>Ask Ziggy, best known as the “Siri for Window’s Phone,” has launched the Ask Ziggy API, which enables natural speech processing within any app.The API enables speech processing, but must be used in conjunction with other speech services to complete the offering (e.g.Nuance, AT&amp;T, etc.).</p>
-<center><p><a href="http://blog.programmableweb.com/2013/03/13/ask-ziggy-brings-siri-like-functionality-to-all-apps/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
