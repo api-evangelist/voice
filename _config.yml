@@ -1,4 +1,4 @@
-title:        {"Voice APIs"}
+title:        Voice APIs
 url:          http://voice.apievangelist.com
 version:      1.1.1
 author:
@@ -8,10 +8,10 @@ markdown:     rdiscount
 permalink:    pretty
 pygments:     true
 
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 
-paginate: 50
+paginate: 100
 paginate_path: "/news/page:num"
 
 production_url : http://voice.apievangelist.com
