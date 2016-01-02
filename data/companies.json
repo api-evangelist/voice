@@ -24,9 +24,9 @@
 		"github": "https://github.com/amazonwebservices",
 		"blog": "http://aws.amazon.com/blogs/aws/",
 		"blogrss": "http://feeds.feedburner.com/AmazonWebServicesBlog",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-logo.jpg",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-logo.jpg",
 		"tags": null
 	},
 	{
@@ -213,7 +213,7 @@
 		"id": "W0UL5zgbXZ53f495Z4jvLb123CNevyDmuuhA5HHmJFzWL09UBKudGMixjznGOQy8c9a93IhjlNcorR98DFTBp116XA117117",
 		"name": "Tropo",
 		"summary": "Tropo is an application platform that enables web developers to write communication applications in the languages they already use, Groovy, Ruby, PHP, Python and JavaScript, or use a WebAPI which will talk with an application running on your own server through the use of HTTP and JSON, feeding requests and processing responses back and forth as needed. Tropo is in the cloud, so it manages the head",
-		"details": "Tropo is an application platform that enables web developers to write communication applications in the languages they already use, Groovy, Ruby, PHP, Python and JavaScript, or use a WebAPI which will talk with an application running on your own server through the use of HTTP and JSON, feeding requests and processing responses back and forth as needed. Tropo is in the cloud, so it manages the headaches of dealing with infrastructure and keeping applications up and running at enterprise-grade.",
+		"details": "Tropo is an application platform that enables web developers to write communication applications in the languages they already use, Groovy, Ruby, PHP, Python and JavaScript, or use a WebAPI which will talk with an application running on your own server through the use of HTTP and JSON, feeding requests and processing responses back and forth as needed. Tropo is in the cloud, so it manages the headaches of dealing with infrastructure and keeping applications up and running at enterprise-grade. ",
 		"website": "https://www.tropo.com/",
 		"twitter": "https://twitter.com/tropo",
 		"github": "https://github.com/tropo",
