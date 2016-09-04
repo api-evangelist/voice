@@ -321,9 +321,9 @@
 		"base_url": "http://www.sightcall.com/developers/",
 		"blog": "http://www.sightcall.com/blog/",
 		"blogrss": "http://sightcall.com/feed/",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sightcall-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sightcall-logo.png",
 		"tags": [
 			"Webrtc",
 			"Voice"
