@@ -1,0 +1,142 @@
+[
+	{
+		"tool_id": "hnge4wgWLmMegfsnznzp4XAs5irpNK2ivfbJRose8drh2llHNv7W1d7ZP7NIc90lyW4wXJ7123ahRQX6gvBq7RKw117117",
+		"name": "alexa-avs-raspberry-pi",
+		"user": "alexa",
+		"details": "This project demonstrates how to access and test the Alexa Voice Service using a Java client (running on a Raspberry Pi), and a Node.js server.",
+		"post_date": "2016-09-03 20:11:25",
+		"url": "https://github.com/alexa/alexa-avs-raspberry-pi",
+		"blog_url": "",
+		"blog_rss_url": "",
+		"twitter_url": "",
+		"github_url": "",
+		"logo": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png",
+		"forks": "586",
+		"followers": "4445",
+		"watchers": "4445",
+		"tags": [
+			"Voice",
+			"GitHub"
+		]
+	},
+	{
+		"tool_id": "xqPr93fvbNgLOw116PaD1x21237Uva83N2Qzx5JqYUoIn116QRqMyuvO0jOUs4FGzDi9ol5AvYxweq3m42gbYlqRWxHg117117",
+		"name": "alexa-skills-kit-js",
+		"user": "amzn",
+		"details": "SDK and example code for building voice-enabled skills for the Amazon Echo.",
+		"post_date": "2016-09-03 20:13:05",
+		"url": "https://github.com/amzn/alexa-skills-kit-js",
+		"blog_url": "",
+		"blog_rss_url": "",
+		"twitter_url": "",
+		"github_url": "",
+		"logo": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png",
+		"forks": "557",
+		"followers": "494",
+		"watchers": "494",
+		"tags": [
+			"Voice",
+			"GitHub"
+		]
+	},
+	{
+		"tool_id": "65Lo1kfsr116ZIO2m3xW0zTH6BzKYYq3QJ1EYZ9avGEFJeSEWnej123BCFsz0MEEbc9bQos3omiXgA6o56tkaWzddQ117117",
+		"name": "betty",
+		"user": "SamyPesse",
+		"details": "Google Voice with Receptionist abilities, built on top of Twilio",
+		"post_date": "2016-09-03 20:12:43",
+		"url": "https://github.com/SamyPesse/betty",
+		"blog_url": "",
+		"blog_rss_url": "",
+		"twitter_url": "",
+		"github_url": "",
+		"logo": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png",
+		"forks": "42",
+		"followers": "841",
+		"watchers": "841",
+		"tags": [
+			"Voice",
+			"GitHub"
+		]
+	},
+	{
+		"tool_id": "Hoa5n4p15u1AvuVcwqq3yjz0GryFMkDI9HFtpFXb7c3gx2cPMCsdoiTxbsj2va7FBmsTIvywo7cFnw4K5M0j1g117117",
+		"name": "jasper-client",
+		"user": "jasperproject",
+		"details": "Client code for Jasper voice computing platform",
+		"post_date": "2016-09-03 20:11:37",
+		"url": "https://github.com/jasperproject/jasper-client",
+		"blog_url": "",
+		"blog_rss_url": "",
+		"twitter_url": "",
+		"github_url": "",
+		"logo": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png",
+		"forks": "742",
+		"followers": "3072",
+		"watchers": "3072",
+		"tags": [
+			"Voice",
+			"GitHub"
+		]
+	},
+	{
+		"tool_id": "TARNKEn3pnnSRvuEaSnWkY2tmK9RalJgziQ87fss5TB8CqZ0GJaWrQnBlbH7QBygbCoXOAgBUF8LgCIwCfVumA117117",
+		"name": "smart-mirror",
+		"user": "evancohen",
+		"details": "The fairest of them all. A DIY voice controlled smart mirror with IoT integration.",
+		"post_date": "2016-09-03 20:11:50",
+		"url": "https://github.com/evancohen/smart-mirror",
+		"blog_url": "",
+		"blog_rss_url": "",
+		"twitter_url": "",
+		"github_url": "",
+		"logo": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png",
+		"forks": "481",
+		"followers": "1468",
+		"watchers": "1468",
+		"tags": [
+			"Voice",
+			"GitHub"
+		]
+	},
+	{
+		"tool_id": "eF5BilpOqwBC42UC6sU1BivSKxyCxu2K8y2Y116O3e8K060NyeZBCKrmkWdLVHsrt1165epNJtr1162zlb2YHy7t73Pg117117",
+		"name": "voice-elements",
+		"user": "zenorocha",
+		"details": ":speaker: Web Component wrapper to the Web Speech API, that allows you to do voice recognition and speech synthesis using Polymer",
+		"post_date": "2016-09-03 20:12:32",
+		"url": "https://github.com/zenorocha/voice-elements",
+		"blog_url": "",
+		"blog_rss_url": "",
+		"twitter_url": "",
+		"github_url": "",
+		"logo": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png",
+		"forks": "229",
+		"followers": "1205",
+		"watchers": "1205",
+		"tags": [
+			"Voice",
+			"GitHub"
+		]
+	},
+	{
+		"tool_id": "XhJom5T1z8hcIPA2gtzhzrjufnm2ZIT5pL116Ml6JYMW8fKb116M1y21232MuP7ZmPhK45DhuSKU97KsKmjizhee116tDg117117",
+		"name": "voicechat",
+		"user": "plivo",
+		"details": "VoiceChat is a set of APIs to create conference rooms on the fly to be used in the browser. Its built using the Plivo WebSDK and APIs.",
+		"post_date": "2016-09-03 20:12:53",
+		"url": "https://github.com/plivo/voicechat",
+		"blog_url": "",
+		"blog_rss_url": "",
+		"twitter_url": "",
+		"github_url": "",
+		"logo": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png",
+		"forks": "118",
+		"followers": "786",
+		"watchers": "786",
+		"tags": [
+			"Voice",
+			"GitHub"
+		]
+	}
+]
