@@ -1,5 +1,173 @@
 [
 	{
+		"curated_id": "4o9gskP5ZCJcPN5ltYrvRj1KwN123L5hLf7DB2116300u27XiqxeERNF9OyLXPOAE7oSgNJmzDHtKHgPWoRbgG7rrA117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "Apples Siripowered Amazon Echo rival reportedly hits the prototype phase",
+		"url": "http://www.pcworld.com/article/3123541/home-tech/apples-siri-powered-amazon-echo-rival-reportedly-hits-the-prototype-phase.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BMHD0LHtk9nACbAHn8nFlKS8116116qqTFMGszLxkgSEY6ua123W116Y3RYmezMx88CTDnJPyNdNqR64SX116NbKAqYUvzrw117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "BigML for Alexa The First Voice Controlled Predictive Assistant",
+		"url": "https://blog.bigml.com/2016/09/22/the-first-voice-controlled-predictive-assistant/",
+		"domain": "blog.bigml.com",
+		"image": ""
+	},
+	{
+		"curated_id": "eFw1Ua60fagNFkHuN116L0GDMwMLc3A1qlBik3zam3k8du8288lBb1GFaQ6ZExAAWq8K0FjIcBvlb5EevQ1XABpQ117117",
+		"item_date": "2016-09-19 00:00:00",
+		"title": "Voice is chats next battleground",
+		"url": "https://techcrunch.com/2016/09/19/voice-is-chats-next-battleground/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BhQAAHqBvcUXPiQ8ILOJXmrNDhPnGdl116uAWaX100Kz3BncshbLRAeZShm123ZVBVuBA7hE8UO3AgN2iOZX6hilBg117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "Twilio Launches Voice Insights API to Monitor WebRTC Performance",
+		"url": "http://www.programmableweb.com/news/twilio-launches-voice-insights-api-to-monitor-webrtc-performance/brief/2016/09/21",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "86vSUmkf9oU9VRSjRkjuXQ116kYrz123X7OECV5oykybm8Ssnl9NJHdXzYSApNGrreEwK8L116Aq123Cc7iFrj7QbfellA117117",
+		"item_date": "2016-09-20 00:00:00",
+		"title": "Twilio launches Voice Insights API to monitor call quality",
+		"url": "http://www.zdnet.com/article/twilio-launches-voice-insights-api-to-monitor-call-quality/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "b3Mmdbt7Nx9WyD1169Kbljt4Wn2Czi1233HZXmU123N1161ncrpAKZVVkTD6e0kFWg8xUphOF116OS93GJk123Oit116DVc5v2cA117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "Alexa Fund Adds New Company to Portfolio by Taking Lead Investor Role in Nucleus",
+		"url": "https://developer.amazon.com/appsandservices/community/post/Tx1DD409MWE20LE/Alexa-Fund-Adds-New-Company-to-Portfolio-by-Taking-Lead-Investor-Role-in-Nucleus",
+		"domain": "developer.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "TkdXnD0s6uKlitvFzN8kpPzvVc3IyVQzWT0fNhc123FWsWCiEwz5hCIsmEUUDPR1qemupOgRMA1ZXhmqkhPUkCeQ117117",
+		"item_date": "2016-09-19 00:00:00",
+		"title": "Making Conversational Interfaces Easier to Build",
+		"url": "https://developers.googleblog.com/2016/09/making-conversational-interfaces-easier-to-build.html",
+		"domain": "developers.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "TP25CSBACQb123iMfCM3FUBaYlcoq8123sW7eVUsI4hO6MJulQ116y2zX7mwfx063oKTyvRBrawGOLDNCr629zfLLFYg117117",
+		"item_date": "2016-09-16 00:00:00",
+		"title": "Nexmo Voice",
+		"url": "http://www.programmableweb.com/api/nexmo-voice",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Fk4CqZLSkb123Fvu4ZlxJDR03JC123SyV531ZeLddEj9BGL1KXwdkVB8c123Tu4xnbokoO3Wvx26Wd8E2Z7VvP4yY5sA117117",
+		"item_date": "2016-09-13 08:58:38",
+		"title": "The Hitchhikers Guide to Twilio Programmable Voice",
+		"url": "https://www.twilio.com/blog/2016/09/hitchhikers-guide-to-twilio-programmable-voice.html",
+		"domain": "www.twilio.com",
+		"image": ""
+	},
+	{
+		"curated_id": "0kh1Ni6ssQsicKD1vjMU8XPFuNmsEgOM71htnoho1VYZW7K62qEWecgdOd6gnoyLiX5AZk0XktWnYNnz0Ya0Yw117117",
+		"item_date": "2016-09-16 00:00:00",
+		"title": "From Echo to Smart Home Skill Wemo is Still Switching on the Lights",
+		"url": "https://developer.amazon.com/appsandservices/community/post/Tx248Y8OC5W87ON/From-Echo-to-Smart-Home-Skill-Wemo-is-Still-Switching-on-the-Lights",
+		"domain": "developer.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Vxgx3Ihoiz40EmHopakUdMHhlWCzzh116GnRmnaIWvqKtWn123mHc116vcpJCJN8X6t2Xa123Szr7lnn123Jb8BFk1IY6ViQ117117",
+		"item_date": "2016-09-16 00:00:00",
+		"title": "Announcing the Winners of the Internet of Voice Challenge",
+		"url": "https://developer.amazon.com/appsandservices/community/post/Tx3HFBBGGPKDBNP/Announcing-the-Winners-of-the-Internet-of-Voice-Challenge",
+		"domain": "developer.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "02kWcz5CTsJ110znZEdif1UMQyJuUeK116fNyfnz123116reLt9mRorLbPGwReIDyPlPcg123AmQRQ116vXmilQ0116Qqx6gKw117117",
+		"item_date": "2016-09-14 00:00:00",
+		"title": "Alexa and Amazon Echo Now Available in the UK and Germany",
+		"url": "https://developer.amazon.com/appsandservices/community/post/Tx347QDN551BBTM/Alexa-and-Amazon-Echo-Now-Available-in-the-UK-and-Germany",
+		"domain": "developer.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Stsj9p9xulR29AYxNYT8NwUF43elX7YypflfJEJ66eVmO6WJZPG1234123aOQur3ENmu123SZEoB9S0l1167qL9EQOAhwg117117",
+		"item_date": "2016-09-14 00:00:00",
+		"title": "Vonage launches Nexmo Voice API to aid cloud communication for users",
+		"url": "http://techseen.com/2016/09/14/vonage-launches-nexmo-voice-api/",
+		"domain": "techseen.com",
+		"image": ""
+	},
+	{
+		"curated_id": "i1gFW6v8TpYfiXaWcdyR7U116LHMecf5YMVj7Fl154pz0A6WbpQr123UVOob4MXqFbUtnKWk3jsdKizLL10uK3V5dQ117117",
+		"item_date": "2016-09-14 00:00:00",
+		"title": "Vonage Launches NextGeneration Nexmo Voice API",
+		"url": "http://www.programmableweb.com/news/vonage-launches-next-generation-nexmo-voice-api/2016/09/14",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "mzXdtIjgxTjDGKPZmSCX123QZICPQe2YpeGQqXEW4123ajRdL4cncrPYjegrCT6ZnK5116g8bf80E5Q24gsvuttQWBAw117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "GE taps Amazons Alexa to provide voice control for its WiFiconnected appliances",
+		"url": "http://www.techhive.com/article/3118718/home-tech/ge-taps-amazons-alexa-to-provide-voice-control-for-its-wi-fi-connected-appliances.html#tk.rss_all",
+		"domain": "www.techhive.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ox7ommDP2V812307116fMvulkbrq7xih7VeTbE5s7SyQcs123K16ZbNVzmi9EFepvu1239awEABJaFPTR4PHIZ7123c0RV4A117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "GEs connected appliances can now talk to Amazons Alexa",
+		"url": "http://www.zdnet.com/article/ges-connected-appliances-can-now-talk-to-amazons-alexa/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "k1KrrGycIBS6UELyY116yQCJI83FKLdLmwzxAd15d1MDIyJdnWVyH116koumSA2MiGVq8Ddp1qwx47oWKVLM2I550A117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "Control GE Kitchen Appliances Via Voice With Alexa",
+		"url": "http://www.pcmag.com/news/347826/control-ge-kitchen-appliances-via-voice-with-alexa",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "aBQpSLwMe9123fm5yAnww116O116Ij116iuyQ63bPaCDm32DIZSzrdF1hwn0HA6116llQVlS2GL116Ld7nbL9x2116bSavMrYUNQ117117",
+		"item_date": "2016-09-09 00:00:00",
+		"title": "14YearOld Girl Creates CloudStatus Alexa Skill That Benefits AWS Developers",
+		"url": "https://developer.amazon.com/appsandservices/community/post/TxS5NKF0D8RVP2/14-Year-Old-Girl-Creates-CloudStatus-Alexa-Skill-That-Benefits-AWS-Developers",
+		"domain": "developer.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "yR5g6CUDTUN1eMvw9U123phxDPSGEIm4r7U1WPbs2NjdokfUu7jg6WMjfo1Ryo123ieSpsct6ofvaz2C5YhkLqK8rA117117",
+		"item_date": "2016-09-07 00:00:00",
+		"title": "New Video Using Speech Synthesis Markup Language SSML in Alexa Skills",
+		"url": "https://developer.amazon.com/appsandservices/community/post/Tx67FV39TX68ZP/New-Video-Using-Speech-Synthesis-Markup-Language-SSML-in-Alexa-Skills",
+		"domain": "developer.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "gmT116hV35iRoKJ6ZxYufb4SXw1KQ6ZnJhFHiYkhc27rG5UM1VVnYxMckL90lHwfwVMLxClkoAWJ116GGz0G116wbeyg117117",
+		"item_date": "2016-09-06 00:00:00",
+		"title": "LGs Amazon Echo competitor will have Alexa functionality AMZN",
+		"url": "http://www.businessinsider.com/lgs-amazon-echo-competitor-will-have-alexa-functionality-2016-9",
+		"domain": "www.businessinsider.com",
+		"image": ""
+	},
+	{
+		"curated_id": "275IEF1MsHqOYVxBMVU7ytV3IClnrSgoep8d44mHjeY2clQCzinA116CpMmsEaKIEBfNZ3tKVuppRurrh8HLNt1w117117",
+		"item_date": "2016-09-07 00:00:00",
+		"title": "Smartlyai  Allinone platform for voice and chatbots",
+		"url": "http://smartly.ai",
+		"domain": "smartly.ai",
+		"image": ""
+	},
+	{
 		"curated_id": "TXlYMQZRIvA15vjBYPvHR0fZyx5vAnJW123sAmjJq5j9qThhNK7maMj5b11Eqc6I5rzmhLj116uN9sEoYdeuAI8rAQ117117",
 		"item_date": "2016-09-03 11:41:48",
 		"title": "Voice Software As A Service  Least Cost Routing As A Service",
