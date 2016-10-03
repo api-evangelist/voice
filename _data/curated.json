@@ -1,5 +1,85 @@
 [
 	{
+		"curated_id": "bN0O4eJmRqFOAfuojrPqCSO0X5vEdvUb0UTxVdNd2gS8NpzP2116OE73kkzXuCdDpNC8vgFY5oRizxZB7X123Ub7Wg117117",
+		"item_date": "2016-09-29 22:30:28",
+		"title": "Conversational Experiences The Next Frontier in Consumer Experience",
+		"url": "http://www.metisstrategy.com/conversational-experiences-the-next-frontier-in-consumer-experience/",
+		"domain": "www.metisstrategy.com",
+		"image": ""
+	},
+	{
+		"curated_id": "mf9C8L7fLo96UjIS6XzZjRBJeCQZK4WdxY116VafswvqHe7vBrTNRfNG72FEh55IHCi7PsTrL116pxOabeH5Q42CYQ117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "Just Ask Lyft Its Great Having Alexa Along for the Ride",
+		"url": "https://developer.amazon.com/appsandservices/community/post/Tx21JPICDF6EETE/Just-Ask-Lyft-It-s-Great-Having-Alexa-Along-for-the-Ride",
+		"domain": "developer.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ZXXmSMktuKlvfkzMUZjeY7116iF2poJtSNRG1v1IJStP1WNwyj123uRelL0A7r3mqP123116wpvLzVYQzjOTU116jeZcnXFA117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "Amazon Launches 25 Million Alexa Prize Competition",
+		"url": "http://www.pcmag.com/news/348331/amazon-launches-2-5-million-alexa-prize-competition",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "eiLPsYYLnXYRrUAOBMczn123116lJWKPB26v2vENZZmBj4DbRQHy6GJBcRP80Wnhx2QOQVevXrpPKuMC6lQ86XKmbQ117117",
+		"item_date": "2016-09-30 00:00:00",
+		"title": "Amazon Offers 25M To Make Alexa Your Friend",
+		"url": "http://hackaday.com/2016/09/30/amazon-offers-2-5m-to-make-alexa-your-friend/",
+		"domain": "hackaday.com",
+		"image": ""
+	},
+	{
+		"curated_id": "8iZNdZqmaz123vXD7N2kg466DHDX78m4oySlx2chSMGVPT92QUjaa5uVdkZJ1T8Ut9cq123RPJeQ5mQD9c7frvi9Tw117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "Whats next for Siri",
+		"url": "http://www.macworld.com/article/3125495/os-x/whats-next-for-siri.html#tk.rss_all",
+		"domain": "www.macworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "9g2Vfxi8DJ2a8OXFC116eoEvGPvhwz1Wgvbi4tVLNYZtlIocXRRfRq1x0v6gXUaNgoUTZQKSVxsBzh3XuRhIXZ5w117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "First Annual Alexa Prize  25 Million to Advance Conversational AI",
+		"url": "https://aws.amazon.com/blogs/aws/first-annual-alexa-prize-2-5-million-to-advance-conversational-ai/",
+		"domain": "aws.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ZreosPE5Q123q81PY5IGDFjax6US9CDHncvYSVvKfWy31U55xlvWEtZd65jEEHnx46TLsMoGxewhLr116MJJlO4VZQ117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "Amazons new Fire TV Stick finally invites Alexa to the party",
+		"url": "http://thenextweb.com/gadgets/2016/09/28/amazons-new-fire-tv-stick-finally-invites-alexa-to-the-party/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "SRsZoQ8SEA116xSpzt123fQbKNIoHy6BzRy9QN51238DdYMK0NAj35YXPhctxkjUO3Mog3lIxoMzL3vhZy9SJNEBxWlg117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "Amazons faster new Fire TV Stick comes with an Alexaenabled voice remote",
+		"url": "http://www.pcworld.com/article/3124635/consumer-electronics/amazons-faster-new-fire-tv-stick-comes-with-an-alexa-enabled-voice-remote.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "iHaAc6V9sHKlKBay5123jtiIue77fj7116s7NhV123POudhkLQ3GZueU123ggJ0f123keOIiUCJZAo0jTgoUFfdLoyFsDrJw117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "Amazons New TV Streaming Stick Has EchoLike Voice Controls",
+		"url": "http://time.com/4511347/amazon-fire-tv-stick-2016/",
+		"domain": "time.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Xu1232tFddvS1a6eq2Zh5EUT8dkax123Zi116BmnBbRQBMR0wlveyjijmLVyeGeb4hJFYdvtjjyPjf9q7RnB3uj1236uTA117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "Introducing the AllNew Fire TV Stick with Alexa Voice Remote",
+		"url": "https://developer.amazon.com/appsandservices/community/post/Tx1W8FCB4UA5KIB/Introducing-the-All-New-Fire-TV-Stick-with-Alexa-Voice-Remote",
+		"domain": "developer.amazon.com",
+		"image": ""
+	},
+	{
 		"curated_id": "4o9gskP5ZCJcPN5ltYrvRj1KwN123L5hLf7DB2116300u27XiqxeERNF9OyLXPOAE7oSgNJmzDHtKHgPWoRbgG7rrA117117",
 		"item_date": "2016-09-23 00:00:00",
 		"title": "Apples Siripowered Amazon Echo rival reportedly hits the prototype phase",
@@ -53,14 +133,6 @@
 		"title": "Making Conversational Interfaces Easier to Build",
 		"url": "https://developers.googleblog.com/2016/09/making-conversational-interfaces-easier-to-build.html",
 		"domain": "developers.googleblog.com",
-		"image": ""
-	},
-	{
-		"curated_id": "TP25CSBACQb123iMfCM3FUBaYlcoq8123sW7eVUsI4hO6MJulQ116y2zX7mwfx063oKTyvRBrawGOLDNCr629zfLLFYg117117",
-		"item_date": "2016-09-16 00:00:00",
-		"title": "Nexmo Voice",
-		"url": "http://www.programmableweb.com/api/nexmo-voice",
-		"domain": "www.programmableweb.com",
 		"image": ""
 	},
 	{
