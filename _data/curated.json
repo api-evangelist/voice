@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "UJQoXbIAKOpgUBJNXX4xKLHSiQctuGoXA7SeuFTrBhRoNoc116UoPIdukXh116ctOQcFLaJhInBKPt330klwFbIQZw117117",
+		"item_date": "2016-10-07 00:00:00",
+		"title": "Rapidly Create Your Alexa Skill Backend with AWS CloudFormation",
+		"url": "http://developer.amazon.com/post/Tx27NAUCY0KQ34D/Rapidly-Create-Your-Alexa-Skill-Backend-with-AWS-CloudFormation",
+		"domain": "developer.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CsTDtciKqBGT0Y9116sG1Yb1p3L5C5osA3363iYq4UOVh1F9wZkc123ezYPRGOGqWqdnJBAA4MQk7UkBkP8rhP1lrg117117",
+		"item_date": "2016-10-07 00:00:00",
+		"title": "Googles VoiceActivated Future",
+		"url": "https://www.wired.com/2016/10/gadget-lab-podcast-290/",
+		"domain": "www.wired.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kM116hoexqpCwXDlKf2KlrGqkZ9bQSySvnVtWJ7t185g116LmmmAsnvPM9d3wfKfKX9537lCqJupABdmnxMoXDJBBQ117117",
+		"item_date": "2016-10-07 00:00:00",
+		"title": "Amazon wants to bring Alexa outside of the Echo AMZN",
+		"url": "http://feedproxy.google.com/~r/typepad/alleyinsider/silicon_alley_insider/~3/0Vui-VDUPfs/amazon-wants-to-bring-alexa-outside-of-the-echo-2016-10",
+		"domain": "feedproxy.google.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ZD7RFrr9VTsSmBzkavFHxwp74YHdH123EOgU8rTK8aZQpmkEDoFwOVMQhr5IVRueJ44hGevtXkC116csMDzf1lpOmQ117117",
+		"item_date": "2016-10-06 00:00:00",
+		"title": "Alexa Voice Service Introduces API Update that Makes It Easier to Build HandsFree Products",
+		"url": "http://developer.amazon.com/post/Tx1WVAG8L2OOXF0/Alexa-Voice-Service-Introduces-API-Update-that-Makes-It-Easier-to-Build-Hands-Fr",
+		"domain": "developer.amazon.com",
+		"image": ""
+	},
+	{
 		"curated_id": "Fp0lYqiZdvblFkObhbvbXUcoC7bhA7cbyJ56OFnaYTiaBtwFBVb7fyVFRUVF7sCbyeulQ123Sh1162mc6XBwQvUvGw117117",
 		"item_date": "2016-10-04 00:00:00",
 		"title": "Google Home is set to battle Amazons Echo for voice control of the smart home",
@@ -19,7 +51,7 @@
 		"curated_id": "HSKXqIxmaMvziOljPels8lir4auiF7sAcWjSM6UCLer1lZy123iYutlcZAOIuiDCJ123h73X85KSvsnLesnzjk0omg117117",
 		"item_date": "2016-10-04 00:00:00",
 		"title": "Hackster Live and Amazon Alexa",
-		"url": "http://developer.amazon.com/post/Tx2V9RY8I9J1XZL/Hackster-Live-and-Amazon-Alexa",
+		"url": "https://developer.amazon.com/appsandservices/community/post/Tx2V9RY8I9J1XZL/Hackster-Live-and-Amazon-Alexa",
 		"domain": "developer.amazon.com",
 		"image": ""
 	},
