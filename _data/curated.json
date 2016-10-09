@@ -3,7 +3,7 @@
 		"curated_id": "UJQoXbIAKOpgUBJNXX4xKLHSiQctuGoXA7SeuFTrBhRoNoc116UoPIdukXh116ctOQcFLaJhInBKPt330klwFbIQZw117117",
 		"item_date": "2016-10-07 00:00:00",
 		"title": "Rapidly Create Your Alexa Skill Backend with AWS CloudFormation",
-		"url": "http://developer.amazon.com/post/Tx27NAUCY0KQ34D/Rapidly-Create-Your-Alexa-Skill-Backend-with-AWS-CloudFormation",
+		"url": "https://developer.amazon.com/appsandservices/community/post/Tx27NAUCY0KQ34D/Rapidly-Create-Your-Alexa-Skill-Backend-with-AWS-CloudFormation",
 		"domain": "developer.amazon.com",
 		"image": ""
 	},
@@ -27,7 +27,7 @@
 		"curated_id": "ZD7RFrr9VTsSmBzkavFHxwp74YHdH123EOgU8rTK8aZQpmkEDoFwOVMQhr5IVRueJ44hGevtXkC116csMDzf1lpOmQ117117",
 		"item_date": "2016-10-06 00:00:00",
 		"title": "Alexa Voice Service Introduces API Update that Makes It Easier to Build HandsFree Products",
-		"url": "http://developer.amazon.com/post/Tx1WVAG8L2OOXF0/Alexa-Voice-Service-Introduces-API-Update-that-Makes-It-Easier-to-Build-Hands-Fr",
+		"url": "https://developer.amazon.com/appsandservices/community/post/Tx1WVAG8L2OOXF0/Alexa-Voice-Service-Introduces-API-Update-that-Makes-It-Easier-to-Build-Hands-Fr",
 		"domain": "developer.amazon.com",
 		"image": ""
 	},
@@ -61,6 +61,30 @@
 		"title": "Google Home Is Finally Ready to Rumble With Amazon Echo",
 		"url": "https://www.wired.com/2016/10/google-home-price-availability/",
 		"domain": "www.wired.com",
+		"image": ""
+	},
+	{
+		"curated_id": "OxV5rl81o0hhqBy4qkk9Pgz6kKFU123EEtu6AblNNpHjy0H2oGIBbSEkhhwDNxNtjl7WAz4123JKth123zdd87LgFOKw117117",
+		"item_date": "2016-10-03 00:00:00",
+		"title": "KIRO7 in the News Elevating Flash Briefing on Alexa to an Audio Artform",
+		"url": "https://developer.amazon.com/appsandservices/community/post/Tx3D6L3NB0D8A59/KIRO7-in-the-News-Elevating-Flash-Briefing-on-Alexa-to-an-Audio-Artform",
+		"domain": "developer.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "W123pbdeNzMTxTl0NBhxy2hTYiUpi4EhO8Ox39oB9JVoAuo2vEu9GRnWNxA4LrgM116y27VVGHSqzVo9Fm123KbuUBfw117117",
+		"item_date": "2016-10-03 00:00:00",
+		"title": "Amazon Enables Developers to Extend Alexas Flash Briefing  a New Addition to the Alexa Skills Kit",
+		"url": "https://developer.amazon.com/appsandservices/community/post/TxKJ2OU7KQI6E4/Amazon-Enables-Developers-to-Extend-Alexa-s-Flash-Briefing-a-New-Addition-to-the",
+		"domain": "developer.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "r30hd1HyIZGvQM0NCjiZC0wNNRrLPxDQ123GkcqCqlWLK3N123R70in5BY123RrUcM1238Fa1236Dc75Ss116oJE116tx7jURdxA117117",
+		"item_date": "2016-10-03 00:00:00",
+		"title": "Googles Slow Response to Amazons Echo is a Warning",
+		"url": "http://www.nytimes.com/2016/10/04/technology/daily-report-googles-slow-response-to-amazons-echo-is-a-warning.html",
+		"domain": "www.nytimes.com",
 		"image": ""
 	},
 	{
