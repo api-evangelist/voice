@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "KtnaShw60NrxwdwU40XSDwi7TLOY3123cXinBlPjHA9qcSoew116OmrEi67echc9jcSu2lazMw123MdH43iA8Oo4l3sA117117",
+		"item_date": "2016-10-10 00:00:00",
+		"title": "Amazon Updates Alexa Voice Service API",
+		"url": "http://www.programmableweb.com/news/amazon-updates-alexa-voice-service-api/brief/2016/10/10",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "0lAs6gKhI4WCcIUcnHhiP123R5z6DJeVEkLSxOZie2PyZMG4Zm1238S5mh09asQmwrhNgE9Ed8peA1YeZb1R1qhEtg117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "Amazon Opens Beta For Alexa List Skills API",
+		"url": "http://www.programmableweb.com/news/amazon-opens-beta-alexa-list-skills-api/2016/10/13",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ELs7NRWEmBbJtw6CMAzY9xILLB6bY7rmADGYSA2896H1vIWHkjgBJn0pLi123CtqqKVf26TWr123b019q5tdXGfcSg117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "Amazon Enables Developers to Extend Shopping and Todo List Capabilities",
+		"url": "https://developer.amazon.com/appsandservices/community/post/TxJHHV2O3Z9IFS/Amazon-Enables-Developers-to-Extend-Shopping-and-To-do-List-Capabilities-a-New-A",
+		"domain": "developer.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uzpuWEqwzJoPyXThTs123naE7xe9Z0l23RCmSkwPm0OC66zEA123SV7G902I1TszeadXGFz3641N4NTeLqlkiU1236Vw117117",
+		"item_date": "2016-10-11 00:00:00",
+		"title": "Alexa and LIFX Helping the Smart LED Bulbs Shine even Brighter",
+		"url": "https://developer.amazon.com/appsandservices/community/post/Tx2A7SS320GLW0X/Alexa-and-LIFX-Helping-the-Smart-LED-Bulbs-Shine-even-Brighter",
+		"domain": "developer.amazon.com",
+		"image": ""
+	},
+	{
 		"curated_id": "UJQoXbIAKOpgUBJNXX4xKLHSiQctuGoXA7SeuFTrBhRoNoc116UoPIdukXh116ctOQcFLaJhInBKPt330klwFbIQZw117117",
 		"item_date": "2016-10-07 00:00:00",
 		"title": "Rapidly Create Your Alexa Skill Backend with AWS CloudFormation",
