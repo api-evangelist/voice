@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "m116aY123YMagRKCWP7jOGX3kJm3123AamhZrrGAwWYXfp8Vmtb2HCDZ123hrjikSVGqP116rrpQGvVFolSwRa7fxbmau116Ww117117",
+		"item_date": "2016-10-17 00:00:00",
+		"title": "Creating a compassionate conversational agent using Watson Tone Analyzer and Watson Conversation services",
+		"url": "https://developer.ibm.com/watson/blog/2016/10/17/creating-a-compassionate-conversational-agent-using-watson-tone-analyzer-and-watson-conversation-services/",
+		"domain": "developer.ibm.com",
+		"image": ""
+	},
+	{
+		"curated_id": "nrvBnOcUi3mXN8QbbO2yFYho82j3aTIcbL8BSvNO4gmBhbCLYJhiM825JWnpjFk1160WsnuHdHBN6hIlD1LVlupg117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Microsoft reaches human parity with new speech recognition system",
+		"url": "http://www.theverge.com/2016/10/18/13326434/microsoft-speech-recognition-human-parity",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ylrlbWtRc1fNCLyEnpngizVlYOyX4dvUERgA38NJjI6WyEKnv0b2xfDrRcK7iUdTZHCwQQFMmiQ3xSheP5MFRg117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Microsoft has hit a milestone in voice recognition MSFT",
+		"url": "http://www.businessinsider.com/microsoft-hits-a-milestone-in-voice-recognition-2016-10",
+		"domain": "www.businessinsider.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BZAo123123TP7ey1bHrOffcurAfTE116jGG6hcXsdLVC5k7ZB6B1KEtCNtGdfv0OuiIBuzvteID1toLtW0JxFDWawSdA117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Microsofts speech recognition is now just as accurate as humans",
+		"url": "http://thenextweb.com/microsoft/2016/10/18/microsofts-speech-recognition-is-now-just-as-accurate-as-humans/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "zuYFuz8jsdflsncLUeQw116rInZiFqrH28CsYB9DorEr8Uvuq9yQb123nQycjDyMuMcCVIEKaOTAi123xDCKrh7lCk0w117117",
+		"item_date": "2016-10-17 00:00:00",
+		"title": "Apple Recruits Scientists to Bolster AI Research Siri",
+		"url": "http://www.pcmag.com/news/348763/apple-recruits-scientists-to-bolster-ai-research-siri",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
 		"curated_id": "KtnaShw60NrxwdwU40XSDwi7TLOY3123cXinBlPjHA9qcSoew116OmrEi67echc9jcSu2lazMw123MdH43iA8Oo4l3sA117117",
 		"item_date": "2016-10-10 00:00:00",
 		"title": "Amazon Updates Alexa Voice Service API",
