@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "h1T0N8XPqTWVfRA6VHnIP1mulKEn123FVNTo4S3KDeL0VzVsKRvP64H2ySN8J123Lxa5gTIffH7msEcqSiQ3M90123UQ117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "Voice Control Belkin Wemo Devices with the Alexa Voice Service",
+		"url": "http://developer.amazon.com/post/Tx383SLN15L0L30/Voice-Control-Belkin-Wemo-Devices-with-the-Alexa-Voice-Service",
+		"domain": "developer.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "vIqhgvP4If5dpV7K7wFQ6YUWkZIBnKRiWRwMoFn3ObGAzJL123euogHqJxZfKl6dSM6h1237QY1238DbOroWkjyb6nyA117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "Knuverse Unveils Speech Verification Platform",
+		"url": "http://www.speechtechmag.com/Articles/News/Speech-Technology-News-Features/KnuVerse-Unveils-Speech-Verification-Platform-114509.aspx",
+		"domain": "www.speechtechmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "grzfhfOgHHDgzz7I75RU2ubdqEPkRJ456OdUoX3QZKiC5aICpMB0KT9M6634f2qQH04YcfSIUnMq8YARZWna4g117117",
+		"item_date": "2016-11-04 00:00:00",
+		"title": "Introducing Detail Pages on Amazoncom to Increase Discovery and Use for Your Alexa Skills",
+		"url": "https://developer.amazon.com/appsandservices/community/post/Tx12VWH3AGMGPYY/Introducing-Detail-Pages-on-Amazon-com-to-Increase-Discovery-and-Use-for-Your-Al",
+		"domain": "developer.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "FoBPh5sLLP9F7hroI123Ow5uxWrSv0odSmrOLjHD5byJij1163h5zrZ3FjVJWwNJ2G2YI3C7ha4EOeF4ykCT8P7Qnw117117",
+		"item_date": "2016-11-05 04:45:47",
+		"title": "Man hacks Alexa into singing fish robot terror ensues  The Verge",
+		"url": "http://www.theverge.com/2016/11/4/13525172/amazon-alexa-big-mouth-billy-bass-hack-api",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
 		"curated_id": "m116aY123YMagRKCWP7jOGX3kJm3123AamhZrrGAwWYXfp8Vmtb2HCDZ123hrjikSVGqP116rrpQGvVFolSwRa7fxbmau116Ww117117",
 		"item_date": "2016-10-17 00:00:00",
 		"title": "Creating a compassionate conversational agent using Watson Tone Analyzer and Watson Conversation services",
