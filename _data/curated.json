@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "XhBHn11FkY2I5epYEf8flQ116nvCx3XSvkHOpvO4PcznISWekYsn6ugq41Qj9vOQ3QsvHFPhCuGJ0Ri3A0EnDUxQ117117",
+		"item_date": "2017-01-13 00:00:00",
+		"title": "How to Stop the Amazon Echo From Buying Stuff",
+		"url": "http://feedproxy.google.com/~r/timeblogs/nerd_world/~3/yFW7bdbnrWI/",
+		"domain": "feedproxy.google.com",
+		"image": ""
+	},
+	{
+		"curated_id": "p75veHhwITkJ123vUHoiEVtFpZ33yjwzaHM8ssBuXFL65xJb55dJAyL0Ae4sPhM0MSV11xrcu7RtGuUvmIpFo8Sg117117",
+		"item_date": "2017-01-13 00:00:00",
+		"title": "Sonos needs voice control and not just Alexa",
+		"url": "http://www.macworld.com/article/3157451/software-music/sonos-needs-voice-control-and-not-just-alexa.html#tk.rss_all",
+		"domain": "www.macworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Tw3Wugov2b0l0j73NW13LVG1231Y13JXRttmrmYcmswfoW3PRunIwVGNaCkrTBbE0IVofPUT8PQ6i4Z6ijMRrCJQ117117",
+		"item_date": "2017-01-11 00:00:00",
+		"title": "Adobe is working on a voiceactivated digital assistant that can edit pictures for you",
+		"url": "http://www.theverge.com/2017/1/11/14242042/adobe-research-voice-control-ai-assistant-edit-photos",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Laa5pMEWX5Jo123uYNgoLWPglWyE3eAnygpTsM4BLANuEihRC116ormw6i9ZuUZ17t1mREmR9I5pWH7dyWJZkOvzLg117117",
+		"item_date": "2017-01-11 00:00:00",
+		"title": "Adobe video envisions AI helper for editing photos and other media",
+		"url": "https://techcrunch.com/2017/01/11/adobe-video-envisions-ai-helper-for-editing-photos-and-other-media/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
 		"curated_id": "LY0kdS9h123D2CrkfapKAaDaw123M8QkyjKpRa2xI8ArNnQEDRUZ4pIdmfP8wSnILLUIs2RcWIMGFhkjTLrbltHVvA117117",
 		"item_date": "2017-01-03 00:00:00",
 		"title": "Twilio API Profile Add Voice Calls and Messaging to Your App",
