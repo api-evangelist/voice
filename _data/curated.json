@@ -1,10 +1,26 @@
 [
 	{
+		"curated_id": "1h116wxB38rNslxBsE4gT6p8GjGFsfSA5dtx3bTorB09fjINMfIaaMw123BJxnnLwP9iarqZX0rjtkTDK6zf7kZIfA117117",
+		"item_date": "2017-02-24 00:00:00",
+		"title": "An Alexa Project Name Generator on OpenWhisk",
+		"url": "https://dzone.com/articles/an-alexa-project-name-generator-on-openwhisk",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "gUIH0vD4123k8jsB68elO9VKVgv4SzNs9qBmrvIU8GrAi9dJk7f1167iiDuFYT7ys5123LiwpQgdHqgWXX9123q7a116Tc1w117117",
 		"item_date": "2017-02-24 00:00:00",
 		"title": "Amazon Alexa Has More Skills Than You Do",
-		"url": "http://feedproxy.google.com/~r/ProgrammableWeb/~3/zdKvs_QF62Y/24",
-		"domain": "feedproxy.google.com",
+		"url": "https://www.programmableweb.com/news/amazon-alexa-has-more-skills-you-do/2017/02/24",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "my2Z5jv116eWR7116YW9a1uSWpqSvjBd0AZoRlxrOceOnqrlRYfXSjETGmo3H2123m8XhL6CYkAwhtw1Gf1FXd1wfgog117117",
+		"item_date": "2017-02-21 00:00:00",
+		"title": "Voice recognitions surprise pitfall aging customers",
+		"url": "https://www.americanbanker.com/news/voice-recognitions-surprise-shortcoming-aging-customers",
+		"domain": "www.americanbanker.com",
 		"image": ""
 	},
 	{
@@ -19,8 +35,8 @@
 		"curated_id": "116x3yoPvj1yImDmANEY5PAWiN116tzeKZ8yljJ2nFYsmRdoHcMBwDowICnsdy1bmbUNEm3RO3McZ1yJq7k3NruABg117117",
 		"item_date": "2017-02-23 00:00:00",
 		"title": "Amazon cites First Amendment protection for Alexa in Arkansas murder case",
-		"url": "http://feedproxy.google.com/~r/Techcrunch/~3/GQhuqErVMk8/",
-		"domain": "feedproxy.google.com",
+		"url": "https://techcrunch.com/2017/02/23/alexa-free-speech/",
+		"domain": "techcrunch.com",
 		"image": ""
 	},
 	{
@@ -37,6 +53,30 @@
 		"title": "Amazon resorts to First Amendment to protect Alexa recordings in murder trial",
 		"url": "https://thenextweb.com/apps/2017/02/24/amazon-alexa-murder-trial/",
 		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GnZmuk1164FfBrNnioNQ6i3F116dmapbPrefyiF7C8GpLG8ujw116BVvGunwVCOJrG0O8GMjV116bySqqk4X4BSmcrO51g117117",
+		"item_date": "2017-02-22 00:00:00",
+		"title": "Voysis raises 8 million to help it become the Twillio of voice AI",
+		"url": "https://techcrunch.com/2017/02/22/voysis-raises-8-million-to-help-it-become-the-the-twillio-of-voice-ai/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "123WlOM1234mKaOZRinQt6GK5c123FpfjVuiuancXazaOXCJxuhPXnBNHe7qxYuKYAuCIO12375PKgiIQLd123blwc3EFfwg117117",
+		"item_date": "2017-02-22 00:00:00",
+		"title": "Speak Up Ransomware Attack Uses Voice Recognition",
+		"url": "http://www.darkreading.com/endpoint/speak-up-ransomware-attack-uses-voice-recognition-/d/d-id/1328235",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "E116aOiR3bHsyeWcWlqL57vxoOSjBBNfnY6qJOs5bUzw4Un6DND123IVbRZlYIvDXKevBm3OLTXJhBRUAlGYoppGQA117117",
+		"item_date": "2017-02-20 21:33:39",
+		"title": "How to create a custom private Google Home Action with APIAI and Google App Engine",
+		"url": "https://medium.com/@saracraba/how-to-create-a-custom-private-google-home-action-260e2c512fc#.5ddxqau5v",
+		"domain": "medium.com",
 		"image": ""
 	},
 	{
