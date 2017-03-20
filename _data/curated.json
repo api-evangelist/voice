@@ -1,5 +1,69 @@
 [
 	{
+		"curated_id": "fR0y116VsflZ7P8bxUoRvbOhi11602BsGlDS4jwihEwhQeZQior3XtRO1wbjLWDhJonK5r7L123lGy123ZvN1XHFKMkdQA117117",
+		"item_date": "2017-03-14 00:00:00",
+		"title": "iRobot adds Alexa integration analytics to smart home",
+		"url": "http://feedproxy.google.com/~r/zdnet/BTL/~3/cuZVvSq9jgE/",
+		"domain": "feedproxy.google.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hd1Gtt910VRFZVm0IIARCmTJ9116SpBOq2VLJxj0XxA0KuBdxHe3P9GFzH8L3116jcnxbp6ZtIaqFoME5o5B116BdKZw117117",
+		"item_date": "2017-03-14 00:00:00",
+		"title": "Interactive fiction and the origins of the conversational interface",
+		"url": "https://techcrunch.com/2017/03/14/interactive-fiction-and-the-origins-of-the-conversational-interface/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "MKLdqCBxdpyU123AtqpKyUdKb12v25cmapHO7oYHvPFZweF123mMQ4Wb0jlfOm2ZN2QdQ6PuD7PTVylGYHPFE5M2qg117117",
+		"item_date": "2017-03-14 00:00:00",
+		"title": "OK Google How Do I Optimize My Site for Voice Search",
+		"url": "http://www.wordstream.com/blog/ws/2017/03/14/google-voice-search",
+		"domain": "www.wordstream.com",
+		"image": ""
+	},
+	{
+		"curated_id": "y2VUnsJYq8UO116qPWseUfYaTDGEyG14KtTa123GtBnyvUUF2Aleo5NB1234igSGvU5WmHzqQw4YJIZ123WtsoLchUF3Lg117117",
+		"item_date": "2017-03-15 00:00:00",
+		"title": "Amazon makes it cheaper to host Alexa skills on AWS",
+		"url": "http://www.zdnet.com/article/amazon-makes-it-cheaper-to-host-alexa-skills-on-aws/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "LdAmLs3yb2elTOkxqIAyJXurlcKmv7nlsn41Lr3aAR116jWFgrlWcVGb4lNhecAamQFMOozvYYxNyb7lbhVLjHWA117117",
+		"item_date": "2017-03-18 00:00:00",
+		"title": "Hosting Alexa Skills on AWS is Almost Free Now",
+		"url": "https://www.infoq.com/news/2017/03/amazon-alexa-host-promotion",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "z1GZTT8V3clJh18dw92Rm0BIbrXtMFkn99KB1Vh26VD12DFcjAEHxKCcTv9urEGdR0ifUtkreiTKVWzWdL7aSQ117117",
+		"item_date": "2017-03-17 00:00:00",
+		"title": "Siris Not Even the Best iPhone Assistant Anymore",
+		"url": "https://www.wired.com/2017/03/siris-not-even-best-iphone-assistant-anymore/",
+		"domain": "www.wired.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PGtGahqG0yg2A0UynpDlApnGJEGYvnoxj123PwtmWePIhlRiSvVcqWEnnKHkqz6vXfkfGsE7YGRS0eJwvvBZkngA117117",
+		"item_date": "2017-03-15 00:00:00",
+		"title": "AWS offers Alexa developers free cloud credits",
+		"url": "http://www.pcworld.com/article/3181368/cloud-computing/aws-offers-alexa-developers-free-cloud-credits.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "gLkrg5zS1NgGtPR1KEw3R3kY6lZI971116uc123Fp7t4A0CXp6qYgH84i116123123ANZWhVFlhUejaaZDfAaHPMl116lhRrOg117117",
+		"item_date": "2017-03-15 00:00:00",
+		"title": "Skull Hacked So That It Responds as Amazon Alexa",
+		"url": "https://blog.adafruit.com/2017/03/15/skull-hacked-so-that-it-responds-as-amazon-alexa/",
+		"domain": "blog.adafruit.com",
+		"image": ""
+	},
+	{
 		"curated_id": "CiG0jd6jCTmflUV4EKGbDRRrA1Htia1LyMhv03YuDV7xct8jbZAGwh2QuOfnZGt116D1u8aOX67rIYV9QeWvalwA117117",
 		"item_date": "2017-03-10 00:00:00",
 		"title": "Why Alexa and Siri would make terrible companions",
