@@ -1,5 +1,53 @@
 [
 	{
+		"curated_id": "N7Kyjdw1D2qVWYttXYHLev7r1KFdPUxxiv34i22d0Vhmb740iIKM4cOQSu123QTUrgliLCytlsmxcdj16W0S96Nw117117",
+		"item_date": "2017-04-03 00:00:00",
+		"title": "How To Build A SpeechControlled Drone And Other Bots For Enterprises",
+		"url": "https://www.built.io/blog/how-to-build-a-speech-controlled-drone-and-other-bots-for-enterprises",
+		"domain": "www.built.io",
+		"image": ""
+	},
+	{
+		"curated_id": "Q0pwM4tRN2KD6ZHLAVSCyQFVVgaI9GqIcEwAcMDwz2IW1U123iVWPj4i4Lxi116eok6as8bRUOwcWQ6QbU4Noml9DA117117",
+		"item_date": "2017-04-07 00:00:00",
+		"title": "Amazon turns to locationbased APIs for Alexa AMZN",
+		"url": "http://ramialkarmi.com/post/159303039143/amazon-turns-to-location-based-apis-for-alexa",
+		"domain": "ramialkarmi.com",
+		"image": ""
+	},
+	{
+		"curated_id": "LIW7jPBn5XuQMwpFsOteLM8zr116UHLuSqUvemzmTERxGJ1168N50C0mejK1239k39y123IKlf116kEPlJ116tVGn1qRt11Irg117117",
+		"item_date": "2017-04-07 00:00:00",
+		"title": "Amazon Adds Device Address API to Alexa",
+		"url": "http://feedproxy.google.com/~r/ProgrammableWeb/~3/m-eHXLzmtTA/07",
+		"domain": "feedproxy.google.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ajMApJ9O6xCSNqsHmQu116tVNQ4U1yez1VmJKPIbVxfNh7jICp4dW6SWLM6eHoxQoToN9KVswrUjXKYYIxanZMDA117117",
+		"item_date": "2017-04-06 00:39:30",
+		"title": "Amazon rolls out new Alexa dashboard and device address API",
+		"url": "http://www.zdnet.com/article/amazon-rolls-out-new-alexa-dashboard-and-device-address-api/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "utMaRvZVA123x79gY2Mxyar9jvqamKbRK2HX6xlm0dbAPFhFKpfKwD29z116VkifU6ZkqX0DUtwU6ZJLZYcSnfb1233g117117",
+		"item_date": "2017-04-06 00:00:00",
+		"title": "Apple May Turn Siri Into a Voice Security Guard",
+		"url": "http://www.pcmag.com/news/352865/apple-may-turn-siri-into-a-voice-security-guard",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hsLitir4yBKUVQfeJcwd8M2m9fjEzMa0PqqP0LQrEowMNVFuJ6quCQoZOmR2w97oRnU9k7h9QXk0v4ap90CZmQ117117",
+		"item_date": "2017-04-05 00:00:00",
+		"title": "Amazon rolls out new Alexa dashboard and device address API",
+		"url": "http://www.zdnet.com/article/amazon-rolls-out-new-alexa-dashboard-and-device-address-api/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
 		"curated_id": "JgTOmbUe3MCyvdh8yTq4XU9a9eqoIlNcSzE08lw1161KHOUm9123lWXz7aXPugNVEFw3B7oX1R5mgyDGxERpUhWfwg117117",
 		"item_date": "2017-03-22 00:00:00",
 		"title": "Huawei starts delivering Alexa to its Mate 9 handsets",
