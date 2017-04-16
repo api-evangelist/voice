@@ -3,15 +3,23 @@
 		"curated_id": "Q1eyWOMgjzKC5gAgr5wo7XPS8PmfW2IqW123rFmcCFc3ACLAb3uJiJN2iTyFW1Gu5I1169dIIjUuwQppvFs081uaUA117117",
 		"item_date": "2017-04-14 00:00:00",
 		"title": "Amazon Echo vs Google Home Which Voice Controlled Speaker Is Best for You",
-		"url": "http://thewirecutter.com/reviews/amazon-echo-vs-google-home/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+		"url": "http://thewirecutter.com/reviews/amazon-echo-vs-google-home/",
 		"domain": "thewirecutter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ATnxSjGRBHTD4n3Mdu9wAWQ7lWxL5jeF7ANBlEk116LIW89nN6fI5qY8lE44zIZUdHVF0v123agVqVMwTBV4KZrpoQ117117",
+		"item_date": "2017-04-12 00:00:00",
+		"title": "WTF Just Happened Today available as an Amazon skill",
+		"url": "http://boingboing.net/2017/04/12/wtf-just-happened-today-availa.html",
+		"domain": "boingboing.net",
 		"image": ""
 	},
 	{
 		"curated_id": "glYoW116yMMXdKFWocgThSOADWgXPbmcovg13H8P123jDaPappwmCOB3v116W116Guw2r123P25xTNezvaTtcTlusd6TLzSg117117",
 		"item_date": "2017-04-13 00:00:00",
 		"title": "Amazon Offers Echos Voice Recognition Tech to Devs",
-		"url": "http://www.pcmag.com/news/353052/amazon-offers-echos-voice-recognition-tech-to-devs?source=SectionArticles",
+		"url": "http://www.pcmag.com/news/353052/amazon-offers-echos-voice-recognition-tech-to-devs",
 		"domain": "www.pcmag.com",
 		"image": ""
 	},
@@ -19,7 +27,7 @@
 		"curated_id": "LhOO8y9Nf79LtDkoNWMUyjhKe6P1x9hMR116frSQ5tROKPivbzMOslQDY116wYXBLqLTvf3AZqwPz526ZgzmSKn15Q117117",
 		"item_date": "2017-04-13 00:00:00",
 		"title": "Burger King Ad Hijacks Google Home",
-		"url": "http://www.pcmag.com/news/353033/this-burger-king-ad-will-hijack-your-google-home?source=SectionArticles",
+		"url": "http://www.pcmag.com/news/353033/this-burger-king-ad-will-hijack-your-google-home",
 		"domain": "www.pcmag.com",
 		"image": ""
 	},
@@ -32,11 +40,75 @@
 		"image": ""
 	},
 	{
+		"curated_id": "h116Mex0B8gzvG4Icir4NpkSXZO480ktynYjTiCp35rJRKDSZazyf9rRcPKBKiMbmG8IxAgY0HVfpoGNgleY82xA117117",
+		"item_date": "2017-04-13 00:00:00",
+		"title": "The 3 ways Amazons Alexa could snag 10 billion in revenue by 2020 AMZN",
+		"url": "http://www.businessinsider.com/amazons-alexa-echo-revenue-estimate-by-2020-2017-4",
+		"domain": "www.businessinsider.com",
+		"image": ""
+	},
+	{
 		"curated_id": "oBuaemimoqrIE3mGo8SIIKxg9kLFMBK116KK6B4PlkFjRtFZQva6p9EchSxvRoiAGlOax39TaHvUmWUkks59lxqg117117",
 		"item_date": "2017-04-13 00:00:00",
 		"title": "Amazon offers Echos excellent voice recognition tech to other device makers",
 		"url": "https://techcrunch.com/2017/04/13/amazon-offers-echos-excellent-voice-recognition-tech-to-other-device-makers/",
 		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "o5zXxsdmsWx2JkpWVdpC7gaau7jyt8eErRHa7fXq2X8QtGY78zxGRPEungDmvNkg123yutHWtNxnAzOpYzdYdUwg117117",
+		"item_date": "2017-04-13 00:00:00",
+		"title": "New Whopper burger advert gets Google Home to sell it to you",
+		"url": "https://disruptiveviews.com/whopper-advert-google-home/",
+		"domain": "disruptiveviews.com",
+		"image": ""
+	},
+	{
+		"curated_id": "RsKc8yGGhzHjBMe12V3IPYU9123u6h927T9anV0OYFn1rpvociBtzTHEaPgh088prWak51lDv2j39366hBJ123moiw117117",
+		"item_date": "2017-04-10 00:00:00",
+		"title": "Amazons Alexa turns on Ford cars engine",
+		"url": "http://www.bbc.co.uk/news/technology-39559512",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "ggLeiY5PASsEj9n7MKDPNe12397cmzB123sRsWHklPWlYMrpRFn7ZD7OpOSB9Q9Vs1231VuWF5YqF613r6R5OXYekSFA117117",
+		"item_date": "2017-04-12 00:00:00",
+		"title": "Pollexy  Building a Special Needs Voice Assistant with Amazon Polly and Raspberry Pi",
+		"url": "https://aws.amazon.com/blogs/aws/pollexy-building-a-special-needs-voice-assistant-with-amazon-polly-and-raspberry-pi/",
+		"domain": "aws.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GQG79U4qV4wyTEwJ6ovR08ha1NuaPvM3EAxEAz4m3oqKJ7r08IPqU7raf9zpbWjKhqIzWWyGAhnJhvXTYjWAhg117117",
+		"item_date": "2017-04-11 00:00:00",
+		"title": "Go Ask Oprah The O Comes to Alexa",
+		"url": "http://blogs.forrester.com/james_mcquivey/17-04-11-go_ask_oprah_the_o_comes_to_alexa",
+		"domain": "blogs.forrester.com",
+		"image": ""
+	},
+	{
+		"curated_id": "wEG235m68bl7VqpZthcboYI116o1yDIoyTj48QiVXCvOkWaoJVtO8Oxio99u8uyIXfcobQKfJPOTJy116SsnAm56ag117117",
+		"item_date": "2017-04-12 00:00:00",
+		"title": "Samsungs Bixby Assistant Wont Support Voice Commands When Galaxy S8 Launches",
+		"url": "http://www.theverge.com/2017/4/11/15266028/samsung-galaxy-s8-bixby-assistant-launch-voice-support",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "RcNQnkvB3oBxQtnJkiCb3S62ePL1UgI5D5H7rlfbdto84iM5lsWNIJuYt50R123hDHRNS116vS4m3VhZNweXeJohmA117117",
+		"item_date": "2017-04-12 00:00:00",
+		"title": "Dont run commercials designed to trigger smart assistants",
+		"url": "https://techcrunch.com/2017/04/12/no-thank-you/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "z5Zy8PE6BABLeycfeJmmO6SSLYrfFRimjipmqwH9RYKt51tERaNtIuuOKlIln123Ux8kroQv3mbJ1nPQOWFvISNw117117",
+		"item_date": "2017-04-11 00:00:00",
+		"title": "Doc Pops News Drop A WordPress plugin for Amazons Alexa",
+		"url": "https://torquemag.io/2017/04/doc-pops-news-drop-wordpress-skill-amazons-alexa/",
+		"domain": "torquemag.io",
 		"image": ""
 	},
 	{
