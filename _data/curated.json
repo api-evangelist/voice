@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "e6yPUfUYuU7nWQ3tuZ36P7W7pP123HbXbjuq1KtrESS8WWGXCa0eyM53edzgMx44qeQIBz3EiNHvL5HMcq07r76g117117",
+		"item_date": "2017-04-17 00:00:00",
+		"title": "The Ecobee4 thermostat will come with integrated Alexa controls",
+		"url": "http://www.theverge.com/circuitbreaker/2017/4/17/15329956/ecobee4-leak-alexa-voice-controls",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "LjmlR14I116G123lKdgNVSkhdVDfwNhY116J4kg1fNh4kWef2UPUUueK0EGDNlFQWX9rYNv3UaVwD7tCO6iFAlh7JXVg117117",
+		"item_date": "2017-04-18 00:00:00",
+		"title": "Cloud Speech API is now generally available",
+		"url": "https://cloudplatform.googleblog.com/2017/04/Cloud-Speech-API-is-now-generally-available.html",
+		"domain": "cloudplatform.googleblog.com",
+		"image": ""
+	},
+	{
 		"curated_id": "123uccK8AH2Yo3CQ4gwKLaFo3C3Mh143knAN9gzcYiOXeNT01Zn2kyQaYAHyVeiZMvU5hLG4dOEsLw0Lh8MgdYoA117117",
 		"item_date": "2017-04-23 00:00:00",
 		"title": "Harman Debuts VoiceControl Cognitive Rooms Powered by IBMs IoT",
@@ -13,6 +29,14 @@
 		"title": "AWS opens up Amazon Lex AI platform to its customers",
 		"url": "http://www.zdnet.com/article/aws-opens-up-amazon-lex-ai-platform-to-its-customers/",
 		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Kg123clK9x116Vm8os4wllb123Z8irmyFg04nyjUQUHaSirn0E1g9F6jBOEV1235NHofi6DbhSes9t7cNqAD116AdmyzerxA117117",
+		"item_date": "2017-04-19 00:00:00",
+		"title": "Your app can now use the same deeplearning technology inside Amazons Alexa",
+		"url": "https://medium.com/slack-developer-blog/your-app-can-now-use-the-same-deep-learning-technology-inside-amazons-alexa-6972c635e01a",
+		"domain": "medium.com",
 		"image": ""
 	},
 	{
