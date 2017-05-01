@@ -1,5 +1,149 @@
 [
 	{
+		"curated_id": "Q5SzJDb1233VORldwX9G6hDkL123dEZv8qJa7iX0jzt123FdIh123bEMSFVSTCzPzoHVngjeToiIvo14OMOgnGGJ1kaBVw117117",
+		"item_date": "2017-04-24 00:00:00",
+		"title": "Consumers Arent Ready for Alexa to Handle Their Finances",
+		"url": "http://bankinnovation.net/2017/04/consumers-arent-ready-for-alexa-to-handle-their-finances/",
+		"domain": "bankinnovation.net",
+		"image": ""
+	},
+	{
+		"curated_id": "7ch9OVLte116h3ZXi5jhFn123s9OdhaFHF7TTE3fBbyt7PjIdj1Yjh0prwl60dLSGtd116OObcRR5bhLM123ZGEaJNyicg117117",
+		"item_date": "2017-04-26 00:00:00",
+		"title": "Amazon Wants to Put a Camera and Microphone in Your Bedroom",
+		"url": "https://motherboard.vice.com/en_us/article/amazon-echo-look-bedroom-camera",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5px6xf3GtBYAPG2pmM116TBSit52F123HP6R116TflKvj5116mBkk2akd3AEiGeSPHQMLRKAG9kAbfJytI9oc6U8cOZAqA117117",
+		"item_date": "2017-04-26 00:00:00",
+		"title": "Amazons new Echo Look device wants to be your AIpowered stylist",
+		"url": "http://feedproxy.google.com/~r/zdnet/BTL/~3/mstwFmw9vjA/",
+		"domain": "feedproxy.google.com",
+		"image": ""
+	},
+	{
+		"curated_id": "DcZvJH74sRVBHrsXh0q8qj116pwVNOFW2QogORPgDIqgGzNwEUdqe5oORun91PeVKthItQZBmtWUnwOLkHHmHpRg117117",
+		"item_date": "2017-04-27 00:00:00",
+		"title": "Introducing the Google Assistant SDK",
+		"url": "https://developers.googleblog.com/2017/04/introducing-google-assistant-sdk.html",
+		"domain": "developers.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CwLkyKSpO7GdoN9ptNmC15xzHyHOhIyZznCSP1n4npA1ZlmNvq20Q7Zf0uW123iVDTI96s11LtpymjgKENUdTPRg117117",
+		"item_date": "2017-04-27 00:00:00",
+		"title": "Google Assistant SDK lets anyone make an intelligent voicecontrolled",
+		"url": "https://www.aivanet.com/2017/04/google-assistant-sdk-lets-anyone-make-an-intelligent-voice-controlled-device/",
+		"domain": "www.aivanet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "0CSvO5A2VPuqZdwtBeuEviE3DfB2bwOwfgfPnhkgooRWvE3heYQEmmPH1iSPnKRSNE7sTEdPj9UNdidA123mPd2g117117",
+		"item_date": "2017-04-27 00:00:00",
+		"title": "Google eyes massive AI expansion with new Assistant SDK",
+		"url": "http://www.pcworld.com/article/3192964/android/google-eyes-massive-ai-expansion-with-new-assistant-sdk.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "V2APg9btxK4d8zABghwLzhfHJ116CJjDD2VaHhQVFFx4tmw7Kie123C9kWCgRMOUkn3u1IHHaktnEiHI1pWwj123dRQw117117",
+		"item_date": "2017-04-27 00:00:00",
+		"title": "Are the wheels falling off the digital assistant bandwagon",
+		"url": "https://disruptiveviews.com/digital-assistant-bandwagon/",
+		"domain": "disruptiveviews.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1AdJNdXcQrIwZ2zs123Y5HEHoaVq66o123116rQM3116GNw7MppSYuNMRywPZWtcH3W0Y1165BYHZHJP5gTeAmLhaxscx64Q117117",
+		"item_date": "2017-04-27 00:00:00",
+		"title": "Hacking Alexa Skills With Service Virtualization",
+		"url": "https://dzone.com/articles/hacking-alexa-skills-with-service-virtualization",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5t116jFazqjl60TSr3pPHWii4uYrZ116N7lH8uqTwxibc8VfH123BsMd1165Xxhgwj0dLRIDFz5c1fHN2zEHpi9bfEp7Mw117117",
+		"item_date": "2017-04-28 00:00:00",
+		"title": "Alexa learns to talk like a human with whispers pauses  emotion",
+		"url": "https://techcrunch.com/2017/04/28/alexa-learns-to-talk-like-a-human-with-whispers-pauses-emotion/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "cnBatxzbhB5nN116lTJiZC8v7qZddG1166nLTWLFYwV1Bm0mWcwCzhsMBr123Mj1fG554qHN123UKsHcb3oyDZLnNKMyoQ117117",
+		"item_date": "2017-04-28 00:00:00",
+		"title": "Amazon style assistant divides opinion",
+		"url": "http://www.bbc.co.uk/news/technology-39744293",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "5gO5l1C123mRjXWQ3CMs2TmJ123TWZVkFY4t9viIAOFT8W18d6fBzurvEwMgw123mEtVSQSrSIlz8OYIRdHvmrWJFMyg117117",
+		"item_date": "2017-04-28 00:00:00",
+		"title": "How to Build Your Own Amazon Echo",
+		"url": "http://spectrum.ieee.org/geek-life/hands-on/how-to-build-your-own-amazon-echo",
+		"domain": "spectrum.ieee.org",
+		"image": ""
+	},
+	{
+		"curated_id": "zMgchad116MRmuGanuaDr2dyibvGyJ0SyAXLmmR8aYLJOUyJbnskvctkFeHVMC3gUnmEZr4tjdGFKN2g7JiQZ116Jg117117",
+		"item_date": "2017-04-27 00:00:00",
+		"title": "Google opens up the Google Assistant to developers shows off mocktail mixer to prove it",
+		"url": "https://thenextweb.com/google/2017/04/27/1043688/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "0oygCVfWS6SMAWwv5s81rma0jyj5mLBqm5UHSj3oJ4R5N2tu1R44XgQ5PtEVhOTsgeK502RS7E623BRDbeNcCg117117",
+		"item_date": "2017-04-26 00:00:00",
+		"title": "Can Amazons Echo Dot Make a Good SIDS Alarm",
+		"url": "http://www.cringely.com/2017/04/26/15429/",
+		"domain": "www.cringely.com",
+		"image": ""
+	},
+	{
+		"curated_id": "DQe0pz4HXZQkkIuQSSU65v7KF5V1eLofrFbAi2IEs4WjW4WpQlu2Bw5E123yHVO9z2goS6eYiyvN8ZB0vm123cqetQ117117",
+		"item_date": "2017-04-26 09:22:46",
+		"title": "Amazons new 200 Echo Look camera will judge your outfits",
+		"url": "http://www.theverge.com/2017/4/26/15435550/amazon-echo-look-200-smart-camera-mirror-stylist",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "7aPtMUw0saaM6eDTOkuvb6ACl9hgy57Mm8I5GX7GO7ysCKDOXwVzTnTDVqCC6tlm7WfkI123t1iXbmUu123E1BLmLg117117",
+		"item_date": "2017-04-26 09:49:33",
+		"title": "The next iteration of Alexa is designed to watch you while you get dressed",
+		"url": "http://boingboing.net/2017/04/26/black-mirror-is-everting.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
+		"curated_id": "WzOI4j21iJ05oBclphef123PxjRApF6gTKg7cWV2OKXro8aOqKG4TfvhRi9zYYDE6tMiE1rJ11647Qln1NiiowAjaQ117117",
+		"item_date": "2017-04-25 00:00:00",
+		"title": "Emergent  Future  Facebooks AI Research Googles speech recognition and more",
+		"url": "http://blog.algorithmia.com/emergent-future-facebooks-ai-research-googles-speech-recognition/",
+		"domain": "blog.algorithmia.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116HatedYr0B9vKdQ0AXiKsOaPGFJuIStiv5iDGGFTutStUliTjTzC50TcNxWpjB30VqZ7Q9yq116HX1vPkR0QDDJA117117",
+		"item_date": "2017-04-25 00:00:00",
+		"title": "With DialpadAmazon Echo integration Alexa can make phone calls for you",
+		"url": "https://techcrunch.com/2017/04/25/with-dialpad-amazon-echo-integration-alexa-can-make-phone-calls-for-you/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5PuDkxZIzGsbq7xON4UaIXAAfcmlCePD4116Vp1QNmI9bck1pO7rVG123Ef7Vp61i9tedau4MibWOWnZYXbGdjFcSQ117117",
+		"item_date": "2017-04-24 00:00:00",
+		"title": "Spotify is hiring people to cook up hardware as innovative as the Amazon Echo",
+		"url": "http://www.businessinsider.com/spotify-building-its-own-hardware-2017-4",
+		"domain": "www.businessinsider.com",
+		"image": ""
+	},
+	{
 		"curated_id": "e6yPUfUYuU7nWQ3tuZ36P7W7pP123HbXbjuq1KtrESS8WWGXCa0eyM53edzgMx44qeQIBz3EiNHvL5HMcq07r76g117117",
 		"item_date": "2017-04-17 00:00:00",
 		"title": "The Ecobee4 thermostat will come with integrated Alexa controls",
