@@ -1,5 +1,53 @@
 [
 	{
+		"curated_id": "xGTVWY0RKr116RBlITakgNi3wjk116Vv6XoiVFqFR5M54O9teRQBfMPsM7X7jSjusimTr3kp3T0QF1234m1yTbMtQzbA117117",
+		"item_date": "2017-05-01 00:00:00",
+		"title": "Writing Your Own Voice Recognition Application",
+		"url": "https://www.codeproject.com/Articles/1184834/Writing-Your-Own-Voice-Recognition-Application",
+		"domain": "www.codeproject.com",
+		"image": ""
+	},
+	{
+		"curated_id": "oF9kMc80lJQucYKboJ116DMOgtJjtqRvQLFwr5h9WjduPucnfByqnSdyxMDTb8cNSDexvgicxhWj2qOQNq0w47ag117117",
+		"item_date": "2017-05-02 00:00:00",
+		"title": "New Tools Allow Voice Patterns To Be Cloned To Produce Realistic But Fake Sounds Of Anyone Saying Anything",
+		"url": "https://www.techdirt.com/articles/20170425/07092537229/new-tools-allow-voice-patterns-to-be-cloned-to-produce-realistic-fake-sounds-anyone-saying-anything.shtml",
+		"domain": "www.techdirt.com",
+		"image": ""
+	},
+	{
+		"curated_id": "xBt7Ye3c4rZl26ZFTZ4jw0v1bPIk1AiqjFmYqIbK1LABgafpbzySrhRI8Cm2dInp6ScWxij5dPp7GIdPkWvGqw117117",
+		"item_date": "2017-05-02 00:00:00",
+		"title": "Sound Masking for Speech Privacy in Open Offices and Healthcare Environments",
+		"url": "http://www.avnetwork.com/avtechnology/sound-masking-for-speech-privacy-in-open-offices-and-healthcare-environments/126317",
+		"domain": "www.avnetwork.com",
+		"image": ""
+	},
+	{
+		"curated_id": "K6sacUjPhtjBIyA3TIJY2ysPZjvvtiRv4AqEGcUVMh1236MI2ga4eoPvB6v7ChV0DzhzfYJgd8Ww24J1Q2Y1hQKw117117",
+		"item_date": "2017-05-04 00:00:00",
+		"title": "Forging Voice",
+		"url": "https://www.schneier.com/blog/archives/2017/05/forging_voice.html",
+		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
+		"curated_id": "M8PsW6Th4TbQ9kjo4930yJA4wquvzHZrF89vXOOknuy9ELBBkollqaeZDyLHuAjwZqFJPFYA5VPdbLv8ByXzGg117117",
+		"item_date": "2017-05-02 09:00:25",
+		"title": "Test Your Smart Home Skill API Responses with Our New Validation Package",
+		"url": "https://developer.amazon.com/blogs/alexa/post/eaf859ff-043d-48ad-b347-02f755bdae99/validating-smart-home-skill-api-responses",
+		"domain": "developer.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "QbgtNIaMemc4jZTOu8yutaAi3U116LDF5HqXw3OrtEuZITQVns0i9E8grVoSZdvK1237HhMzOfJ3MS8CU040TvCQtw117117",
+		"item_date": "2017-05-01 09:00:38",
+		"title": "Lyrebird  An API to copy the voice of anyone",
+		"url": "https://lyrebird.ai/demo",
+		"domain": "lyrebird.ai",
+		"image": ""
+	},
+	{
 		"curated_id": "Q5SzJDb1233VORldwX9G6hDkL123dEZv8qJa7iX0jzt123FdIh123bEMSFVSTCzPzoHVngjeToiIvo14OMOgnGGJ1kaBVw117117",
 		"item_date": "2017-04-24 00:00:00",
 		"title": "Consumers Arent Ready for Alexa to Handle Their Finances",
