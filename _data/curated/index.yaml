@@ -1,1029 +1,4 @@
 ---
-- curated_id: 65791c223204cd06085292a4d1d163ca
-  item_date: "2012-03-13 09:27:35"
-  title: Why Apples Siri Needs an API - Forbes
-  url: http://www.forbes.com/sites/eliseackerman/2012/03/12/why-apples-siri-needs-an-api/
-  domain: www.forbes.com
-  image: ""
-- curated_id: 72a21dfe77d0c29ed225d5d667408894
-  item_date: "2012-06-05 12:35:39"
-  title: Twilio Celebrates 100,000 Developer Accounts
-  url: https://www.twilio.com/
-  domain: www.twilio.com
-  image: ""
-- curated_id: 17a453829eae38a39cd640f461b2ff94
-  item_date: "2012-07-12 00:00:00"
-  title: 'SMS Everywhere: Twilio Now Enables Messaging to over 150 Countries Worldwide'
-  url: https://www.twilio.com/blog/2012/07/sms-everywhere-twilio-now-enables-messaging-to-over-150-countries-worldwide.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: f1e04f95656e6846384ff97194b6e1ac
-  item_date: "2012-07-20 00:00:00"
-  title: New Voice Features
-  url: https://www.46elks.com/blog/2012/07/20/announcement/new-voice-features
-  domain: www.46elks.com
-  image: ""
-- curated_id: 6997fc1bde138debace58a84435f251f
-  item_date: "2012-08-08 00:00:00"
-  title: Ooomf Powers App Distribution Using Twilio SMS
-  url: https://www.twilio.com/blog/2012/08/ooomf-powers-app-distribution-using-twilio-sms.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 811197132d03b0b062a2f403d7e38a6c
-  item_date: "2012-08-09 00:00:00"
-  title: How To Tell A Story With Code
-  url: https://www.twilio.com/blog/2012/08/how-to-tell-a-story-with-code-2.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 0a549b85e499b79fcead16c90d6a7c2c
-  item_date: "2012-08-20 00:00:00"
-  title: Caremerge Automates Communications for Long Term Care Facilities
-  url: https://www.twilio.com/blog/2012/08/update-long-term-care-communications-with-caremerge.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 94ec90ca4f244aa347a907da3158ba12
-  item_date: "2012-08-20 00:00:00"
-  title: viaCycle Brings Shared Bikes to San Francisco Powered by SMS and Voice
-  url: https://www.twilio.com/blog/2012/08/viacycle-brings-shared-bikes-to-san-francisco-powered-by-sms-and-voice.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 673a6be5b528cb57851af54f27440357
-  item_date: "2012-08-28 00:00:00"
-  title: 'TrialX: Unlocking Clinical Trials with Twilio API'
-  url: https://www.twilio.com/blog/2012/08/trialx.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 8f4a0e764f8bbcbe14fabf2914a6f514
-  item_date: "2012-08-30 00:00:00"
-  title: Philadelphia Police Department Fights Crime With Twilio SMS
-  url: https://www.twilio.com/blog/2012/08/philidelphia-police-department-fighting-crime-one-text-at-a-time-with-twilio.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 0d67814fda9a42a773e4ea85c6d7c3c4
-  item_date: "2012-09-07 00:00:00"
-  title: 'Podcast Interview: Harley Manning of Forrester Talks Customer Experience,
-    New Book ?Outside In?'
-  url: https://www.twilio.com/blog/2012/09/podcast-interview-harley-manning-of-forrester-talks-customer-experience-new-book-outside-in.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 708f5e505b5f9ed91a815dd1e47d0a0e
-  item_date: "2012-12-11 00:00:00"
-  title: Seconds Streamlines Mobile Payment and Launches A Charity Using Twilio SMS
-  url: https://www.twilio.com/blog/2012/12/seconds-streamlines-mobile-payment-and-launches-a-charity-using-twilio-sms.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 9111386b90ef8e2358015e8d0a1876e2
-  item_date: "2012-12-14 00:00:00"
-  title: 'Dropping A Pin In A Haystack: MeatText Lets You Share Your Exact Location'
-  url: https://www.twilio.com/blog/2012/12/dropping-a-pin-in-a-haystack-meattext-lets-you-share-your-exact-location.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: d993b15c3b7a2fa5d675c73c060ea7e2
-  item_date: "2012-12-19 13:09:19"
-  title: 'Zypr: Voice Control for Every Device and Application'
-  url: http://gizmodo.com/5856998/zypr-voice-control-for-every-device-and-application
-  domain: gizmodo.com
-  image: ""
-- curated_id: e8896df83d4ae27858c2630842782346
-  item_date: "2012-12-19 13:19:52"
-  title: Siri API - Quora
-  url: https://www.quora.com/topic/Siri-API
-  domain: www.quora.com
-  image: ""
-- curated_id: a30c67564241f9e0f020bee92c312fb1
-  item_date: "2012-12-19 13:24:23"
-  title: Forget Siri ? make Wolfram Alpha your personal assistant
-  url: http://hackaday.com/2012/01/17/forget-siri-make-wolfram-alpha-your-personal-assistant/
-  domain: hackaday.com
-  image: ""
-- curated_id: d0d1aa1b50d175d7e8e552ae8970ff64
-  item_date: "2012-12-19 13:28:12"
-  title: 'Move Over, Twilio: ATT Integrates Speech, Messaging And Payment APIs Into
-    Appcelerator?s Developer Platform | TechCrunch'
-  url: https://techcrunch.com/2012/10/18/move-over-twilio-att-integrates-speech-messaging-and-payment-apis-into-appcelerators-developer-platform/
-  domain: techcrunch.com
-  image: ""
-- curated_id: 4f2b5bd0118c296c3fd1f6c10ee85c73
-  item_date: "2012-12-19 13:28:46"
-  title: SiliconFilter | Pioneer?s Ambitious Zypr Wants to be the One API to Rule
-    Them All
-  url: http://siliconfilter.com/pioneers-ambitious-zypr-wants-to-bring-voice-control-and-a-unified-web-api-to-cars-consumer-electronics-mobile-apps-and-the-web/
-  domain: siliconfilter.com
-  image: ""
-- curated_id: 38afb9dfbdcd2d676b3e0d02f5b6a607
-  item_date: "2012-12-24 17:36:30"
-  title: Mimvi and Mashape to Offer Mobile App Search API to Developers
-  url: http://blog.mashape.com/mimvi-mashape-offer-mobile-app-search-api/
-  domain: blog.mashape.com
-  image: ""
-- curated_id: 92d246f441fadb017fc4f9b5c17f5714
-  item_date: "2013-01-04 00:00:00"
-  title: Introducing the new ATT Call Management API powered by Tropo
-  url: https://www.tropo.com/2013/01/introducing-the-new-att-call-management-api-powered-by-tropo/
-  domain: www.tropo.com
-  image: ""
-- curated_id: 6dd911d644c4fc922b3984b9193815d8
-  item_date: "2013-01-08 00:00:00"
-  title: Publik Demand Gives Customers A Voice With Twilio
-  url: https://www.twilio.com/blog/2013/01/publik-demand-gives-customers-a-voice-with-twilio.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: cadb1a96773e2cec15af653d167311b3
-  item_date: "2013-01-09 00:00:00"
-  title: MailChimp?s Gather App Keeps Your Attendees In The Loop With Twilio SMS
-  url: https://www.twilio.com/blog/2013/01/mailchimps-gather-app-keeps-your-attendees-in-the-loop-with-twilio-sms.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 6bc0b26f8e39660408cc0ef6b497baf8
-  item_date: "2013-01-09 00:00:00"
-  title: Codecademy Launches New Lessons with Twilio, New API Partners
-  url: https://www.twilio.com/blog/2013/01/codecademy-launches-new-lessons-with-twilio-new-api-partners.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: b79a4fbe910326915046d9c0527ba0a2
-  item_date: "2013-01-21 00:00:00"
-  title: New price list and bulk sms price
-  url: https://www.46elks.com/blog/2013/01/21/announcement/new-price-list-and-bulk-sms-price
-  domain: www.46elks.com
-  image: ""
-- curated_id: 01cf3d15cf47ce0034f4be3929f543d1
-  item_date: "2013-01-23 16:23:34"
-  title: Get Notified by Email when your API is down
-  url: http://blog.mashape.com/get-notified-by-email-when-your-api-is-down/
-  domain: blog.mashape.com
-  image: ""
-- curated_id: 43a5083d6da742357311d94a65ffbcae
-  item_date: "2013-01-23 16:23:35"
-  title: Thank You! Mashape is Developer Week 2013 Top Innovator for API Mashup Tools!
-    - Mashapes Voice
-  url: http://blog.mashape.com/mashape-is-developerweek-2013-top-winner/
-  domain: blog.mashape.com
-  image: ""
-- curated_id: c20681f2c846446a1b9e12662393a4bf
-  item_date: "2013-01-29 00:00:00"
-  title: 'The International App: YooTok Offers Easy International Calling with Twilio'
-  url: https://www.twilio.com/blog/2013/01/the-international-app-yootok-offers-easy-international-calling-with-twilio.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 965402768e7644b8a0e8bbfdd538d284
-  item_date: "2013-01-30 00:00:00"
-  title: Build a Pure HTML Mobile App Landing Page with Twilio SMS and Parse
-  url: https://www.twilio.com/blog/2013/01/build-a-pure-html-mobile-app-landing-page-with-twilio-sms-and-parse.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: e61fb5f51607d29a6004d631c3e7f53f
-  item_date: "2013-02-04 19:18:14"
-  title: Hackfest.TV Hackathon @ AppsWorld 2013 - Mashapes Voice
-  url: http://blog.mashape.com/hackfesttv-hackathon-appsworld-2013/
-  domain: blog.mashape.com
-  image: ""
-- curated_id: 88906bccecea3d31dc211ca5a89a8538
-  item_date: "2013-02-12 00:00:00"
-  title: 'Hacking For Good: IDEO Cleans Up Kumasi With Twilio'
-  url: https://www.twilio.com/blog/2013/02/hacking-for-good-ideo-cleans-up-kumasi-with-twilio.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 9b6332dacf5027ff5ea37c21c930d118
-  item_date: "2013-02-12 00:00:00"
-  title: 'Our Mobile SDKs Just Got Better: Twilio Client iOS and Android updates'
-  url: https://www.twilio.com/blog/2013/02/our-mobile-sdks-just-got-better-twilio-client-ios-and-android-updates.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: f374d7cef3b01fec3a9f6b66d34cade1
-  item_date: "2013-02-18 00:00:00"
-  title: Music Hack Day App Lets You Unlock New Tracks From Beastie Boys and Trent
-    Reznor
-  url: https://www.twilio.com/blog/2013/02/music-hack-day-app-lets-you-unlock-new-tracks-from-beastie-boys-and-trent-reznor.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: b6ad479f179c7e21ad542c7fbe5470d3
-  item_date: "2013-02-18 00:00:00"
-  title: 'Day in the Life: Being a Twilio API Software Engineer'
-  url: https://www.twilio.com/blog/2013/02/day-in-the-life-being-a-twilio-api-software-engineer.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 74c6696b1ca225aaae8ad5fe11abca5f
-  item_date: "2013-02-19 00:00:00"
-  title: 'Ducksboard for Twilio: A New Way To Monitor Your Twilio Metrics'
-  url: https://www.twilio.com/blog/2013/02/ducksboard-for-twilio-a-new-way-to-monitor-your-twilio-metrics.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 2afb6279d12ae803d845b86bb45fc180
-  item_date: "2013-02-19 00:00:00"
-  title: 'Apps to Empower: Build an App to Support Women in Developing Countries'
-  url: https://www.twilio.com/blog/2013/02/apps-to-empower-build-an-app-to-support-women-in-developing-countries.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: cbfd76cb823f772d5215534c86870782
-  item_date: "2013-02-25 00:00:00"
-  title: Why Two Factor Authentication Should be a Part of Your Security Plans for
-    2013
-  url: https://www.twilio.com/blog/2013/02/two-factor-authentication.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 45d538c1684f7f8562dc15856ad63e5f
-  item_date: "2013-02-28 00:00:00"
-  title: TechStars Goes International with Springboard, Submissions Open in March
-  url: https://www.twilio.com/blog/2013/02/techstars-goes-international-with-springboard-submission-open-now.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 827a05fec9fba268ef9df33a5c535418
-  item_date: "2013-03-01 00:00:00"
-  title: Twilio Fund Europe 2013 Opens for Submissions
-  url: https://www.twilio.com/blog/2013/03/twilio-fund-europe-2013-opens-for-submissions.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: e21c0b239b9bc0d339ac31414fee703c
-  item_date: "2013-03-05 00:00:00"
-  title: Speech recognition using Visualforce and the ATT toolkit
-  url: https://developer.salesforce.com/blogs/developer-relations/2013/03/speech-recognition-att-toolkit.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 00b6c65da14f924b214789c84c144bb8
-  item_date: "2013-03-06 00:00:00"
-  title: Send Business Cards via SMS with Twilio and Google App Engine
-  url: https://www.twilio.com/blog/2013/03/send-business-cards-via-sms-with-twilio-and-google-app-engine.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: b8ada776b22b228f90d9a1d6e40e7ae1
-  item_date: "2013-03-12 00:00:00"
-  title: GroupGel Makes It Easier For Friends To Communicate with Twilio SMS
-  url: https://www.twilio.com/blog/2013/03/interview-with-group-gel.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: e17100b8a454100bfba9502b159df7fb
-  item_date: "2013-03-13 00:00:00"
-  title: Ask Ziggy Brings Siri-like Functionality to All Apps
-  url: http://www.programmableweb.com/news/ask-ziggy-brings-siri-functionality-to-all-apps/2013/03/13
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: c06bb99b316b2d0305dad9838938ddd7
-  item_date: "2013-03-15 00:00:00"
-  title: Metablocks Helps Bands Reach Fans via Social Apps with Twilio
-  url: https://www.twilio.com/blog/2013/03/metablocks-helps-bands-reach-fans-via-social-apps-with-twilio.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: c9761b22fc2b517626aaf073cd846c72
-  item_date: "2013-03-18 00:00:00"
-  title: 'Teach Your Old Box New Tricks: Introducing SIP from Twilio'
-  url: https://www.twilio.com/blog/2013/03/teach-your-old-box-new-tricks-introducing-sip-from-twilio.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: f33dbdf6775ad3ff2a70343c27c8611b
-  item_date: "2013-03-19 00:00:00"
-  title: Trying Out SIP From Twilio Using FreeSWITCH
-  url: https://www.twilio.com/blog/2013/03/trying-out-the-twilio-sip-noun-using-freeswitch.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 895a039f1947215436cbc4bb9c0fe4b5
-  item_date: "2013-04-02 00:00:00"
-  title: Twilio-Powered Nomorobo Wins FTC Robocall Challenge
-  url: https://www.twilio.com/blog/2013/04/twilio-powered-nomorobo-wins-ftc-robocall-challenge.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 0509367cb21c5d167648e10d59c92230
-  item_date: "2013-04-02 00:00:00"
-  title: Twilio and Google Cloud Platform Bring Voice and SMS to Google App Engine
-  url: https://www.twilio.com/blog/2013/04/twilio-and-google-app-engine.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 635c0b81f1095733dd73444843a4bc15
-  item_date: "2013-04-02 11:49:32"
-  title: 'Techmeme: Google Adds Twilio For The First Voice And Messaging APIs Available
-    Through The Google Cloud Platform And App Engine (Ingrid Lunden/TechCrunch)'
-  url: http://www.techmeme.com/130402/p20
-  domain: www.techmeme.com
-  image: ""
-- curated_id: 841b4b27350aa1018bb2d55987714487
-  item_date: "2013-04-05 00:00:00"
-  title: Vision Mobile Puts Data In Developer?s Hands w/ Developer Economics Survey
-  url: https://www.twilio.com/blog/2013/04/vision-mobile-puts-data-in-developers-hands-w-developer-economics-survey.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 11367bbcec5bf1744cdc31033fcbec65
-  item_date: "2013-04-07 19:32:20"
-  title: APIs based on Machine Learning
-  url: http://blog.mashape.com/apis-based-on-machine-learning/
-  domain: blog.mashape.com
-  image: ""
-- curated_id: 76d2e60692d98d45a71b2bc75c80afab
-  item_date: "2013-04-09 00:00:00"
-  title: Introducing Multi-user Because Collaboration is King
-  url: https://www.twilio.com/blog/2013/04/introducing-multi-user-because-collaboration-is-king.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: cfd363f244052c648c9fb61037ae0392
-  item_date: "2013-04-10 00:00:00"
-  title: Add Two-Factor Authentication To Your Website with Google Authenticator and
-    Twilio SMS
-  url: https://www.twilio.com/blog/2013/04/add-two-factor-authentication-to-your-website-with-google-authenticator-and-twilio-sms.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 998a765e13498f7f74cd93256fab4116
-  item_date: "2013-04-10 00:00:00"
-  title: 'Twilio Fund Winner Profile: Wedgies, Making Social Polling Easy and Fun
-    w/ Twilio'
-  url: https://www.twilio.com/blog/2013/04/twilio-fund-winner-profile-wedgies-making-social-polling-easy-and-fun-w-twilio.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 7f203584187162016dc1346cb8e5f3f2
-  item_date: "2013-04-17 00:00:00"
-  title: Social Samba Builds New Avenues for Storytelling w/ Twilio
-  url: https://www.twilio.com/blog/2013/04/social-samba-builds-new-avenues-for-storytelling-w-twilio.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: d3219b85b1bed57f54b71e7f5df6ac5b
-  item_date: "2013-04-18 00:00:00"
-  title: 'Twilio Fund Winner Profile: Babelverse Bridges Language Barriers with Twilio'
-  url: https://www.twilio.com/blog/2013/04/twilio-fund-winner-profile-babelverse-bridges-language-barriers-with-twilio.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 1f01601968d3604de3fc22c89c5e336c
-  item_date: "2013-04-19 00:00:00"
-  title: RETZ Brings Telephony To The Theatre with Twilio
-  url: https://www.twilio.com/blog/2013/04/retz-brings-telephony-to-the-theatre-with-twilio.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 065e765da9b2220a913d7bc63bb046a0
-  item_date: "2013-04-23 00:00:00"
-  title: OneTok Refines SDK and Focuses on Carriers, Social Networks, and Messaging
-    Apps
-  url: http://www.programmableweb.com/news/onetok-refines-sdk-and-focuses-carriers-social-networks-and-messaging-apps/2013/04/23
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: b918aa530cc68fbda08e10dec2d26392
-  item_date: "2013-04-25 00:00:00"
-  title: Mobile Commons Connects Citizens to Senators with Twilio
-  url: https://www.twilio.com/blog/2013/04/mobile-commons-connects-citizens-to-senators-with-twilio-voice.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 5a190037c831b38f7f5883777ed4f8fe
-  item_date: "2013-04-25 00:00:00"
-  title: Prefer To Listen To The News Rather Than Read It? Umano?s API Is For You
-  url: http://www.programmableweb.com/news/prefer-to-listen-to-news-rather-read-it-umanos-api-you/2013/04/25
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: ca999c1e1b6a278ed23c460061c0e81f
-  item_date: "2013-04-30 00:00:00"
-  title: 'Skype Video Messaging: Preview for Windows Desktop Users'
-  url: http://blogs.skype.com/2013/04/30/skype-video-messaging-preview-for-windows-desktop-users/
-  domain: blogs.skype.com
-  image: ""
-- curated_id: 6c83773a93c56fc5d4f9e844164be7e4
-  item_date: "2013-04-30 00:00:00"
-  title: Seattle Hacks ? Using Github Pages and Jekyll To Finally Create The Noiseless
-    Hacker Calendar
-  url: https://www.twilio.com/blog/2013/04/building-the-noiseless-hacker-calendar-seattle-hacks.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: c0a12e4c92aaab2f72f210d1b2c15706
-  item_date: "2013-05-01 00:00:00"
-  title: 'Oddcast Releases Text-to-Speech API: Vocalware'
-  url: http://www.programmableweb.com/news/oddcast-releases-text-to-speech-api-vocalware/2013/05/01
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: 2b1b0d8bebb92a349fee4db26a10e927
-  item_date: "2013-05-01 00:00:00"
-  title: 'Customer Service Solutions with Twilio: Build Your Call Center Your Way'
-  url: https://www.twilio.com/blog/2013/05/customer-service-solutions-with-twilio-building-your-call-center-your-way.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 42acfa23e6c6832703acb33a7b0ec32c
-  item_date: "2013-05-01 00:00:00"
-  title: 'Your Tutor Is One Call Away: Help Hub Connects Students and Tutors Via Twilio
-    Voice'
-  url: https://www.twilio.com/blog/2013/05/your-tutor-is-one-call-away-help-hub-connects-students-and-tutors-via-twilio-voice.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: d8b3df05d41cd91e7f68080b0d912820
-  item_date: "2013-05-09 00:00:00"
-  title: Using Google Glass, Twilio, Ruby, and Sinatra to Send and Receive SMS Messages
-  url: https://www.twilio.com/blog/2013/05/using-google-glass-twilio-ruby-and-sinatra-to-send-and-receive-sms-messages.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 4f22fe5c95e93b3889c8af8640accbd5
-  item_date: "2013-05-10 00:00:00"
-  title: It Takes A Village ? The Lassy Project Crowdsources Communication To Keep
-    Kids Safe
-  url: https://www.twilio.com/blog/2013/05/it-takes-a-village-the-lassy-project-crowdsources-communication-to-keep-kids-safe.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 9932d2d110bd6fdc6c152c6632a39c52
-  item_date: "2013-05-13 00:00:00"
-  title: Update to Skype 6.3 for Windows
-  url: http://blogs.skype.com/2013/05/13/update-to-skype-6-3-for-windows/
-  domain: blogs.skype.com
-  image: ""
-- curated_id: a8f4c8e31836f2a2e52ea664500fe41b
-  item_date: "2013-05-15 00:00:00"
-  title: 'Shifting to an on-demand Partnership Model: The Voxeo Referral Partner Program'
-  url: HTTP://h/
-  domain: h
-  image: ""
-- curated_id: 55c23d7f123263c8fc89f0ac13626b19
-  item_date: "2013-05-20 00:00:00"
-  title: Skype for Linux 4.2
-  url: http://blogs.skype.com/2013/05/20/skype-for-linux-4-2/
-  domain: blogs.skype.com
-  image: ""
-- curated_id: 9bb54677ff59a09200d60c4311a6f5af
-  item_date: "2013-05-21 00:00:00"
-  title: Tropo powers Speak2Leads
-  url: https://www.tropo.com/2013/05/tropo-powers-speak2leads/
-  domain: www.tropo.com
-  image: ""
-- curated_id: 8cf49682bb0d3f6741e3ec05ca17afe3
-  item_date: "2013-05-22 00:00:00"
-  title: Google plans to bring its own voice search to the iPhone and iPad
-  url: https://gigaom.com/2013/05/22/google-plans-to-bring-its-own-voice-search-to-the-iphone-and-ipad/
-  domain: gigaom.com
-  image: ""
-- curated_id: 6d330584fc4bd4dcec443949631d852e
-  item_date: "2013-05-22 00:00:00"
-  title: Automating Twilio Integration Tests with Test Credentials
-  url: https://www.twilio.com/blog/2013/05/automating-twilio-integration-tests-with-test-credentials.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 697507d356af951a1072a6a6085de0a1
-  item_date: "2013-05-24 00:00:00"
-  title: 'Introducing Twilio HQ 3.0: Our Brand New Office'
-  url: http://www.twilio.com/blog/2013/05/introducing-twilio-hq-3-0-our-brand-new-office.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 2a5dd3ec255810f63e8390f02f1ed10b
-  item_date: "2013-05-27 00:00:00"
-  title: Freespee meets Google Analytics
-  url: http://blog.freespee.com/2013/05/27/freespee-meets-google-analytics/
-  domain: blog.freespee.com
-  image: ""
-- curated_id: 6651458387d6a2405fba8af35777b59b
-  item_date: "2013-05-30 00:00:00"
-  title: SOBERLINK Improves Alcohol Monitoring and Communication with Twilio SMS
-  url: http://www.twilio.com/blog/2013/05/soberlink-improves-alcohol-monitoring-and-communication-with-twilio-sms.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: a9aed34c826df7d986d7b3f1a9e4a308
-  item_date: "2013-05-30 00:00:00"
-  title: 'Old Stories, New Tech: StoryWorth Captures Family Memories with Twilio Voice'
-  url: https://www.twilio.com/blog/2013/05/old-stories-new-tech-storyworth-captures-family-memories-with-twilio-voice.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 356bf6738dc43466d3f026c3fc847a35
-  item_date: "2013-05-31 00:00:00"
-  title: Diginate Shares Shipping Status Updates with Customers via Twilio SMS
-  url: https://www.twilio.com/blog/2013/05/diginate-shares-shipping-status-updates-with-customers-via-twilio-sms.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 79f7e88186dfe4a2928169801d32c663
-  item_date: "2013-06-03 00:00:00"
-  title: Congrats To The Twilio-Powered Companies Named on CNBC?s Disruptor 50 List
-  url: http://www.twilio.com/blog/2013/06/congrats-to-the-twilio-powered-companies-named-on-cnbc-disruptor-50-list.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 90d23cfaf074c715c48aae7bb7664e8d
-  item_date: "2013-06-04 00:00:00"
-  title: Openmind Networks Offers its Mobile Communications Platform via API
-  url: http://www.programmableweb.com/news/openmind-networks-offers-its-mobile-communications-platform-api/2013/06/04
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: e4fd812acf452652251df54e3ae07729
-  item_date: "2013-06-04 00:00:00"
-  title: Pair Programming in the Browser with Twilio
-  url: https://www.twilio.com/blog/2013/06/pair-programming-in-the-browser-with-twilio.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: dd07ab11e52a7a2a6ba054a6c1b5d0e9
-  item_date: "2013-06-04 00:00:00"
-  title: Freespee Analytics ? starting today ? is now free in Germany
-  url: http://blog.freespee.com/2013/06/04/freespee-analytics-%e2%80%93-starting-today-%e2%80%93-is-now-free-in-germany/
-  domain: blog.freespee.com
-  image: ""
-- curated_id: 214b670d2e822f8d590d4c59d90c036b
-  item_date: "2013-06-04 00:00:00"
-  title: Skype 4.8 for iPhone and iPad
-  url: http://blogs.skype.com/2013/06/04/skype-4-8-for-iphone-and-ipad/
-  domain: blogs.skype.com
-  image: ""
-- curated_id: f760ce7e9d73642f2020141691e20521
-  item_date: "2013-06-05 00:00:00"
-  title: 'DOer of the Month: Hung Truong ? From Geocities to iOS Apps'
-  url: https://www.twilio.com/blog/2013/06/doer-of-the-month-hung-truong-from-geocities-to-ios-apps.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 928eb5021a4b89deea1a0eaf8e34f4d1
-  item_date: "2013-06-14 00:00:00"
-  title: Checkfront Eliminates Booking Hassles, Helps Businesses Keep In Touch w/
-    Customers via Twilio SMS
-  url: https://www.twilio.com/blog/2013/06/checkfront-eliminates-booking-hassles-helps-businesses-keep-in-touch-w-customers-via-twilio-sms.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: e40a7933edda653c2738869b68555fd6
-  item_date: "2013-06-27 00:00:00"
-  title: VOIP Apps for iOS with Twilio Client and Azure Mobile Services
-  url: https://www.twilio.com/blog/2013/06/building-an-ios-app-using-twilio-client-and-azure-mobile-services-html.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: d2c051e96bb483ae7b4fc66529f2ac3e
-  item_date: "2013-06-28 00:00:00"
-  title: Skype 4.9 for iPhone and iPad
-  url: http://blogs.skype.com/2013/06/28/skype-for-iphone-4-9/
-  domain: blogs.skype.com
-  image: ""
-- curated_id: f957f09bedaf33b6d5cead5b18d83c02
-  item_date: "2013-07-01 00:00:00"
-  title: 'A Team of Four, The Eyes of Millions: Tint Scales With Twilio'
-  url: https://www.twilio.com/blog/2013/07/a-team-of-four-the-eyes-of-millions-tint-scales-with-twilio.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 4d1b0ef3c94df0a285cef3fa4d0e5fa8
-  item_date: "2013-07-02 00:00:00"
-  title: 'How to point your callers to your mobile app without annoying them: Voxeo?s
-    Operator Lookup API'
-  url: http://blogs.aspect.comvoxeotalks/2013/07/02/how-to-point-your-callers-to-your-mobile-app-without-annoying-them-voxeos-operator-lookup-api/
-  domain: blogs.aspect.comvoxeotalks
-  image: ""
-- curated_id: e1a712db1aa4a2375d4f78c660ebe160
-  item_date: "2013-07-02 00:00:00"
-  title: 'Introducing Alice: New Voice, New Languages and Improved Text-to-Speech
-    Capabilities'
-  url: https://www.twilio.com/blog/2013/07/twilio-tts-improvements.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: c39fb5552da4bae5fefbea3d59ebf489
-  item_date: "2013-07-05 00:00:00"
-  title: Remembering a Friend ? Jeffrey McManus
-  url: http://www.twilio.com/blog/2013/07/remembering-a-friend-jeffrey-mcmanus.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 70754ef43a65e5ec309f176b993bb2ce
-  item_date: "2013-07-09 00:00:00"
-  title: 'Autism Speaks, Let?s Listen: Josh Carter?s Autism Hackathon'
-  url: https://www.twilio.com/blog/2013/07/autism-hackathon.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 8c21d8037c286fc30ca75ac1ac306004
-  item_date: "2013-07-10 00:00:00"
-  title: 'London Calling: Twilions and DOers Springing Into A Busy Summer'
-  url: https://www.twilio.com/blog/2013/07/london-calling-springing-into-summer.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: c5ab22177db7217aa6001061b544cb9c
-  item_date: "2013-07-10 00:00:00"
-  title: 'Skype for Android 4.0 Update: We Heard You'
-  url: http://blogs.skype.com/2013/07/10/skype-for-android-4-0-update-we-heard-you/
-  domain: blogs.skype.com
-  image: ""
-- curated_id: 5281afa0570c3dbe11b86f336b58fa84
-  item_date: "2013-07-11 00:00:00"
-  title: 'Sunlight Foundation: Accessibility in Congress for iOS'
-  url: http://sunlightfoundation.com/blog/2013/07/11/accessibility-in-congress-for-ios/
-  domain: sunlightfoundation.com
-  image: ""
-- curated_id: e704834a73fe58ac441f6cb824e96089
-  item_date: "2013-07-11 00:00:00"
-  title: Announcing Twilio Two Factor Authentication In The Account Portal
-  url: https://www.twilio.com/blog/2013/07/twilio-two-factor-authentication-account-portal.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 16f39bdf6bb262789d169f01d3ccc1d2
-  item_date: "2013-07-30 00:00:00"
-  title: Cloud Elements Connects SendGrid and Twilio
-  url: https://www.twilio.com/blog/2013/07/cloud-elements-connects-sendgrid-and-twilio.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 1ea408d276514368486ce96207e7d9ca
-  item_date: "2013-08-05 00:00:00"
-  title: The Gifanator Saves The World One GIF At A Time With Twilio SMS
-  url: https://www.twilio.com/blog/2013/08/the-gifanator-saves-the-world-one-gif-at-a-time-with-twilio.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 6f7435370250ed8c652674774da1e42e
-  item_date: "2013-08-06 00:00:00"
-  title: Multi-Channel Chat with Twilio and Google App Engine
-  url: https://www.twilio.com/blog/2013/08/multi-channel-chat-with-twilio-and-google-app-engine.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 48ef5a30dec93cb821f3ee3c62b09c57
-  item_date: "2013-08-08 00:00:00"
-  title: Installing Twilio Client for iOS using CocoaPods
-  url: https://www.twilio.com/blog/2013/08/installing-twilio-client-for-ios-using-cocoapods-2.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 539c5d6424c61fc10b65834276a684b1
-  item_date: "2013-08-12 00:00:00"
-  title: Skype for iPhone and iPad, Version 4.10
-  url: http://blogs.skype.com/2013/08/12/skype-for-iphone-and-ipad-version-4-10/
-  domain: blogs.skype.com
-  image: ""
-- curated_id: 0a8eed3fb377756f9ea13ed6de247b35
-  item_date: "2013-08-13 00:00:00"
-  title: Getting Started with Twilio and Google App Engine for PHP
-  url: https://www.twilio.com/blog/2013/08/twilio-and-google-app-engine-php.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: a43cf1977352c8e009cd77bbe105b567
-  item_date: "2013-08-14 00:00:00"
-  title: Call Your Spreadsheet, Text Your Database ? Using Twilio From Excel and Access
-  url: https://www.twilio.com/blog/2013/08/twilio-from-excel-and-access.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 65a9978720ac7c090c1437f1486b894a
-  item_date: "2013-08-15 00:00:00"
-  title: 'Twilio Tech Talks Video: The Art Of Documentation, Empowering Users'
-  url: https://www.twilio.com/blog/2013/08/twilio-tech-talks-video-the-art-of-documentation-empowering-users.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 6c3a419bf0a30d2ddeb6c59d5ea30f39
-  item_date: "2013-08-16 00:00:00"
-  title: ALE 0.4.0 Release
-  url: https://developer.ford.com/post/2013/08/ale-0-4-0-release
-  domain: developer.ford.com
-  image: ""
-- curated_id: b83dc195abf8b94b72bcd292a156c838
-  item_date: "2013-08-21 00:00:00"
-  title: 'Part 2: Using Twilio SMS with Sinatra for Ruby and Datamapper To Build A
-    Phone Verification System'
-  url: https://www.twilio.com/blog/2013/08/part-2-twilio-sms-phone-verification-system.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: a9ec601d3ed0f2f684b6566754927b4c
-  item_date: "2013-08-27 00:00:00"
-  title: 'Votr Part 4: AngularJS and Authentication with CouchDB'
-  url: https://www.twilio.com/blog/2013/08/votr-part-4-angularjs-and-authentication-with-couchdb.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: b28308b841f302fdf504a3cf4c8ecb8d
-  item_date: "2013-08-29 00:00:00"
-  title: 'Part Three: Verify Phone Numbers With Node.js Using Twilio SMS, Express
-    and Socket.io'
-  url: https://www.twilio.com/blog/2013/08/verify-phone-numbers-with-node-js-using-twilio-sms-express-and-socket-io.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 99fdde8aa654e15bb4a616aa46dbfe63
-  item_date: "2013-09-04 00:00:00"
-  title: 'Skype 2.10 for Windows Phone 8: now with Video Messaging'
-  url: http://blogs.skype.com/2013/09/04/skype-2-10-for-windows-phone-8-now-with-video-messaging/
-  domain: blogs.skype.com
-  image: ""
-- curated_id: 83b78343fe68931e01dd2eda4c86e7e1
-  item_date: "2013-09-09 00:00:00"
-  title: Introducing TelAPI Heroku Addon
-  url: http://www.telapi.com/blog/introducing-telapi-heroku-addon/
-  domain: www.telapi.com
-  image: ""
-- curated_id: 0fe79d095ff2f761c0275b4c45eb327e
-  item_date: "2013-09-11 00:00:00"
-  title: 'Day In The Life: Being A Twilio Software Engineer'
-  url: https://www.twilio.com/blog/2013/09/day-in-the-life-being-a-twilio-software-engineer.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: f9d6edd40790705ecc53dd3ca2413d7f
-  item_date: "2013-09-18 00:00:00"
-  title: Skype for iPhone and iPad, version 4.12
-  url: http://blogs.skype.com/2013/09/18/skype-for-iphone-and-ipad-version-4-12/
-  domain: blogs.skype.com
-  image: ""
-- curated_id: b21d54a9a1c1013206bf0cdc7fc2664e
-  item_date: "2013-10-01 00:00:00"
-  title: Skype for Windows Phone 8 ? version 2.11
-  url: http://blogs.skype.com/2013/10/01/skype-for-windows-phone-8-version-2-11/
-  domain: blogs.skype.com
-  image: ""
-- curated_id: 02c634dd190a478d1bac1df1a3e97409
-  item_date: "2013-10-03 00:00:00"
-  title: Twilio and Parse Collaborate on New and Improved Cloud Code Module
-  url: https://www.twilio.com/blog/2013/10/twilio-and-parse-collaborate-on-new-and-improved-cloud-code-module.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 37103f978cea3f9612c883a8ccf792a8
-  item_date: "2013-10-10 00:00:00"
-  title: Making Your Inbox Intelligent with Context.IO and Twilio
-  url: https://www.twilio.com/blog/2013/10/contexio-and-twilio.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: f800ad44503611fe78725b2c7eb38bde
-  item_date: "2013-10-14 00:00:00"
-  title: Test Your Webhooks Locally with NGrok
-  url: https://www.twilio.com/blog/2013/10/test-your-webhooks-locally-with-ngrok.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 8e70426de5257f32628989829e470832
-  item_date: "2013-10-30 00:00:00"
-  title: Building Screen Pops With Twilio Client and FullContact API
-  url: https://www.twilio.com/blog/2013/10/building-screen-pops-with-twilio-client-and-fullcontact-api.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 03fa712a6e5d00c1225749213e1449a5
-  item_date: "2013-11-06 00:00:00"
-  title: Feature evolution and support for the Skype Desktop API
-  url: http://blogs.skype.com/2013/11/06/feature-evolution-and-support-for-the-skype-desktop-api/
-  domain: blogs.skype.com
-  image: ""
-- curated_id: f75d36ac61e8d73a7ad3ce428becb422
-  item_date: "2013-11-07 00:00:00"
-  title: 'Wheels In Motion: Zagster Unlocks Bike Sharing With Twilio'
-  url: https://www.twilio.com/blog/2013/11/wheels-in-motion-zagster-unlocks-bike-sharing-with-twilio.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: c3c6ca14601c0fc3e312ba9ecdd1a6af
-  item_date: "2013-11-11 00:00:00"
-  title: StarHub launches Tropo API platform for voice and SMS
-  url: https://www.tropo.com/2013/11/starhub-launches-tropo-api-platform-for-voice-and-sms/
-  domain: www.tropo.com
-  image: ""
-- curated_id: 7927a137449d0940325414b32fa9a9e4
-  item_date: "2013-11-13 00:00:00"
-  title: 'Preparing For Dreamforce?s Million Dollar Hackathon: Updated Twilio SFDC
-    Libraries'
-  url: https://www.twilio.com/blog/2013/11/dreamforces-million-dollar-hackathon-updated-twilio-sfdc-libraries.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 52a0ae788befc5b999312f00b7a6bf87
-  item_date: "2013-12-10 00:00:00"
-  title: Skype for Windows Phone 8 ? version 2.13
-  url: http://blogs.skype.com/2013/12/10/skype-for-windows-phone-8-version-2-13/
-  domain: blogs.skype.com
-  image: ""
-- curated_id: ad8712e7ace8698752dc88ea337dd7d7
-  item_date: "2013-12-11 00:00:00"
-  title: Five Common Twilio StackOverflow Questions in Node.js, Ruby and PHP.
-  url: https://www.twilio.com/blog/2013/12/twilio-stackoverflow-questions.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 996a46686d573f58b051e420cf865b8b
-  item_date: "2013-12-13 00:00:00"
-  title: 'Apply for Twilio Heroes: Soft Skills Developers Need to Succeed'
-  url: https://www.twilio.com/blog/2013/12/apply-for-twilio-heroes.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 9a24bba0f74e337d2d0a8e0afb0dd320
-  item_date: "2013-12-16 00:00:00"
-  title: 'The War On Robocalling: How Aaron Foss Fought Robocalls and Won'
-  url: https://www.twilio.com/blog/2013/12/the-war-on-robocalling-how-aaron-foss-fought-robocalls-and-won.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 7a221a837b1219cb92ae3d9bb2f621b5
-  item_date: "2013-12-17 00:00:00"
-  title: 'Votr Part 5: AngularJS and CRUD Using RESTful APIs'
-  url: https://www.twilio.com/blog/2013/12/votr-part-5-angularjs-crud-restful-apis.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: e3d2f63983ca43278577b32053cd9284
-  item_date: "2013-12-18 00:00:00"
-  title: Skype for Mac 6.12 ? Improved Stability and Performance
-  url: http://blogs.skype.com/2013/12/18/skype-for-mac-6-12-improved-stability-and-performance/
-  domain: blogs.skype.com
-  image: ""
-- curated_id: ac32b8b50da7eac18b335dfb3e9e388f
-  item_date: "2013-12-19 00:00:00"
-  title: Announcing free SMS for development and new worldwide production pricing
-  url: https://www.tropo.com/2013/12/announcing-free-sms-for-development-and-new-worldwide-production-pricing/
-  domain: www.tropo.com
-  image: ""
-- curated_id: 58f2b746ca6081a464b116bf4b765061
-  item_date: "2014-01-28 00:00:00"
-  title: How To Record Your Podcast Interviews With Twilio
-  url: https://www.twilio.com/blog/2014/01/how-to-record-your-podcast-interviews-with-twilio-nt.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: b65fd3da7d1efa6cc5e7c1865a535a4e
-  item_date: "2014-01-29 00:00:00"
-  title: Discover The Full Power Of Twilio With New API Explorer Updates
-  url: https://www.twilio.com/blog/2014/01/discover-the-full-power-of-twilio-with-new-api-explorer-updates-nt.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: c2164441ba29cbad458565703fd2defd
-  item_date: "2014-01-31 15:00:06"
-  title: How To Build A Call Center With Parse and Twilio
-  url: https://www.twilio.com/blog/2014/01/building-a-call-center-with-parse-and-twilio-nt.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 85d201e04a8410248a6508544064c0e4
-  item_date: "2014-01-31 18:42:08"
-  title: Voice Chat API ? free audio conference web service powered by WebRTC.
-  url: https://www.voicechatapi.com
-  domain: www.voicechatapi.com
-  image: ""
-- curated_id: 357866862f1331e18ef1080d35050ec5
-  item_date: "2014-02-17 00:00:00"
-  title: 'Communicate With Confidence: Introducing The Twilio Messaging Quality Dashboard'
-  url: https://www.twilio.com/blog/2014/02/introducing-the-twilio-messaging-quality-dashboard-nt.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: a2a5875eb389a10cfa64beea20874303
-  item_date: "2014-03-03 00:00:00"
-  title: Voice and SMS API Company, Plivo, Joins Mashape
-  url: http://blog.mashape.com/voice-and-sms-api-company-plivo-joins-mashape/
-  domain: blog.mashape.com
-  image: ""
-- curated_id: f09dd6967add72b367a740233d8d42c6
-  item_date: "2014-03-03 00:00:00"
-  title: Twilio-Powered Community Experts Offer Help Live On AirPair
-  url: https://www.twilio.com/blog/2014/03/twilio-powered-community-experts-offer-help-live-on-airpair-nt.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 289f6f77aaedaa175ccc5cf30b8b028e
-  item_date: "2014-06-05 00:00:00"
-  title: Easy mobile integration with Appery.io
-  url: https://www.tropo.com/2014/06/easy-mobile-integration-appery-io/
-  domain: www.tropo.com
-  image: ""
-- curated_id: 548b2182aebe4fd93a98a7d59fc6f510
-  item_date: "2014-06-05 00:00:00"
-  title: Security Notice for June 5th OpenSSL Vulnerability Disclosure
-  url: https://www.twilio.com/blog/2014/06/security-notice-for-june-5th-openssl-vulnerability-disclosure.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: f2947bd0eb7a1771541402e190eb317b
-  item_date: "2014-06-09 00:00:00"
-  title: 'Introducing Developer Evangelist Ricky Robinett: Unlocking The World of
-    Possiblities Through Marvel?s Age of Apocalypse'
-  url: https://www.twilio.com/blog/2014/06/introducing-developer-evangelist-ricky-robinett.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 13194a29da0030a5b5562c86d3a2d03d
-  item_date: "2014-06-18 00:00:00"
-  title: Vengo Labs Re-Invents Vending Machines With New Tech, Twilio SMS
-  url: https://www.twilio.com/blog/2014/06/vengo-labs-re-invents-vending-machines-with-new-tech-twilio-sms.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 0425c46ccfd942fe77a85f947b82e077
-  item_date: "2014-06-18 00:00:00"
-  title: Garduino Phone ? Saving Plants from Negligent Parents using Twilio, Arduino
-    and Sinatra
-  url: https://www.twilio.com/blog/2014/06/garduino-phone-using-twilio-arduino-and-sinatra.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 03c534f854b138d8c87682621e41a0cd
-  item_date: "2014-06-20 00:00:00"
-  title: 'Win Your Copy of Roger Stringers New Twilio Cookbook: Share Your #TwilioRecipies'
-  url: https://www.twilio.com/blog/2014/06/twilio-cookbook-contest-nt.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: ffd61d2861e27acbf8ce8edffa138a71
-  item_date: "2014-06-25 00:00:00"
-  title: Using Natural Language Processing for Better SMS Interfaces Using Twilio
-    and Python?s TextBlob
-  url: https://www.twilio.com/blog/2014/06/using-natural-language-processing-for-better-sms-interfaces-using-twilio-and-pythons-textblob.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 434a9893e5873ab644cc29ddbabddcdb
-  item_date: "2014-07-14 00:00:00"
-  title: 'WatchOverMe: The Mobile Watchdog App, Protecting Over 140k Users With Twilio
-    SMS'
-  url: https://www.twilio.com/blog/2014/07/watchoverme-saves-lives-with-twilio-sms-nt.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 76863d936c4dac060239cb9f57714a96
-  item_date: "2014-07-17 13:39:04"
-  title: How A Load Test Saved A Florida County Election Call Center In 4-lines of
-    Code
-  url: https://www.twilio.com/blog/2014/07/how-a-load-test-saved-a-florida-county-election-call-center-in-4-lines-of-code-nt.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 18a877b021e6885c61b4e7f41e850a43
-  item_date: "2014-07-18 00:00:00"
-  title: 'Join Twilio And Friends On Our #TwilioPl Roadtrip Across Poland'
-  url: https://www.twilio.com/blog/2014/07/join-twilio-and-friends-on-our-twiliopl-roadtrip-across-poland-nt.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: c5018b094bd70edad672843d5be8d1db
-  item_date: "2014-07-22 00:00:00"
-  title: Chartio Adds Twilio As A Data Source, Making Your Twilio Stats Beautiful
-    and Accessible
-  url: https://www.twilio.com/blog/2014/07/chartio-adds-twilio-as-a-data-source-twilio-stats-nt.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: e01f8866fdab042867cb0c6039ce97cd
-  item_date: "2014-07-23 10:09:40"
-  title: Building Beyond Google Voice with Twilio
-  url: https://www.twilio.com/blog/2013/03/building-beyond-google-voice-with-twilio.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: e6e43c86585315a17ff7187688b3b3a4
-  item_date: "2014-07-23 12:34:06"
-  title: HTTP Response Codes and You | OP3Nvoice
-  url: http://clarify.io/welcome-to-clarify/
-  domain: clarify.io
-  image: ""
-- curated_id: e43fa6b973bae40503e674e662b8d74b
-  item_date: "2014-07-24 00:00:00"
-  title: ""
-  url: http://popuparchive.tumblr.com/post/92744234039/digital-doesnt-mean-permanent-using-the-internet
-  domain: popuparchive.tumblr.com
-  image: ""
-- curated_id: 7eeea98164523ce4bfd6fa891b143613
-  item_date: "2014-07-24 00:00:00"
-  title: Build an IVR system with Twilio and Django
-  url: https://www.twilio.com/blog/2014/07/build-an-ivr-system-with-twilio-and-django.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 5a96381a5a903329c92eb821baaaa67f
-  item_date: "2014-07-29 00:00:00"
-  title: Creating a Click to Call Service with Twilio Client, Pusher and Python
-  url: https://www.twilio.com/blog/2014/07/creating-a-click-to-call-service-with-twilio-client-pusher-and-python.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: baf95cc9b420b924cd444542ded1a0c8
-  item_date: "2014-07-30 00:00:00"
-  title: MovingCompanies.com Puts You In Touch with the Right Movers with Twilio Voice
-  url: https://www.twilio.com/blog/2014/07/movingcompanies-com-puts-you-in-touch-with-the-right-movers-with-twilio-voice-nt.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: b11736caf1670d18d1853d86713a728b
-  item_date: "2014-08-05 00:00:00"
-  title: Twilio Introduces Payment Via PayPal
-  url: https://www.twilio.com/blog/2014/08/twilio-introduces-payment-via-paypal-nt.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 62e79ff9866195fad6b15ca8440277ea
-  item_date: "2014-08-06 00:00:00"
-  title: Build Interactive Voicemail for Sports Fans with Twilio, Browserify, Angular,
-    and Less CSS (Part Two)
-  url: https://www.twilio.com/blog/2014/08/build-interactive-voicemail-for-sports-fans-with-twilio-browserify-angular-and-less-css-part-two.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 2fd687cb60ffd8409278b7970d0d9b5b
-  item_date: "2014-08-06 00:00:00"
-  title: Introducing New Receipt Options in the Twilio Account Portal
-  url: https://www.twilio.com/blog/2014/08/new-receipt-options-in-the-twilio-account-portal-nt.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: bc5b4c381af399fb366b9d44c123976f
-  item_date: "2014-08-07 00:00:00"
-  title: Twilio Open Source Rapid Response Kit Adds Heroku Button and New Volunteer
-    Tool
-  url: https://www.twilio.com/blog/2014/08/twilio-open-source-rapid-response-kit-adds-heroku-button-and-new-volunteer-tool.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 7330824f0a0b7a6013f8770fb04cf162
-  item_date: "2014-08-07 00:00:00"
-  title: 'Getting To Know Your Twilio Short Code: Rules, Regulations and Capabilities'
-  url: https://www.twilio.com/blog/2014/08/getting-to-know-your-twilio-short-code-rules-regulations-and-capabilities.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 7de6f33e8bf31d90087ef034b0a86349
-  item_date: "2014-08-08 00:00:00"
-  title: Clockwise MD Lets You Skip The Waiting Room With Twilio SMS
-  url: https://www.twilio.com/blog/2014/08/clockwise-md-lets-you-skip-the-waiting-room-with-twilio-sms-nt.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: f69792b12c02fdf4d35e198a188fcb92
-  item_date: "2014-08-12 00:00:00"
-  title: Zidisha Helps Flatten Financial Barriers In Developing Countries With Twilio
-    SMS
-  url: https://www.twilio.com/blog/2014/08/zidisha-flattens-financial-barriers-in-developing-countries-with-twilio-sms-nt.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: da5dd920f4be5e028223e1553790635e
-  item_date: "2014-08-13 00:00:00"
-  title: 'Rewind: Connecting Twilio SMS to Google Spreadsheet'
-  url: https://www.twilio.com/blog/2014/08/connecting-twilio-sms-to-google-spreadsheet.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 437756360c5d1f4ef73a8bdd8acdf297
-  item_date: "2014-08-14 00:00:00"
-  title: Voice V2 Platform Raises The Bar For Call Quality
-  url: http://blog.sendhub.com/voicev2
-  domain: blog.sendhub.com
-  image: ""
-- curated_id: c759eaae8b0158cedd07e8381f7f890d
-  item_date: "2014-08-15 00:00:00"
-  title: WebRTC Support, Device Based Invitations, Skye Click-to-Call Feature and
-    Updated Domain Verification Process released this month
-  url: http://banckle.com/blog/webrtc-support-device-based-invitations-skye-click-to-call-feature-and-updated-domain-verification-process-released-this-month.html
-  domain: banckle.com
-  image: ""
-- curated_id: 0a1ed5059241b5bcbdd3244ae2b114a9
-  item_date: "2014-08-18 00:00:00"
-  title: Getting Started With Twilio and Java Play Framework
-  url: https://www.twilio.com/blog/2014/08/play-with-twilio.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 74546fdbec87de88e66e801458b0d4e1
-  item_date: "2014-08-20 00:00:00"
-  title: Front Makes SMS Collaborative With Twilio
-  url: https://www.twilio.com/blog/2014/08/front-makes-sms-collaborative-with-twilio-nt.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 7830579b7dd0ad0d897ff221c08cdb3c
-  item_date: "2014-08-21 00:00:00"
-  title: Introducing New Phone Number Search in the Twilio Account Portal
-  url: https://www.twilio.com/blog/2014/08/13798introducing-new-phone-number-search-in-the-twilio-account-portal-nt.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 0ab840e8bc229986c753baf32909bdad
-  item_date: "2014-09-30 12:52:17"
-  title: The Expect Labs Blog
-  url: http://blog.mindmeld.com/post/90364642563/how-to-voice-enable-your-apps-with-the-mindmeld
-  domain: blog.mindmeld.com
-  image: ""
-- curated_id: 195a922dd6bb1fd975e6797ed1ff71e1
-  item_date: "2014-10-27 00:00:00"
-  title: 'Beyond Siri, Google Now and Cortana: What is the future of virtual assistants?'
-  url: http://thenextweb.com/insider/2014/10/27/beyond-siri-google-now-cortana-future-virtual-assistants/
-  domain: thenextweb.com
-  image: ""
 - curated_id: bf87d2c90d9d7f41636066812e0fa00a
   item_date: "2015-01-05 00:00:00"
   title: Facebook acquires speech-recognition IoT startup Wit.AI
@@ -1060,18 +35,18 @@
   url: http://nordicapis.com/building-a-better-voice-mail-using-twilio/
   domain: nordicapis.com
   image: ""
+- curated_id: a0e504cdd5222b8ab9aec63934d19345
+  item_date: "2015-04-02 00:00:00"
+  title: Interactive, shareable audio transcripts
+  url: http://popuparchive.tumblr.com/post/115332092929/interactive-shareable-audio-transcripts#_=_
+  domain: popuparchive.tumblr.com
+  image: ""
 - curated_id: 32deb10175ab3ca7d88158d6bc578527
   item_date: "2015-04-02 00:00:00"
   title: IBM Watson QA + Speech Recognition + Speech Synthesis = A Conversation With
     Your Computer
   url: http://www.tricedesigns.com/2015/04/01/ibm-watson-qa-speech-recognition-speech-synthesis-a-conversation-with-your-computer/
   domain: www.tricedesigns.com
-  image: ""
-- curated_id: a0e504cdd5222b8ab9aec63934d19345
-  item_date: "2015-04-02 00:00:00"
-  title: Interactive, shareable audio transcripts
-  url: http://popuparchive.tumblr.com/post/115332092929/interactive-shareable-audio-transcripts#_=_
-  domain: popuparchive.tumblr.com
   image: ""
 - curated_id: 0d1751f64da9815ad3ba2c6e8b214b01
   item_date: "2015-04-08 00:00:00"
@@ -1091,17 +66,17 @@
   url: http://www.theverge.com/2015/5/1/8532257/amazon-echo-alexa-voice-assistant-ifttt-updatenew-services
   domain: www.theverge.com
   image: ""
-- curated_id: 45605247bdd401a250917f2a89e087b7
-  item_date: "2015-05-05 00:00:00"
-  title: 'Powershell : How to Listen to your Outlook Emails like a Voicemail'
-  url: https://geekeefy.wordpress.com/2015/05/06/powershell-how-to-listen-to-your-outlook-emails-like-a-voicemail/
-  domain: geekeefy.wordpress.com
-  image: ""
 - curated_id: 75cffa523be074b626841bfa3f823ffe
   item_date: "2015-05-05 00:00:00"
   title: The NSAs Voice-to-Text Capabilities
   url: https://www.schneier.com/blog/archives/2015/05/the_nsas_voice-.html
   domain: www.schneier.com
+  image: ""
+- curated_id: 45605247bdd401a250917f2a89e087b7
+  item_date: "2015-05-05 00:00:00"
+  title: 'Powershell : How to Listen to your Outlook Emails like a Voicemail'
+  url: https://geekeefy.wordpress.com/2015/05/06/powershell-how-to-listen-to-your-outlook-emails-like-a-voicemail/
+  domain: geekeefy.wordpress.com
   image: ""
 - curated_id: e914a7a44ece4a10b699f024d9720ab4
   item_date: "2015-05-26 00:00:00"
@@ -1165,11 +140,11 @@
   url: https://www.tropo.com/2015/06/advanced-transcription-analytics-voicebase-tropo/
   domain: www.tropo.com
   image: ""
-- curated_id: 659db4af158315691ed1a5273e43b17f
+- curated_id: 68fbb122c87b64607f8c7709e61a58c9
   item_date: "2015-06-25 00:00:00"
-  title: Wells Fargo to Roll Out Voice and Facial Recognition in 2016
-  url: http://www.speechtechmag.com/Articles/News/Speech-Technology-Digest/Wells-Fargo-to-Roll-Out-Voice-and-Facial-Recognition-in-2016-104919.aspx
-  domain: www.speechtechmag.com
+  title: ?Amazon throws in $100 million, developer tools to open Echos Alexa ecosystem
+  url: http://www.zdnet.com/article/amazon-throws-100-million-developer-tools-to-open-echos-alexa-ecosystem/#ftag=RSSbaffb68
+  domain: www.zdnet.com
   image: ""
 - curated_id: b8ef3d2d41d513297bde9a42110b9ba8
   item_date: "2015-06-25 00:00:00"
@@ -1183,11 +158,17 @@
   url: https://developer.amazon.com/appsandservices/community/post/Tx28SME1SP9H8I4/Build-New-Voice-Experiences-with-Help-from-the-Alexa-Fund
   domain: developer.amazon.com
   image: ""
-- curated_id: 68fbb122c87b64607f8c7709e61a58c9
+- curated_id: 56359217f9a358153df1f545b3f5b3a2
   item_date: "2015-06-25 00:00:00"
-  title: ?Amazon throws in $100 million, developer tools to open Echos Alexa ecosystem
-  url: http://www.zdnet.com/article/amazon-throws-100-million-developer-tools-to-open-echos-alexa-ecosystem/#ftag=RSSbaffb68
-  domain: www.zdnet.com
+  title: New ? Alexa Skills Kit, Alexa Voice Service, Alexa Fund
+  url: https://aws.amazon.com/blogs/aws/new-alexa-skills-kit-alexa-voice-service-alexa-fund/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 659db4af158315691ed1a5273e43b17f
+  item_date: "2015-06-25 00:00:00"
+  title: Wells Fargo to Roll Out Voice and Facial Recognition in 2016
+  url: http://www.speechtechmag.com/Articles/News/Speech-Technology-Digest/Wells-Fargo-to-Roll-Out-Voice-and-Facial-Recognition-in-2016-104919.aspx
+  domain: www.speechtechmag.com
   image: ""
 - curated_id: e8c92b350ac053bd9a15c5bdd5edc9d5
   item_date: "2015-06-25 00:00:00"
@@ -1195,12 +176,6 @@
     New Voice Driven Capabilities
   url: https://developer.amazon.com/appsandservices/community/post/Tx205N9U1UD338H/Introducing-the-Alexa-Skills-Kit-Enabling-Developers-to-Create-Entirely-New-Voic
   domain: developer.amazon.com
-  image: ""
-- curated_id: 56359217f9a358153df1f545b3f5b3a2
-  item_date: "2015-06-25 00:00:00"
-  title: New ? Alexa Skills Kit, Alexa Voice Service, Alexa Fund
-  url: https://aws.amazon.com/blogs/aws/new-alexa-skills-kit-alexa-voice-service-alexa-fund/
-  domain: aws.amazon.com
   image: ""
 - curated_id: 50671f171cf98c2fefb6c311cac958b7
   item_date: "2015-06-25 09:35:20"
@@ -1245,17 +220,17 @@
   url: http://blog.ibmjstart.net/2015/10/21/taking-voice-technology-beyond-commands/
   domain: blog.ibmjstart.net
   image: ""
+- curated_id: 387d0dfd7538f13ab2b33aece5c5edc8
+  item_date: "2015-10-23 00:00:00"
+  title: Announcing Automatic Alexa Skill Publication
+  url: https://developer.amazon.com/appsandservices/community/post/Tx27VYKTA9EIRAG/Announcing-Automatic-Alexa-Skill-Publication
+  domain: developer.amazon.com
+  image: ""
 - curated_id: ceaff463674669a5ebf97331128cfb1c
   item_date: "2015-10-23 00:00:00"
   title: 'Announcing New Alexa Skills Kit (ASK) Features: Built-In Intents and Slot
     Type for US Cities'
   url: https://developer.amazon.com/appsandservices/community/post/Tx4DUAGXZXZ5A6/Announcing-New-Alexa-Skills-Kit-ASK-Features-Built-In-Intents-and-Slot-Type-for
-  domain: developer.amazon.com
-  image: ""
-- curated_id: 387d0dfd7538f13ab2b33aece5c5edc8
-  item_date: "2015-10-23 00:00:00"
-  title: Announcing Automatic Alexa Skill Publication
-  url: https://developer.amazon.com/appsandservices/community/post/Tx27VYKTA9EIRAG/Announcing-Automatic-Alexa-Skill-Publication
   domain: developer.amazon.com
   image: ""
 - curated_id: ec7f878a30f34d1c659500b6be52f818
@@ -1387,13 +362,6 @@
   url: http://blog.atooma.com/post/140795240057/the-voice-of-iot#_=_
   domain: blog.atooma.com
   image: ""
-- curated_id: 0f276d7fbe6fee292d7c568f5b2ae67c
-  item_date: "2016-03-11 00:00:00"
-  title: Amazon Alexa?s new feature could be the best or worst thing for your bank
-    account
-  url: http://thenextweb.com/gadgets/2016/03/12/amazon-alexas-new-feature-could-be-the-best-or-worst-thing-for-your-bank-account/
-  domain: thenextweb.com
-  image: ""
 - curated_id: e88364cf41ee772cdfb4b96b947ab4ad
   item_date: "2016-03-11 00:00:00"
   title: Amazon?s Alexa now lets Capital One customers manage finances using their
@@ -1401,11 +369,24 @@
   url: http://venturebeat.com/2016/03/11/amazons-alexa-now-lets-capital-one-customers-pay-bills-and-access-available-balance-using-their-voice/
   domain: venturebeat.com
   image: ""
+- curated_id: 0f276d7fbe6fee292d7c568f5b2ae67c
+  item_date: "2016-03-11 00:00:00"
+  title: Amazon Alexa?s new feature could be the best or worst thing for your bank
+    account
+  url: http://thenextweb.com/gadgets/2016/03/12/amazon-alexas-new-feature-could-be-the-best-or-worst-thing-for-your-bank-account/
+  domain: thenextweb.com
+  image: ""
 - curated_id: 6e8540fffff0b5c6145a0be13ceb5e59
   item_date: "2016-03-16 10:36:27"
   title: 'Slack, Chatbots, and Voice: At the Intersection of Humans and APIs'
   url: http://launchany.com/slack-chatbots-and-voice-at-the-intersection-of-humans-and-apis/
   domain: launchany.com
+  image: ""
+- curated_id: 3fe6b00c943e47119881b933e602d876
+  item_date: "2016-03-17 00:00:00"
+  title: Amazons Alexa can now shout your Fitbit stats at you
+  url: http://www.theverge.com/2016/3/17/11251030/amazon-echo-fitbit-skill
+  domain: www.theverge.com
   image: ""
 - curated_id: 0b270e294397ca4a50ea00492f25e844
   item_date: "2016-03-17 00:00:00"
@@ -1413,12 +394,6 @@
     data using their voice
   url: http://venturebeat.com/2016/03/17/amazons-alexa-now-lets-fitbit-owners-request-steps-sleep-other-key-fitness-data-using-their-voice/
   domain: venturebeat.com
-  image: ""
-- curated_id: 3fe6b00c943e47119881b933e602d876
-  item_date: "2016-03-17 00:00:00"
-  title: Amazons Alexa can now shout your Fitbit stats at you
-  url: http://www.theverge.com/2016/3/17/11251030/amazon-echo-fitbit-skill
-  domain: www.theverge.com
   image: ""
 - curated_id: 4396882e6f1bad3f013002ae53ec8d4b
   item_date: "2016-03-22 00:00:00"
@@ -1458,17 +433,17 @@
   url: http://www.programmableweb.com/news/amazon-adds-new-improvements-to-alexa-voice-service/brief/2016/03/29
   domain: www.programmableweb.com
   image: ""
-- curated_id: 148338bbaa1db1d989a6228c3b1b5dab
-  item_date: "2016-03-31 00:00:00"
-  title: Roll Your Own Amazon Echo on a Raspberry Pi
-  url: http://hackaday.com/2016/03/31/roll-your-own-amazon-echo-on-a-raspberry-pi/
-  domain: hackaday.com
-  image: ""
 - curated_id: 7bf2b05bacd9656fcf712282aeffbd05
   item_date: "2016-03-31 00:00:00"
   title: Twitter Fabric now has speech recognition courtesy of Nuance?s SpeechKit
   url: http://thenextweb.com/dd/2016/03/31/twitter-fabric-speech-recognition/
   domain: thenextweb.com
+  image: ""
+- curated_id: 148338bbaa1db1d989a6228c3b1b5dab
+  item_date: "2016-03-31 00:00:00"
+  title: Roll Your Own Amazon Echo on a Raspberry Pi
+  url: http://hackaday.com/2016/03/31/roll-your-own-amazon-echo-on-a-raspberry-pi/
+  domain: hackaday.com
   image: ""
 - curated_id: 7f69259962a4fb9dc2cc5ecb6cf3980b
   item_date: "2016-04-01 00:00:00"
@@ -1482,29 +457,29 @@
   url: https://developer.amazon.com/appsandservices/community/post/Tx2LL8LQWN9T33O/Developing-Alexa-Skills-Locally-with-Node-js-Deploying-Your-Skill-to-Staging
   domain: developer.amazon.com
   image: ""
-- curated_id: 8eb9526f7af2b611f85af26b17748d07
-  item_date: "2016-04-05 00:00:00"
-  title: Amazon opens up the software for Alexa-controlled smart homes
-  url: http://www.cnet.com/news/amazon-opens-up-the-software-for-alexa-controlled-smart-homes/
-  domain: www.cnet.com
-  image: ""
 - curated_id: f1a87b8e9304cced5c9f60f8c25f453f
   item_date: "2016-04-05 00:00:00"
   title: Amazon Enables Developers to Extend Alexa?s Smart Home Capabilities
   url: https://developer.amazon.com/appsandservices/community/post/Tx1KIRDSNFDHEA4/Amazon-Enables-Developers-to-Extend-Alexa-s-Smart-Home-Capabilities-a-New-Additi
   domain: developer.amazon.com
   image: ""
-- curated_id: 41334ca09714a87b1a84fe337af99125
-  item_date: "2016-04-06 00:00:00"
-  title: Publishing Your Skill Code to Lambda via the Command Line Interface
-  url: https://developer.amazon.com/appsandservices/community/post/Tx1UE9W1NQ0GYII/Publishing-Your-Skill-Code-to-Lambda-via-the-Command-Line-Interface
-  domain: developer.amazon.com
+- curated_id: 8eb9526f7af2b611f85af26b17748d07
+  item_date: "2016-04-05 00:00:00"
+  title: Amazon opens up the software for Alexa-controlled smart homes
+  url: http://www.cnet.com/news/amazon-opens-up-the-software-for-alexa-controlled-smart-homes/
+  domain: www.cnet.com
   image: ""
 - curated_id: 22831b2134e78e96a895a9c295075726
   item_date: "2016-04-06 00:00:00"
   title: The Amazon Echo is magical. Its also turning my kid into an a--hole
   url: http://www.businessinsider.com/hunter-walk-on-amazon-echo-and-please-2016-4
   domain: www.businessinsider.com
+  image: ""
+- curated_id: 41334ca09714a87b1a84fe337af99125
+  item_date: "2016-04-06 00:00:00"
+  title: Publishing Your Skill Code to Lambda via the Command Line Interface
+  url: https://developer.amazon.com/appsandservices/community/post/Tx1UE9W1NQ0GYII/Publishing-Your-Skill-Code-to-Lambda-via-the-Command-Line-Interface
+  domain: developer.amazon.com
   image: ""
 - curated_id: 755949a6651ffad31a012e662ce658d2
   item_date: "2016-04-07 00:00:00"
@@ -1536,17 +511,17 @@
   url: http://thenextweb.com/gadgets/2016/04/22/amazons-echo-google-calendar/
   domain: thenextweb.com
   image: ""
-- curated_id: 9ee97978aa8dc472d4259ec223883fc9
-  item_date: "2016-04-23 00:00:00"
-  title: Retro Rotary Raspi Phone Rings Alexa
-  url: http://hackaday.com/2016/04/23/retro-rotary-raspi-phone-rings-alexa/
-  domain: hackaday.com
-  image: ""
 - curated_id: 96b10ac911cda94c3695a9ec51608bae
   item_date: "2016-04-23 00:00:00"
   title: Amazons Alexa can now add events to Google Calendar
   url: http://www.theverge.com/2016/4/23/11493778/google-calendar-add-events-using-amazon-alexa
   domain: www.theverge.com
+  image: ""
+- curated_id: 9ee97978aa8dc472d4259ec223883fc9
+  item_date: "2016-04-23 00:00:00"
+  title: Retro Rotary Raspi Phone Rings Alexa
+  url: http://hackaday.com/2016/04/23/retro-rotary-raspi-phone-rings-alexa/
+  domain: hackaday.com
   image: ""
 - curated_id: cda0e86919b37a21d9d2fbe96e87288c
   item_date: "2016-04-28 00:00:00"
@@ -1579,18 +554,18 @@
   url: https://developer.amazon.com/appsandservices/community/post/TxKALMUNLHZPAP/New-Alexa-Skills-Kit-Template-Step-by-Step-Guide-to-Build-a-How-To-Skill
   domain: developer.amazon.com
   image: ""
-- curated_id: 2b6417a68e504cb3b8debf4136b50ab3
-  item_date: "2016-05-06 00:00:00"
-  title: Someone hacked a Tesla Model S so that it could be summoned using voice commands
-  url: http://www.businessinsider.com/amazon-echo-summon-tesla-model-s-hack-2016-5
-  domain: www.businessinsider.com
-  image: ""
 - curated_id: 140a57eeb6a945058c60bc341769e3c6
   item_date: "2016-05-06 00:00:00"
   title: RAIN Developer Builds an Alexa Skill to Play Rock, Paper, Scissors, Lizard,
     Spock
   url: https://developer.amazon.com/appsandservices/community/post/TxDBBRMNWF6YGM/RAIN-Developer-Builds-an-Alexa-Skill-to-Play-Rock-Paper-Scissors-Lizard-Spock
   domain: developer.amazon.com
+  image: ""
+- curated_id: 2b6417a68e504cb3b8debf4136b50ab3
+  item_date: "2016-05-06 00:00:00"
+  title: Someone hacked a Tesla Model S so that it could be summoned using voice commands
+  url: http://www.businessinsider.com/amazon-echo-summon-tesla-model-s-hack-2016-5
+  domain: www.businessinsider.com
   image: ""
 - curated_id: 7b503ab782c825b5e737b6d3a6808cba
   item_date: "2016-05-08 00:00:00"
@@ -1604,17 +579,17 @@
   url: http://www.theverge.com/2016/5/10/11649136/amazon-echo-alexa-kayak-track-flights
   domain: www.theverge.com
   image: ""
-- curated_id: e42f2f6ab395318cce4ae44fe485a261
-  item_date: "2016-05-11 00:00:00"
-  title: Amazons Echo can now tell you where your Amazon packages are
-  url: http://www.theverge.com/circuitbreaker/2016/5/11/11658218/amazon-echo-now-tracks-deliveries
-  domain: www.theverge.com
-  image: ""
 - curated_id: f5039c577dd20da5f363ad8955cab20f
   item_date: "2016-05-11 00:00:00"
   title: Amazon?s Alexa voice assistant can finally track, you know, Amazon packages
   url: http://thenextweb.com/apps/2016/05/11/amazons-alexa-voice-assistant-can-finally-track-know-amazon-packages/
   domain: thenextweb.com
+  image: ""
+- curated_id: e42f2f6ab395318cce4ae44fe485a261
+  item_date: "2016-05-11 00:00:00"
+  title: Amazons Echo can now tell you where your Amazon packages are
+  url: http://www.theverge.com/circuitbreaker/2016/5/11/11658218/amazon-echo-now-tracks-deliveries
+  domain: www.theverge.com
   image: ""
 - curated_id: fe2ea2c604d3ca30386fd4739965ff2c
   item_date: "2016-05-17 00:00:00"
@@ -1640,17 +615,17 @@
   url: https://dzone.com/articles/i-built-my-own-amazon-echo-alexa-with-a-raspberry
   domain: dzone.com
   image: ""
-- curated_id: 70d052b922ba6b57189c17cd0f64dfb7
-  item_date: "2016-05-25 00:00:00"
-  title: 'The Information: Apple Developing Siri API and Echo-Like Device'
-  url: https://www.theinformation.com/apple-opening-siri-developing-echo-rival
-  domain: www.theinformation.com
-  image: ""
 - curated_id: 03a48426ef33558b087e0e2bfad898f2
   item_date: "2016-05-25 00:00:00"
   title: 'Apples Siri SDK: Too late to duel Amazon Echo, Google Assistant?'
   url: http://www.zdnet.com/article/apples-siri-sdk-too-late-to-duel-amazon-echo-google-assistant/
   domain: www.zdnet.com
+  image: ""
+- curated_id: 70d052b922ba6b57189c17cd0f64dfb7
+  item_date: "2016-05-25 00:00:00"
+  title: 'The Information: Apple Developing Siri API and Echo-Like Device'
+  url: https://www.theinformation.com/apple-opening-siri-developing-echo-rival
+  domain: www.theinformation.com
   image: ""
 - curated_id: c2a071da22dc3f9e53dbbf62651ef0a5
   item_date: "2016-05-26 00:00:00"
@@ -1695,17 +670,17 @@
   url: https://developer.amazon.com/appsandservices/community/post/Tx3ODRPXT6P3TLB/Alexa-Comes-to-Pebble-Core-Take-it-on-Your-Next-Run
   domain: developer.amazon.com
   image: ""
-- curated_id: e0e03ac0fdc584c5380472af3ddf24e3
-  item_date: "2016-06-13 00:00:00"
-  title: Apple?s Siri will soon be able to hail an Uber for you
-  url: http://thenextweb.com/apple/2016/06/14/apples-siri-will-soon-able-hail-uber/
-  domain: thenextweb.com
-  image: ""
 - curated_id: f4b513170bb1696ba355edd491e62468
   item_date: "2016-06-13 00:00:00"
   title: Apple is finally opening a Siri API to developers
   url: http://beta.dailyreadlist.com/article/apple-is-finally-opening-a-siri-api-to-developers-86
   domain: beta.dailyreadlist.com
+  image: ""
+- curated_id: e0e03ac0fdc584c5380472af3ddf24e3
+  item_date: "2016-06-13 00:00:00"
+  title: Apple?s Siri will soon be able to hail an Uber for you
+  url: http://thenextweb.com/apple/2016/06/14/apples-siri-will-soon-able-hail-uber/
+  domain: thenextweb.com
   image: ""
 - curated_id: 985261fa83045c43fa78000a4c9eeac5
   item_date: "2016-06-16 00:00:00"
@@ -1725,12 +700,6 @@
   url: https://www.built.io/blog/2016/06/insight-ios-10-predictions-for-siri-and-bots/
   domain: www.built.io
   image: ""
-- curated_id: 81c12009a55b6eb3efb9309c279f40a8
-  item_date: "2016-06-21 00:00:00"
-  title: 'Flask-Ask: A New Python Framework for Rapid Alexa Skills Kit Development'
-  url: https://developer.amazon.com/appsandservices/community/post/Tx14R0IYYGH3SKT/Flask-Ask-A-New-Python-Framework-for-Rapid-Alexa-Skills-Kit-Development
-  domain: developer.amazon.com
-  image: ""
 - curated_id: 28250fd2722d5f20592db2ce68d2da71
   item_date: "2016-06-21 00:00:00"
   title: Majority of consumers will embrace digital assistants like Google Now and
@@ -1738,11 +707,23 @@
   url: http://betanews.com/2016/06/21/digital-assistants-rise-in-popularity/
   domain: betanews.com
   image: ""
+- curated_id: 81c12009a55b6eb3efb9309c279f40a8
+  item_date: "2016-06-21 00:00:00"
+  title: 'Flask-Ask: A New Python Framework for Rapid Alexa Skills Kit Development'
+  url: https://developer.amazon.com/appsandservices/community/post/Tx14R0IYYGH3SKT/Flask-Ask-A-New-Python-Framework-for-Rapid-Alexa-Skills-Kit-Development
+  domain: developer.amazon.com
+  image: ""
 - curated_id: 806c6aa0bf2e526a20d696f4193f6ff9
   item_date: "2016-06-27 00:00:00"
   title: Why the Amazon Echo Is the Future of Tech
   url: http://www.nasdaq.com/article/why-the-amazon-echo-is-the-future-of-tech-cm642206
   domain: www.nasdaq.com
+  image: ""
+- curated_id: 15c37007c64179720517b674a843585b
+  item_date: "2016-06-28 00:00:00"
+  title: 'Shout at the devil: the confusing world of talking to computers'
+  url: http://www.theverge.com/2016/6/28/12038802/apple-siri-amazon-alexa-microsoft-cortana-google-assistant-voice
+  domain: www.theverge.com
   image: ""
 - curated_id: a26a2a57fc79f168d7fd0ea052cad146
   item_date: "2016-06-28 00:00:00"
@@ -1750,12 +731,6 @@
     by voice
   url: https://itunes.apple.com/us/app/amazon-alexa/id944011620
   domain: itunes.apple.com
-  image: ""
-- curated_id: 15c37007c64179720517b674a843585b
-  item_date: "2016-06-28 00:00:00"
-  title: 'Shout at the devil: the confusing world of talking to computers'
-  url: http://www.theverge.com/2016/6/28/12038802/apple-siri-amazon-alexa-microsoft-cortana-google-assistant-voice
-  domain: www.theverge.com
   image: ""
 - curated_id: 06231fef482514b8171763733be45d35
   item_date: "2016-06-30 00:00:00"
@@ -1775,18 +750,18 @@
   url: http://rewrite.ca.com/us/articles/application-economy/rewrite-rewind-hey-siri-how-do-you-spell-api.html
   domain: rewrite.ca.com
   image: ""
-- curated_id: 43b92774c03d12f0bebc7d9e7e38b40c
-  item_date: "2016-07-07 00:00:00"
-  title: Amazon Echo users can finally choose Spotify or Pandora as default music
-    service
-  url: https://techcrunch.com/2016/07/07/amazon-echo-users-can-finally-choose-spotify-or-pandora-as-default-music-service/
-  domain: techcrunch.com
-  image: ""
 - curated_id: 144e4c3bc0bfa2117ed165d5190f1d81
   item_date: "2016-07-07 00:00:00"
   title: Audible?s new Channels audio content subscription service is a bet on a voice-powered
     future
   url: https://techcrunch.com/2016/07/07/audible-channels-netflix-for-podcasts/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 43b92774c03d12f0bebc7d9e7e38b40c
+  item_date: "2016-07-07 00:00:00"
+  title: Amazon Echo users can finally choose Spotify or Pandora as default music
+    service
+  url: https://techcrunch.com/2016/07/07/amazon-echo-users-can-finally-choose-spotify-or-pandora-as-default-music-service/
   domain: techcrunch.com
   image: ""
 - curated_id: 0950a5006792da4186be23d9b58e8705
@@ -1857,6 +832,12 @@
   url: https://developer.amazon.com/appsandservices/community/post/TxEQV5K754YS77/Announcing-a-New-Tool-for-Building-Interactive-Adventure-Games-on-Alexa
   domain: developer.amazon.com
   image: ""
+- curated_id: e4e4b7313f2ddd7344d7225942737028
+  item_date: "2016-08-02 00:00:00"
+  title: Noise Cancelling Speech Recogntion
+  url: http://hackaday.com/2016/08/02/noise-cancelling-speech-recogntion/
+  domain: hackaday.com
+  image: ""
 - curated_id: 236d546679b892a923ad4eacab3503b1
   item_date: "2016-08-02 00:00:00"
   title: 'New Alexa Skills Kit Template: Step-by-Step Guide to Build a Decision Tree
@@ -1864,24 +845,18 @@
   url: https://developer.amazon.com/appsandservices/community/post/TxHGKH09BL2VA1/New-Alexa-Skills-Kit-Template-Step-by-Step-Guide-to-Build-a-Decision-Tree-Skill
   domain: developer.amazon.com
   image: ""
-- curated_id: 93aac7b638b37948b6697ec41aaf9fea
-  item_date: "2016-08-02 00:00:00"
-  title: What Is Alexa? What Is the Amazon Echo, and Should You Get One?
-  url: http://thewirecutter.com/reviews/what-is-alexa-what-is-the-amazon-echo-and-should-you-get-one/
-  domain: thewirecutter.com
-  image: ""
-- curated_id: e4e4b7313f2ddd7344d7225942737028
-  item_date: "2016-08-02 00:00:00"
-  title: Noise Cancelling Speech Recogntion
-  url: http://hackaday.com/2016/08/02/noise-cancelling-speech-recogntion/
-  domain: hackaday.com
-  image: ""
 - curated_id: ca6bd66b12dce06578806ff947facb4d
   item_date: "2016-08-02 00:00:00"
   title: 'Top-Ranking Alexa Skill: A Collaboration Between Warner Bros., DC Comics,
     and Amazon'
   url: https://developer.amazon.com/appsandservices/community/post/Tx234I65DC2NZH5/Top-Ranking-Alexa-Skill-A-Collaboration-Between-Warner-Bros-DC-Comics-and-Amazon
   domain: developer.amazon.com
+  image: ""
+- curated_id: 93aac7b638b37948b6697ec41aaf9fea
+  item_date: "2016-08-02 00:00:00"
+  title: What Is Alexa? What Is the Amazon Echo, and Should You Get One?
+  url: http://thewirecutter.com/reviews/what-is-alexa-what-is-the-amazon-echo-and-should-you-get-one/
+  domain: thewirecutter.com
   image: ""
 - curated_id: 44b13e5c43f5da92639c8cff32bff1c8
   item_date: "2016-08-04 00:00:00"
@@ -1913,18 +888,18 @@
   url: https://developer.amazon.com/appsandservices/community/post/Tx1I8VB8CSIC5JW/Meet-April-L-Hamilton-Developer-Blogger-and-All-Around-Alexa-Champion
   domain: developer.amazon.com
   image: ""
-- curated_id: a253e2beaf6e9f4fcaa09f7277b9d6e7
-  item_date: "2016-08-18 00:00:00"
-  title: Amazon Alexa Can Now Control Hyundai Genesis
-  url: http://www.pcmag.com/news/347135/amazon-alexa-can-now-control-huyndai-genesis
-  domain: www.pcmag.com
-  image: ""
 - curated_id: 892c54e37d34ac056e92f3ce18ad6e8a
   item_date: "2016-08-18 00:00:00"
   title: Amazons Alexa Fund leads $35 million investment in smart thermostat maker
     Ecobee
   url: http://www.zdnet.com/article/amazons-alexa-fund-leads-35-million-investment-in-smart-thermostat-maker-ecobee/
   domain: www.zdnet.com
+  image: ""
+- curated_id: a253e2beaf6e9f4fcaa09f7277b9d6e7
+  item_date: "2016-08-18 00:00:00"
+  title: Amazon Alexa Can Now Control Hyundai Genesis
+  url: http://www.pcmag.com/news/347135/amazon-alexa-can-now-control-huyndai-genesis
+  domain: www.pcmag.com
   image: ""
 - curated_id: ea0313728e57c4cae01537c2083d238c
   item_date: "2016-08-18 00:00:00"
@@ -1951,17 +926,17 @@
   url: http://hackaday.com/2016/08/25/seeed-studios-respeaker-speaks-all-the-voice-recognition-languages/
   domain: hackaday.com
   image: ""
-- curated_id: 63aaf9cb5c7d7034f937268c1fea62c9
-  item_date: "2016-08-26 00:00:00"
-  title: Virtual assistants like Siri and Alexa look poised to explode
-  url: http://www.businessinsider.com/virtual-assistants-siri-alexa-growth-chart-2016-8
-  domain: www.businessinsider.com
-  image: ""
 - curated_id: 0064bece157e9058ababab1c1607fac4
   item_date: "2016-08-26 00:00:00"
   title: Coding Smart Home Skill Adapter Directives Using Node.js
   url: https://developer.amazon.com/appsandservices/community/post/TxWSCWZI9SPYNT/Coding-Smart-Home-Skill-Adapter-Directives-Using-Node-js
   domain: developer.amazon.com
+  image: ""
+- curated_id: 63aaf9cb5c7d7034f937268c1fea62c9
+  item_date: "2016-08-26 00:00:00"
+  title: Virtual assistants like Siri and Alexa look poised to explode
+  url: http://www.businessinsider.com/virtual-assistants-siri-alexa-growth-chart-2016-8
+  domain: www.businessinsider.com
   image: ""
 - curated_id: 6d2d380a065ec95a30d73182b57bea1c
   item_date: "2016-08-30 00:00:00"
@@ -1988,29 +963,23 @@
   url: http://www.businessinsider.com/lgs-amazon-echo-competitor-will-have-alexa-functionality-2016-9
   domain: www.businessinsider.com
   image: ""
-- curated_id: c2b6252a4232d448058e3ba773cf1935
-  item_date: "2016-09-07 00:00:00"
-  title: 'New Video: Using Speech Synthesis Markup Language (SSML) in Alexa Skills'
-  url: https://developer.amazon.com/appsandservices/community/post/Tx67FV39TX68ZP/New-Video-Using-Speech-Synthesis-Markup-Language-SSML-in-Alexa-Skills
-  domain: developer.amazon.com
-  image: ""
 - curated_id: 3ab902e812bfd35c9cfa5d55526213e7
   item_date: "2016-09-07 00:00:00"
   title: Smartly.ai ? All-in-one platform for voice and chatbots
   url: http://smartly.ai
   domain: smartly.ai
   image: ""
+- curated_id: c2b6252a4232d448058e3ba773cf1935
+  item_date: "2016-09-07 00:00:00"
+  title: 'New Video: Using Speech Synthesis Markup Language (SSML) in Alexa Skills'
+  url: https://developer.amazon.com/appsandservices/community/post/Tx67FV39TX68ZP/New-Video-Using-Speech-Synthesis-Markup-Language-SSML-in-Alexa-Skills
+  domain: developer.amazon.com
+  image: ""
 - curated_id: 9335dad4c5bac790e0377fdf77b74ce7
   item_date: "2016-09-09 00:00:00"
   title: 14-Year-Old Girl Creates CloudStatus Alexa Skill That Benefits AWS Developers
   url: https://developer.amazon.com/appsandservices/community/post/TxS5NKF0D8RVP2/14-Year-Old-Girl-Creates-CloudStatus-Alexa-Skill-That-Benefits-AWS-Developers
   domain: developer.amazon.com
-  image: ""
-- curated_id: 6307ec8e39751a3faddab8647025be45
-  item_date: "2016-09-13 00:00:00"
-  title: Control GE Kitchen Appliances Via Voice With Alexa
-  url: http://www.pcmag.com/news/347826/control-ge-kitchen-appliances-via-voice-with-alexa
-  domain: www.pcmag.com
   image: ""
 - curated_id: 8812600a698e7d03e9e5f4986f19f48a
   item_date: "2016-09-13 00:00:00"
@@ -2023,6 +992,12 @@
   title: GEs connected appliances can now talk to Amazons Alexa
   url: http://www.zdnet.com/article/ges-connected-appliances-can-now-talk-to-amazons-alexa/
   domain: www.zdnet.com
+  image: ""
+- curated_id: 6307ec8e39751a3faddab8647025be45
+  item_date: "2016-09-13 00:00:00"
+  title: Control GE Kitchen Appliances Via Voice With Alexa
+  url: http://www.pcmag.com/news/347826/control-ge-kitchen-appliances-via-voice-with-alexa
+  domain: www.pcmag.com
   image: ""
 - curated_id: beaa7b3b7269883e2948fbe62efd8e23
   item_date: "2016-09-13 08:58:38"
@@ -2060,17 +1035,17 @@
   url: https://developer.amazon.com/appsandservices/community/post/Tx248Y8OC5W87ON/From-Echo-to-Smart-Home-Skill-Wemo-is-Still-Switching-on-the-Lights
   domain: developer.amazon.com
   image: ""
-- curated_id: ca691ddb5b8fb4fe1382c49da273149f
-  item_date: "2016-09-19 00:00:00"
-  title: Making Conversational Interfaces Easier to Build
-  url: https://developers.googleblog.com/2016/09/making-conversational-interfaces-easier-to-build.html
-  domain: developers.googleblog.com
-  image: ""
 - curated_id: 2380115b03158528f06e493093ebb646
   item_date: "2016-09-19 00:00:00"
   title: Voice is chat?s next battleground
   url: https://techcrunch.com/2016/09/19/voice-is-chats-next-battleground/
   domain: techcrunch.com
+  image: ""
+- curated_id: ca691ddb5b8fb4fe1382c49da273149f
+  item_date: "2016-09-19 00:00:00"
+  title: Making Conversational Interfaces Easier to Build
+  url: https://developers.googleblog.com/2016/09/making-conversational-interfaces-easier-to-build.html
+  domain: developers.googleblog.com
   image: ""
 - curated_id: e2eea291a562948633a5239546f2a633
   item_date: "2016-09-20 00:00:00"
@@ -2078,18 +1053,18 @@
   url: http://www.zdnet.com/article/twilio-launches-voice-insights-api-to-monitor-call-quality/
   domain: www.zdnet.com
   image: ""
+- curated_id: ba302a70d305abd63369a55c3f8dae7b
+  item_date: "2016-09-21 00:00:00"
+  title: Twilio Launches Voice Insights API to Monitor WebRTC Performance
+  url: http://www.programmableweb.com/news/twilio-launches-voice-insights-api-to-monitor-webrtc-performance/brief/2016/09/21
+  domain: www.programmableweb.com
+  image: ""
 - curated_id: 00d73fdc183c32381b7511ae56cf6648
   item_date: "2016-09-21 00:00:00"
   title: Alexa Fund Adds New Company to Portfolio by Taking Lead Investor Role in
     Nucleus
   url: https://developer.amazon.com/appsandservices/community/post/Tx1DD409MWE20LE/Alexa-Fund-Adds-New-Company-to-Portfolio-by-Taking-Lead-Investor-Role-in-Nucleus
   domain: developer.amazon.com
-  image: ""
-- curated_id: ba302a70d305abd63369a55c3f8dae7b
-  item_date: "2016-09-21 00:00:00"
-  title: Twilio Launches Voice Insights API to Monitor WebRTC Performance
-  url: http://www.programmableweb.com/news/twilio-launches-voice-insights-api-to-monitor-webrtc-performance/brief/2016/09/21
-  domain: www.programmableweb.com
   image: ""
 - curated_id: 9f4797f0b0945c74c7317e55fdccc830
   item_date: "2016-09-22 00:00:00"
@@ -2109,28 +1084,28 @@
   url: http://thenextweb.com/gadgets/2016/09/28/amazons-new-fire-tv-stick-finally-invites-alexa-to-the-party/
   domain: thenextweb.com
   image: ""
-- curated_id: a82294a2cf36a957d4c4d9bab198d24e
-  item_date: "2016-09-28 00:00:00"
-  title: Amazon?s New TV Streaming Stick Has Echo-Like Voice Controls
-  url: http://time.com/4511347/amazon-fire-tv-stick-2016/
-  domain: time.com
-  image: ""
 - curated_id: 6d16af2cf3a31ca1d61b9b3ec5b9978f
   item_date: "2016-09-28 00:00:00"
   title: Amazons faster new Fire TV Stick comes with an Alexa-enabled voice remote
   url: http://www.pcworld.com/article/3124635/consumer-electronics/amazons-faster-new-fire-tv-stick-comes-with-an-alexa-enabled-voice-remote.html#tk.rss_all
   domain: www.pcworld.com
   image: ""
-- curated_id: b03b4044d98a0bd75d141176a1321268
+- curated_id: a82294a2cf36a957d4c4d9bab198d24e
   item_date: "2016-09-28 00:00:00"
-  title: Introducing the All-New Fire TV Stick with Alexa Voice Remote
-  url: https://developer.amazon.com/appsandservices/community/post/Tx1W8FCB4UA5KIB/Introducing-the-All-New-Fire-TV-Stick-with-Alexa-Voice-Remote
-  domain: developer.amazon.com
+  title: Amazon?s New TV Streaming Stick Has Echo-Like Voice Controls
+  url: http://time.com/4511347/amazon-fire-tv-stick-2016/
+  domain: time.com
   image: ""
 - curated_id: 5b7711886b824e54aa30ac37d0e71417
   item_date: "2016-09-28 00:00:00"
   title: 'Just Ask Lyft: Its Great Having Alexa Along for the Ride'
   url: https://developer.amazon.com/appsandservices/community/post/Tx21JPICDF6EETE/Just-Ask-Lyft-It-s-Great-Having-Alexa-Along-for-the-Ride
+  domain: developer.amazon.com
+  image: ""
+- curated_id: b03b4044d98a0bd75d141176a1321268
+  item_date: "2016-09-28 00:00:00"
+  title: Introducing the All-New Fire TV Stick with Alexa Voice Remote
+  url: https://developer.amazon.com/appsandservices/community/post/Tx1W8FCB4UA5KIB/Introducing-the-All-New-Fire-TV-Stick-with-Alexa-Voice-Remote
   domain: developer.amazon.com
   image: ""
 - curated_id: 48a66e49d553d3e614e59c69254189e5
@@ -2163,12 +1138,6 @@
   url: http://hackaday.com/2016/09/30/amazon-offers-2-5m-to-make-alexa-your-friend/
   domain: hackaday.com
   image: ""
-- curated_id: 966a51b7986ea56e4756482dbce514b7
-  item_date: "2016-10-03 00:00:00"
-  title: Google?s Slow Response to Amazon?s Echo is a Warning
-  url: http://www.nytimes.com/2016/10/04/technology/daily-report-googles-slow-response-to-amazons-echo-is-a-warning.html
-  domain: www.nytimes.com
-  image: ""
 - curated_id: 9cd3881a511ffc222ab5ef8b38711923
   item_date: "2016-10-03 00:00:00"
   title: Amazon Enables Developers to Extend Alexa?s Flash Briefing - a New Addition
@@ -2176,11 +1145,23 @@
   url: https://developer.amazon.com/appsandservices/community/post/TxKJ2OU7KQI6E4/Amazon-Enables-Developers-to-Extend-Alexa-s-Flash-Briefing-a-New-Addition-to-the
   domain: developer.amazon.com
   image: ""
+- curated_id: 966a51b7986ea56e4756482dbce514b7
+  item_date: "2016-10-03 00:00:00"
+  title: Google?s Slow Response to Amazon?s Echo is a Warning
+  url: http://www.nytimes.com/2016/10/04/technology/daily-report-googles-slow-response-to-amazons-echo-is-a-warning.html
+  domain: www.nytimes.com
+  image: ""
 - curated_id: 575bfd7a102ce05fd501757fa793fb63
   item_date: "2016-10-03 00:00:00"
   title: 'KIRO7 in the News: Elevating Flash Briefing on Alexa to an Audio Artform'
   url: https://developer.amazon.com/appsandservices/community/post/Tx3D6L3NB0D8A59/KIRO7-in-the-News-Elevating-Flash-Briefing-on-Alexa-to-an-Audio-Artform
   domain: developer.amazon.com
+  image: ""
+- curated_id: fd9e5cef9a312d2948d4b39aad0f3373
+  item_date: "2016-10-04 00:00:00"
+  title: Google Home Is Finally Ready to Rumble With Amazon Echo
+  url: https://www.wired.com/2016/10/google-home-price-availability/
+  domain: www.wired.com
   image: ""
 - curated_id: beeb8a3fc7f2bc331f9f359272e750d5
   item_date: "2016-10-04 00:00:00"
@@ -2194,12 +1175,6 @@
   title: Hackster Live and Amazon Alexa
   url: https://developer.amazon.com/appsandservices/community/post/Tx2V9RY8I9J1XZL/Hackster-Live-and-Amazon-Alexa
   domain: developer.amazon.com
-  image: ""
-- curated_id: fd9e5cef9a312d2948d4b39aad0f3373
-  item_date: "2016-10-04 00:00:00"
-  title: Google Home Is Finally Ready to Rumble With Amazon Echo
-  url: https://www.wired.com/2016/10/google-home-price-availability/
-  domain: www.wired.com
   image: ""
 - curated_id: 5ffb3524404c7291fa575f0171cd1646
   item_date: "2016-10-05 00:00:00"
@@ -2245,17 +1220,17 @@
   url: https://developer.amazon.com/appsandservices/community/post/Tx2A7SS320GLW0X/Alexa-and-LIFX-Helping-the-Smart-LED-Bulbs-Shine-even-Brighter
   domain: developer.amazon.com
   image: ""
-- curated_id: a677d3664731a6535d9692b8832ac438
-  item_date: "2016-10-13 00:00:00"
-  title: Amazon Enables Developers to Extend Shopping and To-do List Capabilities
-  url: https://developer.amazon.com/appsandservices/community/post/TxJHHV2O3Z9IFS/Amazon-Enables-Developers-to-Extend-Shopping-and-To-do-List-Capabilities-a-New-A
-  domain: developer.amazon.com
-  image: ""
 - curated_id: 59c15dd10e6b202e570b3b08734b0a45
   item_date: "2016-10-13 00:00:00"
   title: Amazon Opens Beta For Alexa List Skills API
   url: http://www.programmableweb.com/news/amazon-opens-beta-alexa-list-skills-api/2016/10/13
   domain: www.programmableweb.com
+  image: ""
+- curated_id: a677d3664731a6535d9692b8832ac438
+  item_date: "2016-10-13 00:00:00"
+  title: Amazon Enables Developers to Extend Shopping and To-do List Capabilities
+  url: https://developer.amazon.com/appsandservices/community/post/TxJHHV2O3Z9IFS/Amazon-Enables-Developers-to-Extend-Shopping-and-To-do-List-Capabilities-a-New-A
+  domain: developer.amazon.com
   image: ""
 - curated_id: e4522990a9c9d39de5783a621da52f77
   item_date: "2016-10-17 00:00:00"
@@ -2337,5 +1312,944 @@
     Speed and Quality'
   url: https://developer.amazon.com/appsandservices/community/post/TxKO4WNI2ZMY8N/Meet-Eric-and-David-Two-Alexa-Developers-Determined-to-Increase-Your-Skill-Build
   domain: developer.amazon.com
+  image: ""
+- curated_id: 74a7f39600528ad0f76ef59598d37ac1
+  item_date: "2016-12-13 00:00:00"
+  title: "Alexa \u2013 Make My Building Run Better!"
+  url: http://www.hometoys.com/article/2016/12/alexa-%E2%80%93-make-my-building-run-better/35621
+  domain: www.hometoys.com
+  image: ""
+- curated_id: cefdd164487f4b1c870f3b74759ffb53
+  item_date: "2016-12-14 00:00:00"
+  title: 7 Secrets to Designing Alexa Skills
+  url: https://dzone.com/articles/7-secrets-to-designing-alexa-skills
+  domain: dzone.com
+  image: ""
+- curated_id: 7b9aaadbca2d71272d12e69de13e4437
+  item_date: "2016-12-14 00:00:00"
+  title: The Wynn Las Vegas is putting an Amazon Echo in every hotel room
+  url: http://www.theverge.com/circuitbreaker/2016/12/14/13955878/wynn-las-vegas-amazon-echo-hotel-room-privacy
+  domain: www.theverge.com
+  image: ""
+- curated_id: 4702352747e5e26d895a6c723f173ad6
+  item_date: "2016-12-15 00:00:00"
+  title: Tap Into Amazons Alexa With Onvocals OV Headphones
+  url: http://www.pcmag.com/news/350283/tap-into-amazons-alexa-with-onvocals-ov-headphones
+  domain: www.pcmag.com
+  image: ""
+- curated_id: ffa4a90b85fa025c9e6c0428d391f515
+  item_date: "2016-12-15 00:00:00"
+  title: 'Wynn Las Vegas Adding Amazon Echo to All Rooms '
+  url: http://www.pcmag.com/news/350330/wynn-las-vegas-adding-amazon-echo-to-all-rooms
+  domain: www.pcmag.com
+  image: ""
+- curated_id: 6e6d9b3b50b1eb760891f5ab720f89f5
+  item_date: "2016-12-25 00:00:00"
+  title: "Here\u2019s why your recorded voice sounds weird"
+  url: http://www.businessinsider.com/science-sound-voice-hate-2016-12
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 6a77001ca08269e973c1760c6ace11e0
+  item_date: "2016-12-25 00:00:00"
+  title: How to Set Up Your New Amazon Echo
+  url: https://www.wired.com/2016/12/set-new-amazon-echo/
+  domain: www.wired.com
+  image: ""
+- curated_id: 280b3c85dc249b1086dccdd1384fa096
+  item_date: "2016-12-27 00:00:00"
+  title: Amazon refuses to give police the voice data from an Echo owned by a man
+    charged with murder (AMZN)
+  url: http://www.businessinsider.com/amazon-refuses-to-give-police-echo-voice-data-in-murder-case-2016-12
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: c099ccf98c08375ba6217583637f9afd
+  item_date: "2016-12-27 00:00:00"
+  title: Amazon Alexa Data Wanted in Murder Investigation
+  url: http://www.pcmag.com/news/350625/amazon-alexa-data-wanted-in-murder-investigation
+  domain: www.pcmag.com
+  image: ""
+- curated_id: c31bda0920c229ea8d432bed519b0be5
+  item_date: "2016-12-27 15:01:16"
+  title: Police seek Amazon Echo data in murder case (updated)
+  url: https://www.engadget.com/2016/12/27/amazon-echo-audio-data-murder-case/
+  domain: www.engadget.com
+  image: ""
+- curated_id: fd398d237d57546b7130abc8e4ad6eee
+  item_date: "2016-12-28 00:00:00"
+  title: What does Alexa know and will Amazon tell?
+  url: http://www.siliconbeat.com/2016/12/28/alexa-knows-will-amazon-tell/
+  domain: www.siliconbeat.com
+  image: ""
+- curated_id: 6ba939758a626424259a724c72f6bec8
+  item_date: "2016-12-28 09:57:26"
+  title: "Can Alexa help solve a murder? Police think so \u2014 but Amazon won\u2019t
+    give up her data."
+  url: https://www.washingtonpost.com/news/the-switch/wp/2016/12/28/can-alexa-help-solve-a-murder-police-think-so-but-amazon-wont-give-up-her-data/
+  domain: www.washingtonpost.com
+  image: ""
+- curated_id: ac43e5a2f8f0b45905be74334004f79d
+  item_date: "2016-12-30 00:00:00"
+  title: "LG\u2019s Hub Robot sounds like a mobile Amazon Echo"
+  url: https://techcrunch.com/2016/12/30/lg-robot/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 32c7f8397be96a493d6e541e2278d7f9
+  item_date: "2017-01-03 00:00:00"
+  title: Amazon is putting its Alexa virtual assistant inside TVs (AMZN)
+  url: http://www.businessinsider.com/amazon-launching-fire-tvs-2017-1
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 11b68301191d3d962862be4ede4f3720
+  item_date: "2017-01-03 00:00:00"
+  title: Alexa enters home automation
+  url: http://www.computerweekly.com/news/450410270/Alexa-enters-home-automation
+  domain: www.computerweekly.com
+  image: ""
+- curated_id: 251816a58a63e53c4b46978441b0f620
+  item_date: "2017-01-03 00:00:00"
+  title: "Amazon\u2019s Alexa will come baked in on select 4K TVs"
+  url: http://thenextweb.com/gadgets/2017/01/04/amazons-alexa-will-come-baked-in-on-select-4k-tvs/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 4dd6990eaba7c0a279dbd72b19adfb4a
+  item_date: "2017-01-03 00:00:00"
+  title: The Difference Between Google Assistant and Siri
+  url: https://birchtree.me/blog/the-difference-between-google-assistant-and-siri/
+  domain: birchtree.me
+  image: ""
+- curated_id: a803ed72b51393cb17d98cb0c357cf13
+  item_date: "2017-01-03 00:00:00"
+  title: 'Twilio API Profile: Add Voice Calls and Messaging to Your App'
+  url: http://blog.rapidapi.com/2017/01/03/twilio-api-profile-add-voice-calls-and-messaging-to-your-app/
+  domain: blog.rapidapi.com
+  image: ""
+- curated_id: 6b71bd330e51053be4a3375e45b522a6
+  item_date: "2017-01-03 00:00:00"
+  title: "Lenovo just launched an Amazon Echo clone that also uses Alexa \u2014 but
+    costs $50 less (AMZN)"
+  url: http://www.businessinsider.com/lenovo-smart-assistant-speaker-amazon-echo-features-photos-2017-1
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 69549a9149d5b494a9852e9ec0574898
+  item_date: "2017-01-04 00:00:00"
+  title: Amazons Alexa is officially coming to Ford cars
+  url: http://www.businessinsider.com/amazon-alexa-coming-to-ford-cars-2017-1
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: aec19f3bf6fc774653bfde9cbae308bc
+  item_date: "2017-01-04 00:00:00"
+  title: Ford expands Alexa use, heating up auto personal assistant battle
+  url: http://www.reuters.com/article/us-tech-ces-ford-idUSKBN14P0B7
+  domain: www.reuters.com
+  image: ""
+- curated_id: ed32895caf987d81c54d115b37c9c0aa
+  item_date: "2017-01-04 00:00:00"
+  title: The Bixi gesture controller is getting an E Ink and Alexa-infused successor
+  url: http://www.theverge.com/circuitbreaker/2017/1/3/14162276/bixi-gesture-controller-e-ink-alexa-2-0-ces-2017
+  domain: www.theverge.com
+  image: ""
+- curated_id: f632a6b6ac9d0867586e530a585a0659
+  item_date: "2017-01-04 00:00:00"
+  title: Welcome to 2017, where Alexa even made its way into a fridge
+  url: https://techcrunch.com/2017/01/04/welcome-to-2017-where-alexa-even-made-its-way-into-a-fridge/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 51155b5d9df9fe1bae7a06db0c68d6ec
+  item_date: "2017-01-04 10:56:05"
+  title: Mattel Is Building An Alexa For Kids
+  url: http://www.fastcodesign.com/3066881/mattel-is-building-an-alexa-for-kids
+  domain: www.fastcodesign.com
+  image: ""
+- curated_id: 4538747ad401fb567b5ed38e12b8bfe0
+  item_date: "2017-01-05 00:00:00"
+  title: Build your own Haven OnDemand Combination API
+  url: https://community.havenondemand.com/t5/Blog/Build-your-own-Haven-OnDemand-Combination-API-and-call-it-from/ba-p/3330
+  domain: community.havenondemand.com
+  image: ""
+- curated_id: 3b849611039184be0f266920a031c41c
+  item_date: "2017-01-05 00:00:00"
+  title: Alexa will now take your order, supporting delivery from Amazon Restaurants
+  url: http://www.pcworld.com/article/3154897/home-tech/alexa-will-now-take-your-restaurant-delivery-order.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: a80bc5c9035ed0bc16a63127598b4571
+  item_date: "2017-01-05 00:00:00"
+  title: 'CES 2017: The robot with an Alexa-powered brain'
+  url: http://www.bbc.co.uk/news/technology-38515715
+  domain: www.bbc.co.uk
+  image: ""
+- curated_id: 93d60611820370bb4a64084f82124830
+  item_date: "2017-01-05 00:00:00"
+  title: Ford Offers Amazons Alexa in Cars
+  url: http://www.pcmag.com/news/350808/ford-offers-amazons-alexa-in-cars
+  domain: www.pcmag.com
+  image: ""
+- curated_id: 4687350e82f1167c86d4fd7d1b66552e
+  item_date: "2017-01-05 00:00:00"
+  title: 'Wheels: Coming From Automakers: Voice Control That Understands You Better'
+  url: https://www.nytimes.com/2017/01/05/automobiles/automakers-voice-control-amazon-alexa.html
+  domain: www.nytimes.com
+  image: ""
+- curated_id: 799c206148fdab3ed9545cc682fc6208
+  item_date: "2017-01-05 09:31:49"
+  title: Voice Control APIs - Actions, Skills, Cognition and more
+  url: https://www.devrelate.com/voicecontrolapis/
+  domain: www.devrelate.com
+  image: ""
+- curated_id: bf03ff60745da797e1f135b772fa94b1
+  item_date: "2017-01-07 00:00:00"
+  title: "Amazon\u2019s Echo is building a coffin that\u2019s custom-made for Google
+    (AMZN, GOOG, GOOGL)"
+  url: http://www.businessinsider.com/amazon-echo-success-could-spell-big-trouble-for-google-2017-1
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 7a324e4009c29c1e3ec481990752c6b3
+  item_date: "2017-01-07 00:00:00"
+  title: "Amazon\u2019s Alexa started ordering people dollhouses after hearing its
+    name on TV"
+  url: http://www.theverge.com/2017/1/7/14200210/amazon-alexa-tech-news-anchor-order-dollhouse
+  domain: www.theverge.com
+  image: ""
+- curated_id: 8d71f5aae6036acaa12f0e34e1b5cecd
+  item_date: "2017-01-09 00:00:00"
+  title: 'Amazon Echo speakers obey TVs command to buy a dollhouse '
+  url: http://www.macworld.com/article/3155510/internet-of-things/amazon-echo-speakers-obey-tvs-command-to-buy-a-dollhouse.html#tk.rss_all
+  domain: www.macworld.com
+  image: ""
+- curated_id: 4bc2b8e75eb7d6b71925a51df8232cc7
+  item_date: "2017-01-09 00:00:00"
+  title: Amazon Echos activated by TV comment
+  url: http://www.bbc.co.uk/news/technology-38553643
+  domain: www.bbc.co.uk
+  image: ""
+- curated_id: 7f850b88f7d8b2909b97d1ad0b9518ef
+  item_date: "2017-01-09 00:00:00"
+  title: Nokia gets Siri-ous about smartphones as it trademarks new AI assistant Viki
+  url: http://thenextweb.com/mobile/2017/01/09/nokia-ai-assistant-viki/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 9212dbcda1816f9d4fdca25b3d1cbf4b
+  item_date: "2017-01-10 00:00:00"
+  title: "Find new listens with Alexa\u2019s \u201CMagic Podcast\u201D"
+  url: http://popuparchive.tumblr.com/post/155684557209/find-new-listens-with-alexas-magic-podcast#_=_
+  domain: popuparchive.tumblr.com
+  image: ""
+- curated_id: 3322ff5cf50093a6738286093f74d48c
+  item_date: "2017-01-11 00:00:00"
+  title: Adobe video envisions AI helper for editing photos and other media
+  url: https://techcrunch.com/2017/01/11/adobe-video-envisions-ai-helper-for-editing-photos-and-other-media/
+  domain: techcrunch.com
+  image: ""
+- curated_id: f947ed0117c8b8aa45df9e4df2f19ee2
+  item_date: "2017-01-11 00:00:00"
+  title: Adobe is working on a voice-activated digital assistant that can edit pictures
+    for you
+  url: http://www.theverge.com/2017/1/11/14242042/adobe-research-voice-control-ai-assistant-edit-photos
+  domain: www.theverge.com
+  image: ""
+- curated_id: 3ef33cdd1fe9366f6284d4f91e3aac37
+  item_date: "2017-01-13 00:00:00"
+  title: How to Stop the Amazon Echo From Buying Stuff
+  url: http://time.com/4634966/amazon-echo-voice-purchasing-tips-tricks/
+  domain: time.com
+  image: ""
+- curated_id: f0bb818bcc923fc9e30bfb91c6a9fbb6
+  item_date: "2017-01-13 00:00:00"
+  title: Sonos needs voice control, and not just Alexa
+  url: http://www.macworld.com/article/3157451/software-music/sonos-needs-voice-control-and-not-just-alexa.html#tk.rss_all
+  domain: www.macworld.com
+  image: ""
+- curated_id: 6ba4d9361f7722f72d4244f265ee4c6f
+  item_date: "2017-01-17 00:00:00"
+  title: Voice Commands
+  url: https://xkcd.com/1787/
+  domain: xkcd.com
+  image: ""
+- curated_id: 5c3b33d6d2560e19e65b620f41689a51
+  item_date: "2017-01-17 00:00:00"
+  title: "How the Amazon Echo Could Fundamentally Alter Tech\u2019s Future"
+  url: http://time.com/4636194/amazon-echo-voice-control/
+  domain: time.com
+  image: ""
+- curated_id: f2b8eb8720be8dc2b97cfc5854f98fcc
+  item_date: "2017-01-22 00:00:00"
+  title: "Breaking Banks: Why bankers aren\u2019t quite ready for Amazon Alexa"
+  url: https://www.americanbanker.com/podcast/breaking-banks-why-bankers-arent-quite-ready-for-amazon-alexa
+  domain: www.americanbanker.com
+  image: ""
+- curated_id: bd550fde5beeec6b8ae8b8509ead2c14
+  item_date: "2017-01-30 00:00:00"
+  title: Alexa, Order Me a Starbucks Latte
+  url: http://www.pcmag.com/news/351426/alexa-order-me-a-starbucks-latte
+  domain: www.pcmag.com
+  image: ""
+- curated_id: f049a96121b7435f41ff734162ce56f4
+  item_date: "2017-01-30 00:00:00"
+  title: "People aren\u2019t comfortable using virtual assistants like Siri and Alexa
+    in public"
+  url: http://www.businessinsider.com/how-people-use-virtual-assistants-siri-alexa-chart-2017-1
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 1a5eeffffa2dcb756f9cda42408645d9
+  item_date: "2017-01-31 00:00:00"
+  title: SoundHound raises $75M to bring its voice-enabled AI everywhere
+  url: https://techcrunch.com/2017/01/31/soundhound-raises-75m-to-bring-its-voice-enabled-ai-everywhere/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 57b838a2e18b833c6ffa3cd7feb889a2
+  item_date: "2017-01-31 00:00:00"
+  title: "Alexa \u2013 Make My Building Run Better!"
+  url: http://www.automatedbuildings.com/news/feb17/articles/sierra/170118110505sierra.html
+  domain: www.automatedbuildings.com
+  image: ""
+- curated_id: 7b608118f7cf7bf681cebfafd0bacb33
+  item_date: "2017-02-06 00:00:00"
+  title: How to Keep Amazon Echo and Google Home From Responding to Your TV
+  url: https://www.wired.com/2017/02/keep-amazon-echo-google-home-responding-tv/
+  domain: www.wired.com
+  image: ""
+- curated_id: fdcbe3b44c712a0ce413f33960537192
+  item_date: "2017-02-07 00:00:00"
+  title: Build an Alexa Flight Departure Time Skill [TUTORIAL]
+  url: http://blog.rapidapi.com/2017/02/07/alexa-skill-flight-departure/
+  domain: blog.rapidapi.com
+  image: ""
+- curated_id: d9b32f92eb4ffca963bdaf0af3449bb1
+  item_date: "2017-02-07 00:00:00"
+  title: "Logitech adds Amazon\u2019s Alexa skills to its ZeroTouch voice-control
+    smartphone mount"
+  url: http://www.pcworld.com/article/3166565/home-tech/logitech-adds-amazon-s-alexa-skills-to-its-zerotouch-android-smartphone-car-mounts.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: e08c31151bb773c503e302c8d9b2df73
+  item_date: "2017-02-07 00:00:00"
+  title: Microsofts custom voice recognition service hits public beta
+  url: http://www.pcworld.com/article/3166912/cloud-computing/microsofts-custom-voice-recognition-service-hits-public-beta.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 06ffa3a46d768be9a70f250d8f4d1e8a
+  item_date: "2017-02-07 00:00:00"
+  title: Amazon Alexa Coming to Logitechs Car Assistant App
+  url: http://www.pcmag.com/news/351586/amazon-alexa-coming-to-logitechs-car-assistant-app
+  domain: www.pcmag.com
+  image: ""
+- curated_id: 12f2ffc381bbebb17e8ef1ee8848f196
+  item_date: "2017-02-11 00:00:00"
+  title: "You can now get Amazon\u2019s Alexa to order your usual drink at Starbucks"
+  url: http://www.theverge.com/2017/2/11/14587156/amazon-alexa-echo-order-usual-drink-starbucks
+  domain: www.theverge.com
+  image: ""
+- curated_id: b7926de06b6e9b5cfc6eb0f1732c9a84
+  item_date: "2017-02-15 00:00:00"
+  title: 'Head-To-Head: Amazon Chime Vs. Microsoft Skype'
+  url: http://www.crn.com/slide-shows/applications-os/300083752/head-to-head-amazon-chime-vs-microsoft-skype.htm
+  domain: www.crn.com
+  image: ""
+- curated_id: 7cf5af1564636bcb37de39b0e08c41e5
+  item_date: "2017-02-15 00:00:00"
+  title: Amazon Launches Chime Video  Voice Chat
+  url: http://www.pcmag.com/news/351736/amazon-launches-chime-video-voice-chat
+  domain: www.pcmag.com
+  image: ""
+- curated_id: 460701fc6fcf8f0159f4a52f332a777e
+  item_date: "2017-02-15 00:00:00"
+  title: Hosting Your Alexa Skill Service on Arrow, Part 1
+  url: https://www.appcelerator.com/blog/2017/02/hosting-your-alexa-skill-service-on-arrow-part-1/
+  domain: www.appcelerator.com
+  image: ""
+- curated_id: a15fa1b391f317945155b60c6e514469
+  item_date: "2017-02-17 00:00:00"
+  title: "Here\u2019s Why Apple Isn\u2019t Building an Amazon Echo Rival"
+  url: http://time.com/4674522/apple-echo-amazon-siri-iphone-airpods/
+  domain: time.com
+  image: ""
+- curated_id: b3122a5b8cdbdac61e216a53692ea9bb
+  item_date: "2017-02-20 21:33:39"
+  title: How to create a custom private Google Home Action with API.AI and Google
+    App Engine
+  url: https://medium.com/@saracraba/how-to-create-a-custom-private-google-home-action-260e2c512fc#.5ddxqau5v
+  domain: medium.com
+  image: ""
+- curated_id: 22c0953aeadac2c2287997277921b9b8
+  item_date: "2017-02-21 00:00:00"
+  title: 'Voice recognitions surprise pitfall: aging customers'
+  url: https://www.americanbanker.com/news/voice-recognitions-surprise-shortcoming-aging-customers
+  domain: www.americanbanker.com
+  image: ""
+- curated_id: efacbe17f148711109382a17070a2aee
+  item_date: "2017-02-22 00:00:00"
+  title: Voysis raises $8 million to help it become the Twillio of voice AI
+  url: https://techcrunch.com/2017/02/22/voysis-raises-8-million-to-help-it-become-the-the-twillio-of-voice-ai/
+  domain: techcrunch.com
+  image: ""
+- curated_id: b65e91d2f3fffaee901ec660340346d9
+  item_date: "2017-02-22 00:00:00"
+  title: 'Speak Up: Ransomware Attack Uses Voice Recognition '
+  url: http://www.darkreading.com/endpoint/speak-up-ransomware-attack-uses-voice-recognition-/d/d-id/1328235
+  domain: www.darkreading.com
+  image: ""
+- curated_id: 9664591c15796c65bd00b4cddb31ad40
+  item_date: "2017-02-23 00:00:00"
+  title: Amazon Alexa hits 10,000 skills with a nifty musical game
+  url: https://thenextweb.com/gadgets/2017/02/23/amazon-alexa-hits-10000-skills-nifty-musical-game/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 1f75f1a4a3d56aaf4e99346f07839d6f
+  item_date: "2017-02-23 00:00:00"
+  title: Amazon cites First Amendment protection for Alexa in Arkansas murder case
+  url: https://techcrunch.com/2017/02/23/alexa-free-speech/
+  domain: techcrunch.com
+  image: ""
+- curated_id: d745947324efa0ec18957ced34badfec
+  item_date: "2017-02-23 00:00:00"
+  title: "Amazon Says Alexa\u2019s Speech Is Protected by the First Amendment"
+  url: http://www.theverge.com/2017/2/23/14714656/amazon-alexa-data-protection-court-free-speech
+  domain: www.theverge.com
+  image: ""
+- curated_id: c5e532c4583673dd25b41a9fc39fb424
+  item_date: "2017-02-24 00:00:00"
+  title: Amazon Alexa Has More Skills Than You Do
+  url: https://www.programmableweb.com/news/amazon-alexa-has-more-skills-you-do/2017/02/24
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: c4651eb6d7b37a6aeab1a950293e9a3e
+  item_date: "2017-02-24 00:00:00"
+  title: Amazon resorts to First Amendment to protect Alexa recordings in murder trial
+  url: https://thenextweb.com/apps/2017/02/24/amazon-alexa-murder-trial/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 2e792221468a40450b7c41ababde7302
+  item_date: "2017-02-24 00:00:00"
+  title: An Alexa Project Name Generator on OpenWhisk
+  url: https://dzone.com/articles/an-alexa-project-name-generator-on-openwhisk
+  domain: dzone.com
+  image: ""
+- curated_id: 1bfa8d8476a42842cc1a8e0a986e5901
+  item_date: "2017-03-02 00:00:00"
+  title: Google Assistant begins huge expansion across Android devices today
+  url: http://www.theverge.com/2017/3/2/14790982/google-assistant-android-marshmallow-nougat-now-available
+  domain: www.theverge.com
+  image: ""
+- curated_id: 40117abbc5e482748180f31144e42c31
+  item_date: "2017-03-03 00:00:00"
+  title: "Alexa\u2019s 7 Banking Skills You Didn\u2019t Know About"
+  url: http://bankinnovation.net/2017/03/7-financial-services-skills-alexa-has-that-you-didnt-know-about/
+  domain: bankinnovation.net
+  image: ""
+- curated_id: 4210376596e15a1649fcab65c33ca586
+  item_date: "2017-03-03 00:00:00"
+  title: Amazon links with students to build Alexa capabilities
+  url: https://disruptiveviews.com/amazon-links-students-build-alexa-capabilities/
+  domain: disruptiveviews.com
+  image: ""
+- curated_id: 7ac7ada2b1f06dde58c2abb30659342e
+  item_date: "2017-03-03 00:00:00"
+  title: Amazon Door Lock API Allows Doors to be Locked via Voice Command
+  url: https://www.programmableweb.com/news/amazon-door-lock-api-allows-doors-to-be-locked-voice-command/brief/2017/03/03
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: f18176fff218bf0b13f6e1c0ee089ab6
+  item_date: "2017-03-03 00:00:00"
+  title: "Amazon may release new \u2018Alexa-powered\u2019 devices that make phone
+    calls later this year (AMZN)"
+  url: http://www.businessinsider.com/amazon-echo-2-alexa-voice-calls-2017-3
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: ec59f858d27e917b2af91e927161bedb
+  item_date: "2017-03-08 00:00:00"
+  title: Amazon agrees to hand over Echo records for murder case
+  url: http://www.zdnet.com/article/amazon-agrees-to-hand-over-alexa-records-for-murder-case/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: a10f7f6702a4d8f4feee1d5d91860e1e
+  item_date: "2017-03-08 12:55:52"
+  title: Amazon Alexa went down for some people and they freaked out about how to
+    turn on the lights
+  url: http://www.businessinsider.com/amazon-alexa-is-down-for-some-people-theyre-freaking-out-2017-3
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: af7ba6056e4e3dbf9061a37573d5debb
+  item_date: "2017-03-08 15:55:05"
+  title: 'Google Home vs. Amazon Alexa Showdown: Which One is Smarter?'
+  url: https://www.stonetemple.com/google-home-vs-amazon-alexa-showdown-which-one-is-smarter/
+  domain: www.stonetemple.com
+  image: ""
+- curated_id: a697d87336de46d15e48517286209d7b
+  item_date: "2017-03-09 00:00:00"
+  title: In video, Alexa goes strangely quiet when asked if its connected to the CIA
+  url: http://boingboing.net/2017/03/09/in-video-alexa-goes-strangely.html
+  domain: boingboing.net
+  image: ""
+- curated_id: 4f30df41de38ba4df00031fc80c65f72
+  item_date: "2017-03-10 00:00:00"
+  title: "Future voice interfaces could turn us all into geniuses \u2014 or idiots"
+  url: https://thenextweb.com/insider/2017/03/11/future-voice-interfaces-could-turn-us-all-into-geniuses-or-idiots/
+  domain: thenextweb.com
+  image: ""
+- curated_id: cc673ea09ba6c6c36020190eb9b7d63d
+  item_date: "2017-03-10 00:00:00"
+  title: Why Alexa and Siri would make terrible companions
+  url: https://thenextweb.com/voice/2017/03/10/alexa-siri-make-terrible-companions/
+  domain: thenextweb.com
+  image: ""
+- curated_id: ceb82393956a6e9a8051304479717689
+  item_date: "2017-03-14 00:00:00"
+  title: Interactive fiction and the origins of the conversational interface
+  url: https://techcrunch.com/2017/03/14/interactive-fiction-and-the-origins-of-the-conversational-interface/
+  domain: techcrunch.com
+  image: ""
+- curated_id: f95ea50d6d2d4fbc757466bb32ce1e4b
+  item_date: "2017-03-14 00:00:00"
+  title: iRobot adds Alexa integration, analytics to smart home
+  url: http://www.zdnet.com/article/irobot-adds-alexa-integration-analytics-to-smart-home/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 03b781ddc7602385ce7c0ef41ee889c9
+  item_date: "2017-03-14 00:00:00"
+  title: 'OK, Google: How Do I Optimize My Site for Voice Search?'
+  url: http://www.wordstream.com/blog/ws/2017/03/14/google-voice-search
+  domain: www.wordstream.com
+  image: ""
+- curated_id: d0ca83d15e4c685ffb847e3bb2ecbb6e
+  item_date: "2017-03-15 00:00:00"
+  title: Amazon makes it cheaper to host Alexa skills on AWS
+  url: http://www.zdnet.com/article/amazon-makes-it-cheaper-to-host-alexa-skills-on-aws/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 6d30668fbe82aa30c4f11e53c1526250
+  item_date: "2017-03-15 00:00:00"
+  title: AWS offers Alexa developers free cloud credits
+  url: http://www.pcworld.com/article/3181368/cloud-computing/aws-offers-alexa-developers-free-cloud-credits.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 09458ccf1ccb4cf021b385b2e4b1e6c2
+  item_date: "2017-03-15 00:00:00"
+  title: Skull Hacked So That It Responds as Amazon Alexa
+  url: https://blog.adafruit.com/2017/03/15/skull-hacked-so-that-it-responds-as-amazon-alexa/
+  domain: blog.adafruit.com
+  image: ""
+- curated_id: fa81a4b2d8ee93d455e4621bf169fae2
+  item_date: "2017-03-17 00:00:00"
+  title: "Siri\u2019s Not Even the Best iPhone Assistant Anymore"
+  url: https://www.wired.com/2017/03/siris-not-even-best-iphone-assistant-anymore/
+  domain: www.wired.com
+  image: ""
+- curated_id: 6d75917b8845eaf53e2bf565d5adaea5
+  item_date: "2017-03-18 00:00:00"
+  title: Hosting Alexa Skills on AWS is Almost Free Now
+  url: https://www.infoq.com/news/2017/03/amazon-alexa-host-promotion
+  domain: www.infoq.com
+  image: ""
+- curated_id: e0e6a24378e925bc53c5723a20651161
+  item_date: "2017-03-22 00:00:00"
+  title: Huawei starts delivering Alexa to its Mate 9 handsets
+  url: https://techcrunch.com/2017/03/22/huawei-alexa/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 9773a4387e8fe070ce4c5b1829f3774e
+  item_date: "2017-04-03 00:00:00"
+  title: How To Build A Speech-Controlled Drone And Other Bots For Enterprises
+  url: https://www.built.io/blog/how-to-build-a-speech-controlled-drone-and-other-bots-for-enterprises
+  domain: www.built.io
+  image: ""
+- curated_id: cc4a8fc9941ed29ff54db5b1128ca1a8
+  item_date: "2017-04-06 00:00:00"
+  title: Apple May Turn Siri Into a Voice Security Guard
+  url: http://www.pcmag.com/news/352865/apple-may-turn-siri-into-a-voice-security-guard
+  domain: www.pcmag.com
+  image: ""
+- curated_id: 28dd50a68982f63dc44655f4b036c3b8
+  item_date: "2017-04-06 00:39:30"
+  title: Amazon rolls out new Alexa dashboard and device address API
+  url: http://www.zdnet.com/article/amazon-rolls-out-new-alexa-dashboard-and-device-address-api/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 79a034e26425bf8e68b567a219b49ca4
+  item_date: "2017-04-07 00:00:00"
+  title: Amazon Adds Device Address API to Alexa
+  url: https://www.programmableweb.com/news/amazon-adds-device-address-api-to-alexa/brief/2017/04/07
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 7f3bdd0a7cd7ade0361583f5d39abc26
+  item_date: "2017-04-07 00:00:00"
+  title: Amazon turns to location-based APIs for Alexa (AMZN)
+  url: http://ramialkarmi.com/post/159303039143/amazon-turns-to-location-based-apis-for-alexa
+  domain: ramialkarmi.com
+  image: ""
+- curated_id: befa7f9133b5aa1c8ad6e267a8bc38e3
+  item_date: "2017-04-10 00:00:00"
+  title: Amazons Alexa turns on Ford cars engine
+  url: http://www.bbc.co.uk/news/technology-39559512
+  domain: www.bbc.co.uk
+  image: ""
+- curated_id: 9fded4df226123bd8d010fff8a032b82
+  item_date: "2017-04-11 00:00:00"
+  title: 'Doc Pops News Drop: A WordPress plugin for Amazons Alexa'
+  url: https://torquemag.io/2017/04/doc-pops-news-drop-wordpress-skill-amazons-alexa/
+  domain: torquemag.io
+  image: ""
+- curated_id: e7c2c4ac1875d58abc24e5dc3027a68f
+  item_date: "2017-04-11 00:00:00"
+  title: 'Go Ask Oprah: The O Comes to Alexa'
+  url: http://blogs.forrester.com/james_mcquivey/17-04-11-go_ask_oprah_the_o_comes_to_alexa
+  domain: blogs.forrester.com
+  image: ""
+- curated_id: 5bc45ee4b52b133e3583931b0ba653df
+  item_date: "2017-04-12 00:00:00"
+  title: "Pollexy \u2013 Building a Special Needs Voice Assistant with Amazon Polly
+    and Raspberry Pi"
+  url: https://aws.amazon.com/blogs/aws/pollexy-building-a-special-needs-voice-assistant-with-amazon-polly-and-raspberry-pi/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: e1ca3d2490679b4922975bf8714f32c9
+  item_date: "2017-04-12 00:00:00"
+  title: "Samsung\u2019s Bixby Assistant Won\u2019t Support Voice Commands When Galaxy
+    S8 Launches"
+  url: http://www.theverge.com/2017/4/11/15266028/samsung-galaxy-s8-bixby-assistant-launch-voice-support
+  domain: www.theverge.com
+  image: ""
+- curated_id: 616d8bf014a366711e7f747af8ed34e1
+  item_date: "2017-04-12 00:00:00"
+  title: "Don\u2019t run commercials designed to trigger smart assistants"
+  url: https://techcrunch.com/2017/04/12/no-thank-you/
+  domain: techcrunch.com
+  image: ""
+- curated_id: ebe4bb7ff73231313f3c0eedae306da5
+  item_date: "2017-04-12 00:00:00"
+  title: WTF Just Happened Today available as an Amazon skill
+  url: http://boingboing.net/2017/04/12/wtf-just-happened-today-availa.html
+  domain: boingboing.net
+  image: ""
+- curated_id: 15620a2241ada2cdf0a2fc44255f52a5
+  item_date: "2017-04-13 00:00:00"
+  title: Amazon ramps up smart speakers battle against Google
+  url: http://www.bbc.co.uk/news/technology-39589233
+  domain: www.bbc.co.uk
+  image: ""
+- curated_id: 16a93ab7da167b73959fd7cfccee03c2
+  item_date: "2017-04-13 00:00:00"
+  title: "Amazon offers Echo\u2019s excellent voice recognition tech to other device
+    makers"
+  url: https://techcrunch.com/2017/04/13/amazon-offers-echos-excellent-voice-recognition-tech-to-other-device-makers/
+  domain: techcrunch.com
+  image: ""
+- curated_id: ad36d583d2f588ce5ffd8e03da6dbffb
+  item_date: "2017-04-13 00:00:00"
+  title: 'Burger King Ad Hijacks Google Home '
+  url: http://www.pcmag.com/news/353033/this-burger-king-ad-will-hijack-your-google-home
+  domain: www.pcmag.com
+  image: ""
+- curated_id: c40d84918e08ab12bbb158d854f0fc34
+  item_date: "2017-04-13 00:00:00"
+  title: New Whopper burger advert gets Google Home to sell it to you
+  url: https://disruptiveviews.com/whopper-advert-google-home/
+  domain: disruptiveviews.com
+  image: ""
+- curated_id: 5c4c2c565aa833875fa8ea943525f201
+  item_date: "2017-04-13 00:00:00"
+  title: Amazon Offers Echos Voice Recognition Tech to Devs
+  url: http://www.pcmag.com/news/353052/amazon-offers-echos-voice-recognition-tech-to-devs
+  domain: www.pcmag.com
+  image: ""
+- curated_id: 67330cb746ca9928625c5920e03a966f
+  item_date: "2017-04-13 00:00:00"
+  title: The 3 ways Amazons Alexa could snag $10 billion in revenue by 2020 (AMZN)
+  url: http://www.businessinsider.com/amazons-alexa-echo-revenue-estimate-by-2020-2017-4
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 55877e995d710b6656223293bf018e2d
+  item_date: "2017-04-14 00:00:00"
+  title: 'Amazon Echo vs Google Home: Which Voice Controlled Speaker Is Best for You?'
+  url: http://thewirecutter.com/reviews/amazon-echo-vs-google-home/
+  domain: thewirecutter.com
+  image: ""
+- curated_id: c0ceb8b386b488667e4ac45908b65dc9
+  item_date: "2017-04-17 00:00:00"
+  title: The Ecobee4 thermostat will come with integrated Alexa controls
+  url: http://www.theverge.com/circuitbreaker/2017/4/17/15329956/ecobee4-leak-alexa-voice-controls
+  domain: www.theverge.com
+  image: ""
+- curated_id: f5e69d9a88c0a6390de81a64569670b2
+  item_date: "2017-04-18 00:00:00"
+  title: Cloud Speech API is now generally available
+  url: https://cloudplatform.googleblog.com/2017/04/Cloud-Speech-API-is-now-generally-available.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: c703a2e9cc564da3e80290c7cceaab26
+  item_date: "2017-04-19 00:00:00"
+  title: "Amazon Lex \u2013 Now Generally Available"
+  url: https://aws.amazon.com/blogs/aws/amazon-lex-now-generally-available/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 5b0f23d6a667b8f9fb47800758441c48
+  item_date: "2017-04-19 00:00:00"
+  title: "Amazon Polly \u2013 Announcing Speech Marks and Whispering"
+  url: https://aws.amazon.com/blogs/aws/new-amazon-polly-speech-marks/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 9cc81aa0b2e695936f9c9c33fb454b48
+  item_date: "2017-04-19 00:00:00"
+  title: Amazon rolls out chatbot tools in race to dominate voice-powered tech
+  url: http://www.reuters.com/article/us-amazon-com-cloud-idUSKBN17L2FY
+  domain: www.reuters.com
+  image: ""
+- curated_id: 1a4ed9b505ed2447a69ea91648450e94
+  item_date: "2017-04-19 00:00:00"
+  title: AWS opens up Amazon Lex AI platform to its customers
+  url: http://www.zdnet.com/article/aws-opens-up-amazon-lex-ai-platform-to-its-customers/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: dc22e40202c93d235bc810530602e023
+  item_date: "2017-04-19 00:00:00"
+  title: "Your app can now use the same deep-learning technology inside Amazon\u2019s
+    Alexa"
+  url: https://medium.com/slack-developer-blog/your-app-can-now-use-the-same-deep-learning-technology-inside-amazons-alexa-6972c635e01a
+  domain: medium.com
+  image: ""
+- curated_id: 16960ff88072e503e967d4b39cb8cbd1
+  item_date: "2017-04-20 00:00:00"
+  title: Alexa, how easy is it to use the Halo API?
+  url: https://blog.cloudpassage.com/2017/04/20/alexa-halo-api/
+  domain: blog.cloudpassage.com
+  image: ""
+- curated_id: 59ca8c88b47571bc6d5c2e457aa385ca
+  item_date: "2017-04-20 00:00:00"
+  title: Amazon Lex, the technology behind Alexa, opens up to developers
+  url: https://techcrunch.com/2017/04/20/amazon-lex-the-technology-behind-alexa-opens-up-to-developers/
+  domain: techcrunch.com
+  image: ""
+- curated_id: ec29069569a63663cc54fc10a3cc42c7
+  item_date: "2017-04-20 11:27:54"
+  title: "Google Home now supports multiple users, but still can\u2019t separate work
+    and personal accounts "
+  url: http://www.theverge.com/circuitbreaker/2017/4/20/15364960/google-home-speaker-multi-user-new-feature
+  domain: www.theverge.com
+  image: ""
+- curated_id: eea4e1ba89cf0be75bdf63062288114e
+  item_date: "2017-04-21 00:00:00"
+  title: Amazon Improves Beta Testing for Alexa Skills
+  url: https://www.infoq.com/news/2017/04/amazon-alexa-beta-testing
+  domain: www.infoq.com
+  image: ""
+- curated_id: cb67d6293210a2499a314660cf1529cf
+  item_date: "2017-04-22 00:00:00"
+  title: Use Google Home, Amazon Echo to Start Your Mercedes
+  url: http://www.pcmag.com/news/353232/use-google-home-amazon-echo-to-start-your-mercedes
+  domain: www.pcmag.com
+  image: ""
+- curated_id: 113313e3e118fcd641e48517e3bbab61
+  item_date: "2017-04-23 00:00:00"
+  title: "Harman Debuts Voice-Control Cognitive Rooms Powered by IBM\u2019s IoT..."
+  url: http://mysmahome.com/news/36121/harman-debuts-voice-control-cognitive-rooms-powered-ibms-iot-service/
+  domain: mysmahome.com
+  image: ""
+- curated_id: 176463177bb45ff0683a4eedba5a90d6
+  item_date: "2017-04-24 00:00:00"
+  title: Spotify is hiring people to cook up hardware as innovative as the Amazon
+    Echo
+  url: http://www.businessinsider.com/spotify-building-its-own-hardware-2017-4
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 4b89a48fbbefd8d2b8cde42aeb37d401
+  item_date: "2017-04-24 00:00:00"
+  title: "Consumers Aren\u2019t Ready for Alexa to Handle Their Finances"
+  url: http://bankinnovation.net/2017/04/consumers-arent-ready-for-alexa-to-handle-their-finances/
+  domain: bankinnovation.net
+  image: ""
+- curated_id: 0be5364e9f91fe9d92e6dd37f28dd791
+  item_date: "2017-04-25 00:00:00"
+  title: "Emergent // Future \u2013 Facebook\u2019s AI Research, Google\u2019s speech
+    recognition and more"
+  url: http://blog.algorithmia.com/emergent-future-facebooks-ai-research-googles-speech-recognition/
+  domain: blog.algorithmia.com
+  image: ""
+- curated_id: 2f3b083a93a6f9d3c48e29d979ebcab3
+  item_date: "2017-04-25 00:00:00"
+  title: With Dialpad-Amazon Echo integration, Alexa can make phone calls for you
+  url: https://techcrunch.com/2017/04/25/with-dialpad-amazon-echo-integration-alexa-can-make-phone-calls-for-you/
+  domain: techcrunch.com
+  image: ""
+- curated_id: f0d5c44b3595a102536c7e5efc84a1f7
+  item_date: "2017-04-26 00:00:00"
+  title: Amazon Wants to Put a Camera and Microphone in Your Bedroom
+  url: https://motherboard.vice.com/en_us/article/amazon-echo-look-bedroom-camera
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: c3afe00e9bef94f581bdd513ce47994b
+  item_date: "2017-04-26 00:00:00"
+  title: Amazons new Echo Look device wants to be your AI-powered stylist
+  url: http://www.zdnet.com/article/amazons-new-echo-look-device-wants-to-be-your-ai-powered-stylist/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 45ed70234c266f4442db9462d3b75e4a
+  item_date: "2017-04-26 00:00:00"
+  title: "Can Amazon\u2019s Echo Dot Make a Good SIDS Alarm?"
+  url: http://www.cringely.com/2017/04/26/15429/
+  domain: www.cringely.com
+  image: ""
+- curated_id: b9d36f88c6428cfed34db5b7dce00b3b
+  item_date: "2017-04-26 09:22:46"
+  title: "Amazon\u2019s new $200 Echo Look camera will judge your outfits"
+  url: http://www.theverge.com/2017/4/26/15435550/amazon-echo-look-200-smart-camera-mirror-stylist
+  domain: www.theverge.com
+  image: ""
+- curated_id: 43c32cf0a40e332ba21632efaf1e5552
+  item_date: "2017-04-26 09:49:33"
+  title: The next iteration of Alexa is designed to watch you while you get dressed
+  url: http://boingboing.net/2017/04/26/black-mirror-is-everting.html
+  domain: boingboing.net
+  image: ""
+- curated_id: 11d8ad3a03346e7b1371302b4609f077
+  item_date: "2017-04-27 00:00:00"
+  title: Google Assistant SDK lets anyone make an intelligent voice-controlled...
+  url: https://www.aivanet.com/2017/04/google-assistant-sdk-lets-anyone-make-an-intelligent-voice-controlled-device/
+  domain: www.aivanet.com
+  image: ""
+- curated_id: 4aa6539a6ed7069db22387a530c2f274
+  item_date: "2017-04-27 00:00:00"
+  title: Are the wheels falling off the digital assistant bandwagon?
+  url: https://disruptiveviews.com/digital-assistant-bandwagon/
+  domain: disruptiveviews.com
+  image: ""
+- curated_id: 8e970485c5321f60a9346a80529d6429
+  item_date: "2017-04-27 00:00:00"
+  title: Google eyes massive AI expansion with new Assistant SDK
+  url: http://www.pcworld.com/article/3192964/android/google-eyes-massive-ai-expansion-with-new-assistant-sdk.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 06e5341d00e9d6f2bac3425571c87532
+  item_date: "2017-04-27 00:00:00"
+  title: Introducing the Google Assistant SDK
+  url: https://developers.googleblog.com/2017/04/introducing-google-assistant-sdk.html
+  domain: developers.googleblog.com
+  image: ""
+- curated_id: fa6a391f4ee8b61a601360ba39b9e74a
+  item_date: "2017-04-27 00:00:00"
+  title: Google opens up the Google Assistant to developers, shows off mocktail mixer
+    to prove it
+  url: https://thenextweb.com/google/2017/04/27/1043688/
+  domain: thenextweb.com
+  image: ""
+- curated_id: df977339f251916ce37da7d5a8587d5e
+  item_date: "2017-04-27 00:00:00"
+  title: Hacking Alexa Skills With Service Virtualization
+  url: http://embedded-computing.com/articles/hacking-alexa-skills-with-service-virtualization-the-value-of-simulation-for-iot/
+  domain: embedded-computing.com
+  image: ""
+- curated_id: fde8cb00ebcded5389c8d55369cac35d
+  item_date: "2017-04-28 00:00:00"
+  title: Alexa learns to talk like a human with whispers, pauses  emotion
+  url: https://techcrunch.com/2017/04/28/alexa-learns-to-talk-like-a-human-with-whispers-pauses-emotion/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 4bd5249cf2f65a374eb61a39a4158c4e
+  item_date: "2017-04-28 00:00:00"
+  title: Amazon style assistant divides opinion
+  url: http://www.bbc.co.uk/news/technology-39744293
+  domain: www.bbc.co.uk
+  image: ""
+- curated_id: 81703d6f12e7bfeb8665239e2a13c8d9
+  item_date: "2017-04-28 00:00:00"
+  title: How to Build Your Own Amazon Echo
+  url: http://spectrum.ieee.org/geek-life/hands-on/how-to-build-your-own-amazon-echo
+  domain: spectrum.ieee.org
+  image: ""
+- curated_id: 364e56c78616641f0f321341b3141d68
+  item_date: "2017-05-01 00:00:00"
+  title: Writing Your Own Voice Recognition Application
+  url: https://www.codeproject.com/Articles/1184834/Writing-Your-Own-Voice-Recognition-Application
+  domain: www.codeproject.com
+  image: ""
+- curated_id: edd8f817a114c462d85668ade84fe372
+  item_date: "2017-05-01 09:00:38"
+  title: Lyrebird - An API to copy the voice of anyone
+  url: https://lyrebird.ai/demo
+  domain: lyrebird.ai
+  image: ""
+- curated_id: 134fade2eb0a43c751a730fdb8f27ee6
+  item_date: "2017-05-02 00:00:00"
+  title: Sound Masking for Speech Privacy in Open Offices and Healthcare Environments
+  url: http://www.avnetwork.com/avtechnology/sound-masking-for-speech-privacy-in-open-offices-and-healthcare-environments/126317
+  domain: www.avnetwork.com
+  image: ""
+- curated_id: 55317b9839d8447a8421f08c17e39469
+  item_date: "2017-05-02 00:00:00"
+  title: New Tools Allow Voice Patterns To Be Cloned To Produce Realistic But Fake
+    Sounds Of Anyone Saying Anything
+  url: https://www.techdirt.com/articles/20170425/07092537229/new-tools-allow-voice-patterns-to-be-cloned-to-produce-realistic-fake-sounds-anyone-saying-anything.shtml
+  domain: www.techdirt.com
+  image: ""
+- curated_id: 9b7ad403be6914e34cef2fb1055e8b0f
+  item_date: "2017-05-02 09:00:25"
+  title: Test Your Smart Home Skill API Responses with Our New Validation Package
+  url: https://developer.amazon.com/blogs/alexa/post/eaf859ff-043d-48ad-b347-02f755bdae99/validating-smart-home-skill-api-responses
+  domain: developer.amazon.com
+  image: ""
+- curated_id: 10f667b4d3bab61eb26a318fc9535428
+  item_date: "2017-05-04 00:00:00"
+  title: Forging Voice
+  url: https://www.schneier.com/blog/archives/2017/05/forging_voice.html
+  domain: www.schneier.com
+  image: ""
+- curated_id: fc311bee47451e8b51ae1b7e642263a2
+  item_date: "2017-05-08 00:00:00"
+  title: 'Apples Schiller: Echo-Like Devices Need a Screen'
+  url: http://www.pcmag.com/news/353548/apples-schiller-echo-like-devices-need-a-screen
+  domain: www.pcmag.com
+  image: ""
+- curated_id: 98489fe9f7a3c42027afa4bc6fe394ee
+  item_date: "2017-05-08 00:00:00"
+  title: Waze can now shout directions using your own voice
+  url: https://thenextweb.com/apps/2017/05/09/waze-can-now-shout-directions-using-voice/
+  domain: thenextweb.com
+  image: ""
+- curated_id: d5f8200053247e20e5aa2a256a6d74ba
+  item_date: "2017-05-09 00:00:00"
+  title: Amazons Echo Show marries Alexas smarts with a touchscreen
+  url: http://www.macworld.com/article/3195435/home-tech/amazons-echo-show-marries-alexas-smarts-with-a-touchscreen.html#tk.rss_all
+  domain: www.macworld.com
+  image: ""
+- curated_id: 4a3faf46b1d6143f0d6ba2ffee08ee46
+  item_date: "2017-05-10 00:00:00"
+  title: Amazon Unveils Touchscreen Echo Show
+  url: https://www.theverge.com/circuitbreaker/2017/5/9/15590978/amazon-echo-show-touchscreen-price-release-date
+  domain: www.theverge.com
+  image: ""
+- curated_id: 3c40903b28d71f74a2a006c222b4cfa9
+  item_date: "2017-05-11 00:00:00"
+  title: Apple patent details how Siri could work in noisy environments
+  url: https://thenextweb.com/apple/2017/05/11/apple-patent-details-siri-work-noisy-environments/
+  domain: thenextweb.com
+  image: ""
+- curated_id: a76a02e67b22629c27a5388ff4d14b36
+  item_date: "2017-05-12 00:00:00"
+  title: "Amazon\u2019s Echo skills to get adverts\u2026 kinda"
+  url: https://thenextweb.com/insider/2017/05/12/amazons-echo-skills-get-adverts-kinda/
+  domain: thenextweb.com
+  image: ""
+- curated_id: a143a4a21d18e6c9101fe9abfc5f4d45
+  item_date: "2017-05-12 00:00:00"
+  title: "Amazon\u2019s Echo calling doesn\u2019t let you block people"
+  url: https://www.theverge.com/2017/5/12/15631502/amazon-echo-alexa-calling-messaging-bad-privacy
+  domain: www.theverge.com
+  image: ""
+- curated_id: 4dbbadb89796027a028936a0b699e8b4
+  item_date: "2017-05-12 00:00:00"
+  title: Stealing Voice Prints
+  url: https://www.schneier.com/blog/archives/2017/05/stealing_voice_.html
+  domain: www.schneier.com
+  image: ""
+- curated_id: 43d349cee0bca20f568666b3d7398dea
+  item_date: "2017-05-12 00:00:00"
+  title: "FIs Should Keep An Eye On Alexa, Before It Goes Full \u2018Star Trek\u2019"
+  url: http://bankinnovation.net/2017/05/fis-should-keep-an-eye-on-alexa-before-it-goes-full-star-trek/
+  domain: bankinnovation.net
+  image: ""
+- curated_id: 07cfa09f7235ea26874c8570a50412af
+  item_date: "2017-05-13 00:00:00"
+  title: How Amazon Echo made my life easier and shaved 10 minutes off my morning
+    routine
+  url: http://www.businessinsider.com/amazon-echo-tips-tricks-and-hacks-2017-5
+  domain: www.businessinsider.com
   image: ""
 ...
