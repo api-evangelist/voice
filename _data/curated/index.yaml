@@ -60,17 +60,17 @@
   url: http://www.mashery.com/blog/apis-are-changing-game-data-delivery
   domain: www.mashery.com
   image: ""
-- curated_id: e9ebc496165058eaa156361fbc7caf08
-  item_date: "2013-04-25 00:00:00"
-  title: Sports  APIs ? A Perfect Fit
-  url: http://www.mashery.com/blog/sports-apis-%e2%80%93-perfect-fit
-  domain: www.mashery.com
-  image: ""
 - curated_id: 289221dd5d565554241cfaa21d523337
   item_date: "2013-04-25 00:00:00"
   title: Designing APIs for Humans
   url: http://john-sheehan.com/blog/designing-apis-for-humans
   domain: john-sheehan.com
+  image: ""
+- curated_id: e9ebc496165058eaa156361fbc7caf08
+  item_date: "2013-04-25 00:00:00"
+  title: Sports  APIs ? A Perfect Fit
+  url: http://www.mashery.com/blog/sports-apis-%e2%80%93-perfect-fit
+  domain: www.mashery.com
   image: ""
 - curated_id: 5a32cf53a9ea13fe53368a84fb3896dc
   item_date: "2013-04-26 00:00:00"
@@ -174,16 +174,16 @@
   url: http://www.mashery.com/blog/why-you-should-treat-your-api-product
   domain: www.mashery.com
   image: ""
-- curated_id: 37215327ea7c81205e6f11086f15da5a
-  item_date: "2013-06-05 00:00:00"
-  title: API Management ? The New Black?
-  url: http://www.mashery.com/blog/api-management-new-black
-  domain: www.mashery.com
-  image: ""
 - curated_id: 52dd2033e4aeca046471c3f7d2170a1a
   item_date: "2013-06-05 00:00:00"
   title: 'APIs vs. The Myth of the Omnichannel Retailer  '
   url: http://www.mashery.com/blog/apis-vs-myth-omnichannel-retailer
+  domain: www.mashery.com
+  image: ""
+- curated_id: 37215327ea7c81205e6f11086f15da5a
+  item_date: "2013-06-05 00:00:00"
+  title: API Management ? The New Black?
+  url: http://www.mashery.com/blog/api-management-new-black
   domain: www.mashery.com
   image: ""
 - curated_id: 7e311ee3053f190ae70e5623d906ab63
@@ -204,29 +204,29 @@
   url: http://www.designinghypermediaapis.com/
   domain: www.designinghypermediaapis.com
   image: ""
-- curated_id: 4684b22e52d05acd7c5b5b81d5ae3b0c
-  item_date: "2013-06-17 00:00:00"
-  title: 'API Design: Honing in on HATEOAS'
-  url: http://apigee.com/about/blog/developer/api-design-honing-hateoas
-  domain: apigee.com
-  image: ""
 - curated_id: 4e0f423e88f0480e605ef828d3334404
   item_date: "2013-06-17 00:00:00"
   title: 'RESTful APIs: White House Sets The Standard(s)'
   url: http://www.programmableweb.com/news/restful-apis-white-house-sets-standards/2013/06/17
   domain: www.programmableweb.com
   image: ""
-- curated_id: 7d6aae70c8bbdb726c78e4fa13017f9e
-  item_date: "2013-06-19 00:00:00"
-  title: Data-Driven Aesthetics
-  url: http://www.nytimes.com/glogin/URI=http://bits.blogs.nytimes.com/2013/06/19/data-driven-aesthetics/&amp;OQ=_rQ3D0&amp;OP=54867341Q2FfQ3B9Q51fbhXf555fzXJefG7d.
-  domain: www.nytimes.com
+- curated_id: 4684b22e52d05acd7c5b5b81d5ae3b0c
+  item_date: "2013-06-17 00:00:00"
+  title: 'API Design: Honing in on HATEOAS'
+  url: http://apigee.com/about/blog/developer/api-design-honing-hateoas
+  domain: apigee.com
   image: ""
 - curated_id: f84efa3faafb3c499ef588dfbe3f4886
   item_date: "2013-06-19 00:00:00"
   title: When Good API Design is a Waste of Time
   url: http://www.apiacademy.co/blogs/when-good-api-design-is-a-waste-of-time/
   domain: www.apiacademy.co
+  image: ""
+- curated_id: 7d6aae70c8bbdb726c78e4fa13017f9e
+  item_date: "2013-06-19 00:00:00"
+  title: Data-Driven Aesthetics
+  url: http://www.nytimes.com/glogin/URI=http://bits.blogs.nytimes.com/2013/06/19/data-driven-aesthetics/&amp;OQ=_rQ3D0&amp;OP=54867341Q2FfQ3B9Q51fbhXf555fzXJefG7d.
+  domain: www.nytimes.com
   image: ""
 - curated_id: 7df783f9d31f00753c2b5b97376c4e45
   item_date: "2013-06-20 00:00:00"
@@ -354,12 +354,6 @@
   url: https://www.forrester.com/report/API+Design+Part+2+Design+Messaging+Styles+By+Balancing+Reach+With+Your+Other+Design+Goals/-/E-RES102022
   domain: www.forrester.com
   image: ""
-- curated_id: 6350da14586b319eb98c4a37dff14636
-  item_date: "2013-08-20 00:00:00"
-  title: 'Api Design, Part 1: Rest Is The Leading But Not Only...'
-  url: https://www.forrester.com/report/API+Design+Part+1+REST+Is+The+Leading+But+Not+Only+Option+For+Your+APIs/-/E-RES102021
-  domain: www.forrester.com
-  image: ""
 - curated_id: 0d4ef097a8242fa4d5c91c721c9c26d6
   item_date: "2013-08-20 00:00:00"
   title: 'Api Design, Part 3: Make Transactions And Error Handling...'
@@ -370,6 +364,12 @@
   item_date: "2013-08-20 00:00:00"
   title: 'Api Design, Part 4: Future-proof And Secure Your Apis...'
   url: https://www.forrester.com/report/API+Design+Part+4+FutureProof+And+Secure+Your+APIs+To+Fit+Your+Usage+Scenarios/-/E-RES102024
+  domain: www.forrester.com
+  image: ""
+- curated_id: 6350da14586b319eb98c4a37dff14636
+  item_date: "2013-08-20 00:00:00"
+  title: 'Api Design, Part 1: Rest Is The Leading But Not Only...'
+  url: https://www.forrester.com/report/API+Design+Part+1+REST+Is+The+Leading+But+Not+Only+Option+For+Your+APIs/-/E-RES102021
   domain: www.forrester.com
   image: ""
 - curated_id: 75e378f435ff8be00494caeb7c1a867b
@@ -565,17 +565,17 @@
   url: https://18fblog.tumblr.com/post/91868213233/hot-off-the-press-18fs-api-standards#_=_
   domain: 18fblog.tumblr.com
   image: ""
-- curated_id: b35ca6ab6a4b739481554bdb3058feba
-  item_date: "2014-07-16 00:00:00"
-  title: 'Hot off the Press: 18F?s API Standards'
-  url: http://www.digitalgov.gov/2014/07/16/hot-off-the-press-18fs-api-standards/
-  domain: www.digitalgov.gov
-  image: ""
 - curated_id: d0a5488ff945ef7e4b610182363f2576
   item_date: "2014-07-16 00:00:00"
   title: 'The Real World Cup Winner: APIs'
   url: http://blogs.mulesoft.com/biz/api-enable-world-cup-2014/
   domain: blogs.mulesoft.com
+  image: ""
+- curated_id: b35ca6ab6a4b739481554bdb3058feba
+  item_date: "2014-07-16 00:00:00"
+  title: 'Hot off the Press: 18F?s API Standards'
+  url: http://www.digitalgov.gov/2014/07/16/hot-off-the-press-18fs-api-standards/
+  domain: www.digitalgov.gov
   image: ""
 - curated_id: 4479b9fe854a19ff7229c47017279553
   item_date: "2014-07-18 00:00:00"
@@ -595,17 +595,17 @@
   url: http://blogs.mulesoft.com/biz/dont-just-throw-apis/
   domain: blogs.mulesoft.com
   image: ""
-- curated_id: 1c1727e9a786adca35fda6c640c2fead
-  item_date: "2014-07-25 00:00:00"
-  title: Upcoming Webinar ? Integrating Salesforce and SAP
-  url: http://blogs.mulesoft.com/biz/saas/sfdc-sap-unlock-back-office/
-  domain: blogs.mulesoft.com
-  image: ""
 - curated_id: 5bf217a33b290a540d4635a26e3d9042
   item_date: "2014-07-25 00:00:00"
   title: 'APIs: The Key to Surviving a Zombie Apocalypse?'
   url: http://www.mashery.com/blog/apis-key-surviving-zombie-apocalypse
   domain: www.mashery.com
+  image: ""
+- curated_id: 1c1727e9a786adca35fda6c640c2fead
+  item_date: "2014-07-25 00:00:00"
+  title: Upcoming Webinar ? Integrating Salesforce and SAP
+  url: http://blogs.mulesoft.com/biz/saas/sfdc-sap-unlock-back-office/
+  domain: blogs.mulesoft.com
   image: ""
 - curated_id: f9341875db4741c665f688baba989ff3
   item_date: "2014-07-25 11:55:18"
@@ -613,18 +613,18 @@
   url: https://www.sitepoint.com/best-practices-rest-api-scratch-introduction/
   domain: www.sitepoint.com
   image: ""
+- curated_id: 8f20b2c8123ae0f36b7f3af33b4fac00
+  item_date: "2014-07-30 00:00:00"
+  title: Introducing the Anypoint Platform for APIs
+  url: http://blogs.mulesoft.com/dev/release-anypoint-platform-api-2014-07/
+  domain: blogs.mulesoft.com
+  image: ""
 - curated_id: 2144cf7b6ae1e4945985a2841c5ed29d
   item_date: "2014-07-30 00:00:00"
   title: Reaffirming Intel Services? Connection with Developers and Open Source at
     OSCON
   url: http://www.mashery.com/blog/reaffirming-intel-services-connection-developers-and-open-source-oscon
   domain: www.mashery.com
-  image: ""
-- curated_id: 8f20b2c8123ae0f36b7f3af33b4fac00
-  item_date: "2014-07-30 00:00:00"
-  title: Introducing the Anypoint Platform for APIs
-  url: http://blogs.mulesoft.com/dev/release-anypoint-platform-api-2014-07/
-  domain: blogs.mulesoft.com
   image: ""
 - curated_id: 2be2689fece7524fe66f560e70b94512
   item_date: "2014-07-31 00:00:00"
@@ -674,17 +674,17 @@
   url: http://blogs.mulesoft.com/dev/integrating-mule-esb-net-based-rules-engines/
   domain: blogs.mulesoft.com
   image: ""
-- curated_id: 37a3c06d72eb59f098c847b5dc305918
-  item_date: "2014-08-20 00:00:00"
-  title: A drive by review of the Uber API
-  url: http://www.bizcoder.com:80/a-drive-by-review-of-the-uber-api
-  domain: www.bizcoder.com
-  image: ""
 - curated_id: f91d38bc30b0531338aee79fed15d1f5
   item_date: "2014-08-20 00:00:00"
   title: MuleSoft Summit Heads to Chicago  New York
   url: http://blogs.mulesoft.com/biz/events/mulesoft-summit-chicago-new-york/
   domain: blogs.mulesoft.com
+  image: ""
+- curated_id: 37a3c06d72eb59f098c847b5dc305918
+  item_date: "2014-08-20 00:00:00"
+  title: A drive by review of the Uber API
+  url: http://www.bizcoder.com:80/a-drive-by-review-of-the-uber-api
+  domain: www.bizcoder.com
   image: ""
 - curated_id: b39d33b47c455eb0e55ecf81c25c4f2c
   item_date: "2014-08-21 00:00:00"
@@ -698,6 +698,12 @@
   url: http://bizcoder.com/a-drive-by-review-of-the-uber-api
   domain: bizcoder.com
   image: ""
+- curated_id: 28c9a84532f4ffaf3b76dbd9d55f5d3b
+  item_date: "2014-09-25 00:00:00"
+  title: Designing APIs for the Web
+  url: http://tehparadox.com/forum/f58/designing-apis-web-8395324/
+  domain: tehparadox.com
+  image: ""
 - curated_id: 4a977ed1be744a47760380295c4f5849
   item_date: "2014-09-25 00:00:00"
   title: 'API Readiness: do you have what you need?'
@@ -709,12 +715,6 @@
   title: WillowTree Apps Applies Service Virtualization to API Development
   url: http://www.programmableweb.com/news/willowtree-apps-applies-service-virtualization-to-api-development/2014/09/25
   domain: www.programmableweb.com
-  image: ""
-- curated_id: 28c9a84532f4ffaf3b76dbd9d55f5d3b
-  item_date: "2014-09-25 00:00:00"
-  title: Designing APIs for the Web
-  url: http://tehparadox.com/forum/f58/designing-apis-web-8395324/
-  domain: tehparadox.com
   image: ""
 - curated_id: 4f731b9dd81637dcbb3d82793620fc2d
   item_date: "2014-09-26 00:00:00"
@@ -728,17 +728,17 @@
   url: http://rest-apithy.blogspot.ca/2014/11/readfielding.html
   domain: rest-apithy.blogspot.ca
   image: ""
-- curated_id: 36d1437b3e560ba212503bb255ed6d58
-  item_date: "2014-12-03 00:00:00"
-  title: Constructing URLs the easy way
-  url: http://www.bizcoder.com:80/constructing-urls-the-easy-way
-  domain: www.bizcoder.com
-  image: ""
 - curated_id: b789fc199a97d2842d86fad02496d760
   item_date: "2014-12-03 00:00:00"
   title: Restlet Studio, the First Cross-Language IDE for APIs
   url: http://restlet.com/blog/2014/12/03/restlet-studio-the-first-cross-language-ide-for-apis/
   domain: restlet.com
+  image: ""
+- curated_id: 36d1437b3e560ba212503bb255ed6d58
+  item_date: "2014-12-03 00:00:00"
+  title: Constructing URLs the easy way
+  url: http://www.bizcoder.com:80/constructing-urls-the-easy-way
+  domain: www.bizcoder.com
   image: ""
 - curated_id: c65247a5e357ab02c4b1d1e433a510c5
   item_date: "2014-12-23 00:00:00"
@@ -746,11 +746,11 @@
   url: http://www.windley.com//archives/2014/12/the_core_of_your_api.shtml
   domain: www.windley.com
   image: ""
-- curated_id: bf87d2c90d9d7f41636066812e0fa00a
+- curated_id: 6520d6543914e5ab11c6e813c55ad525
   item_date: "2015-01-05 00:00:00"
-  title: Facebook acquires speech-recognition IoT startup Wit.AI
-  url: https://gigaom.com/2015/01/05/facebook-acquires-speech-recognition-iot-startup-wit-ai/
-  domain: gigaom.com
+  title: Facebook just bought a voice recognition startup
+  url: http://www.theverge.com/2015/1/5/7496501/facebook-just-bought-voice-recognition-startup-wit-ai
+  domain: www.theverge.com
   image: ""
 - curated_id: 0f6808dde61e39fc594dd82e8155e22d
   item_date: "2015-01-05 00:00:00"
@@ -758,12 +758,18 @@
   url: http://thenextweb.com/facebook/2015/01/05/facebook-acquires-speech-recognition-startup-wit-ai/
   domain: thenextweb.com
   image: ""
-- curated_id: 6520d6543914e5ab11c6e813c55ad525
+- curated_id: bf87d2c90d9d7f41636066812e0fa00a
   item_date: "2015-01-05 00:00:00"
-  title: Facebook just bought a voice recognition startup
-  url: http://www.theverge.com/2015/1/5/7496501/facebook-just-bought-voice-recognition-startup-wit-ai
-  domain: www.theverge.com
+  title: Facebook acquires speech-recognition IoT startup Wit.AI
+  url: https://gigaom.com/2015/01/05/facebook-acquires-speech-recognition-iot-startup-wit-ai/
+  domain: gigaom.com
   image: ""
+- curated_id: EI7haK43eN4QuUEK123zUqB6IWfA8cSZW77eoQ5fBGNm7YWVOtlxGJEykAI123wrhvGlVGDviU6tCgjqjoDG3m116dDw117117
+  item_date: "2015-01-06 00:00:00"
+  title: Does One API Description Language Fit an Entire Enterprise
+  url: https://blog.soa.com/does-one-api-description-language-fit-an-entire-enterprise/
+  domain: blog.soa.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-soa-comdoes-one-api-description-language-fit-an-entire-enterprise.png
 - curated_id: 8ioDhMuEfXB1I41S3RoLFtHpvKnAwBYDO1pQYXmjBtdFH4mKRO123yrCCWR6123aW9i1116LoMOjnfV0a2PC6U123zbgsg117117
   item_date: "2015-01-06 00:00:00"
   title: Connecting Our History At The Digital Public Library of America Using APIs
@@ -771,12 +777,6 @@
   url: http://apievangelist.com/2015/01/07/connecting-our-history-at-the-digital-public-library-of-america-using-apis-and-jsonld/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150107connecting-our-history-at-the-digital-public-library-of-america-using-apis-and-jsonld.png
-- curated_id: EI7haK43eN4QuUEK123zUqB6IWfA8cSZW77eoQ5fBGNm7YWVOtlxGJEykAI123wrhvGlVGDviU6tCgjqjoDG3m116dDw117117
-  item_date: "2015-01-06 00:00:00"
-  title: Does One API Description Language Fit an Entire Enterprise
-  url: https://blog.soa.com/does-one-api-description-language-fit-an-entire-enterprise/
-  domain: blog.soa.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-soa-comdoes-one-api-description-language-fit-an-entire-enterprise.png
 - curated_id: Mg806B8tgRQ9lJT7csi1SyudoAGPMEwQz2pDS2jJYK7J116hCWFjeHmXU1SUJlmN116cU6AAmQP4Wy0MzF2c5116OJGA117117
   item_date: "2015-01-06 19:30:12"
   title: Server Skeletons In Restlet Studio And APISpark
@@ -819,36 +819,30 @@
   url: https://blog.apiary.io/2015/02/17/Utilising-API-Blueprint-in-API-Clients
   domain: blog.apiary.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-apiary-io20150217utilising-api-blueprint-in-api-clients.png
-- curated_id: LWomzMZEGI3hzCApQQv4T2nOPmXLi27OUhkIZlZ2KxcU1l7Ej8X5ddj123mWsrTYa2jcan5iTvelrSymuS8DDkOg117117
-  item_date: "2015-02-18 00:00:00"
-  title: Community Debates API Specification Alternatives
-  url: https://www.infoq.com/news/2015/02/api-alternatives
-  domain: www.infoq.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comnews201502api-alternatives.png
 - curated_id: FN85XqYS9CtnEtF20HgFFQ7T8MF6hxyXOb1123cnACz88T2OOQwNxGdLoTHZIyd7NDqPNZoStbZj8jUY3YWzQJbg117117
   item_date: "2015-02-18 00:00:00"
   title: How API Description Languages Enable API IDEs
   url: http://www.programmableweb.com/news/how-api-description-languages-enable-api-ides/sponsored-content/2015/02/18
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewshow-api-description-languages-enable-api-idessponsored-content20150218.png
-- curated_id: qtwl0ZYkfp89ByU8HnhID52RMa116OH5kPtamSWrYg3CxWTJd4sJ6yN1164123iK0fv6nztI4r116crNC116QpJFBqAlUagw117117
-  item_date: "2015-02-19 00:00:00"
-  title: Collaborators New External API
-  url: http://blog.smartbear.com/programming/collaborators-new-external-api/
-  domain: blog.smartbear.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-smartbear-comprogrammingcollaborators-new-external-api.png
+- curated_id: LWomzMZEGI3hzCApQQv4T2nOPmXLi27OUhkIZlZ2KxcU1l7Ej8X5ddj123mWsrTYa2jcan5iTvelrSymuS8DDkOg117117
+  item_date: "2015-02-18 00:00:00"
+  title: Community Debates API Specification Alternatives
+  url: https://www.infoq.com/news/2015/02/api-alternatives
+  domain: www.infoq.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comnews201502api-alternatives.png
 - curated_id: tYkcl8KiATEfaiY1UmrH5lxtVcQmat6oNAlRqvraOl4hGud72qibADUwKesZCBVX7HADCB8L0A6O5TiUoytF2w117117
   item_date: "2015-02-19 00:00:00"
   title: Using Templates for Documentation Driven API Design
   url: http://nordicapis.com/using-templates-for-documentation-driven-api-design/
   domain: nordicapis.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comusing-templates-for-documentation-driven-api-design.png
-- curated_id: STHZs1a123L9FCgfWP94I0Sc5SihdhKqiKdYRIR0PK4lESe9PXk51P18QI780lIAg454DCBfmE8UBsuB1qInUpEQ117117
-  item_date: "2015-02-20 00:00:00"
-  title: API Best Practices The Wrap Up
-  url: http://blogs.mulesoft.com/dev/api-best-practices-wrap-up/
-  domain: blogs.mulesoft.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-mulesoft-orgapi-best-practices-wrap-up.png
+- curated_id: qtwl0ZYkfp89ByU8HnhID52RMa116OH5kPtamSWrYg3CxWTJd4sJ6yN1164123iK0fv6nztI4r116crNC116QpJFBqAlUagw117117
+  item_date: "2015-02-19 00:00:00"
+  title: Collaborators New External API
+  url: http://blog.smartbear.com/programming/collaborators-new-external-api/
+  domain: blog.smartbear.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-smartbear-comprogrammingcollaborators-new-external-api.png
 - curated_id: QqzGfbBYOWSLnbhVr1233waluDL6Xr7cjQEBbS48JH4h8DoJ3ItBTQgdk7NTYAIWphcizVBI8rG2eKp4rPUKNnTA117117
   item_date: "2015-02-20 00:00:00"
   title: LucyBot Eliminates CrossLanguage Programming Necessity
@@ -861,6 +855,12 @@
   url: http://www.programmableweb.com/news/mulesoft-releases-raml-.net-parser-visual-studio-extension/2015/02/20
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsmulesoft-releases-raml--net-parser-visual-studio-extension20150220.png
+- curated_id: STHZs1a123L9FCgfWP94I0Sc5SihdhKqiKdYRIR0PK4lESe9PXk51P18QI780lIAg454DCBfmE8UBsuB1qInUpEQ117117
+  item_date: "2015-02-20 00:00:00"
+  title: API Best Practices The Wrap Up
+  url: http://blogs.mulesoft.com/dev/api-best-practices-wrap-up/
+  domain: blogs.mulesoft.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-mulesoft-orgapi-best-practices-wrap-up.png
 - curated_id: IIngeWuMGFGoJeAH2UXBSc2Gk6tk1hjLPM3H1nHX7uzGRz7kCQbVVspghX2XHAEjeDLnOvaOyVqzZgK0iq123ngA117117
   item_date: "2015-02-20 08:48:02"
   title: LucyBot  Get your APIs consumers moving faster
@@ -921,18 +921,18 @@
   url: http://apihandyman.io/hypermedia-api-maturity-model-part-i-hypermedia-ness/
   domain: apihandyman.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apihandyman-iohypermedia-api-maturity-model-part-i-hypermedia-ness.png
-- curated_id: YS6zKe0TwWqSzPI123HfarhQvjhvVGqwgliCpMuTM2GSFPEZqIwLVRgykSdArZPWMT9ptBU116yzs3J8V5ojR28IHA117117
-  item_date: "2015-03-02 00:00:00"
-  title: Dropbox starts using POST and why this is poor API design
-  url: https://evertpot.com/dropbox-post-api/
-  domain: evertpot.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/evertpot-comdropbox-post-api.png
 - curated_id: r9DeihR4jE4glOUzaSnNTaX5oh123lZpzfrzkakfpmUMysbQUHZMzJTKwiAVV9RdIhNy7vpaqxOSApSsnl350cHg117117
   item_date: "2015-03-02 00:00:00"
   title: Common Cases When Using SOAP Makes Sense
   url: http://nordicapis.com/common-cases-when-using-soap-makes-sense/
   domain: nordicapis.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comcommon-cases-when-using-soap-makes-sense.png
+- curated_id: YS6zKe0TwWqSzPI123HfarhQvjhvVGqwgliCpMuTM2GSFPEZqIwLVRgykSdArZPWMT9ptBU116yzs3J8V5ojR28IHA117117
+  item_date: "2015-03-02 00:00:00"
+  title: Dropbox starts using POST and why this is poor API design
+  url: https://evertpot.com/dropbox-post-api/
+  domain: evertpot.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/evertpot-comdropbox-post-api.png
 - curated_id: NqEOF35123CWDlvXN6SqCYmB60Cxn9VyXJ3lHlwRZEhfXg116f2ODCuP1k42qMOhoaubBdhd93T1Wvz9b116XeO5vtGw117117
   item_date: "2015-03-02 11:37:39"
   title: ApplicationLevel Profile Semantics ALPS
@@ -945,18 +945,18 @@
   url: http://radar.oreilly.com/2015/02/meta-design-the-intersection-of-art-design-and-computation.html
   domain: radar.oreilly.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/radar-oreilly-com201502meta-design-the-intersection-of-art-design-and-computation-html.png
-- curated_id: nPPSlUd3ATGDOhS45IbSlt1165BiAQ123OSoVTjdJR9NPlQSE8930I0DO9x123oMTA3fa4HMRIe2q5lfdSdm0EccqQfA117117
-  item_date: "2015-03-03 00:00:00"
-  title: My API Design Research
-  url: http://apievangelist.com/2015/03/04/my-api-design-research/
-  domain: apievangelist.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150304my-api-design-research.png
 - curated_id: p8tPzwzIDnd123tqNr8eWRjAV3GVqJaEIBsL8SeFZkHWrLO87MfjTdo3P2vRbEynyMZXKLSfgmZWsnRLytkwgNdA117117
   item_date: "2015-03-03 00:00:00"
   title: Dropbox Sparks Controversy With API Design Decision
   url: http://www.programmableweb.com/news/dropbox-sparks-controversy-api-design-decision/analysis/2015/03/03
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsdropbox-sparks-controversy-api-design-decisionanalysis20150303.png
+- curated_id: nPPSlUd3ATGDOhS45IbSlt1165BiAQ123OSoVTjdJR9NPlQSE8930I0DO9x123oMTA3fa4HMRIe2q5lfdSdm0EccqQfA117117
+  item_date: "2015-03-03 00:00:00"
+  title: My API Design Research
+  url: http://apievangelist.com/2015/03/04/my-api-design-research/
+  domain: apievangelist.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150304my-api-design-research.png
 - curated_id: Bcy116FXbG5lFaou123Bq5VZbnj70mgPMsNZpkHyJKePfrmiR116yIzCrcoMIdqzij42UnYGym312jRv7PNLW2P0vN6w117117
   item_date: "2015-03-03 10:39:40"
   title: Apigee Product Highlight Video SmartDocs
@@ -981,12 +981,6 @@
   url: http://apievangelist.com/2015/03/07/we-need-an-open-library-of-the-most-common-utility-api-implementations/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150307we-need-an-open-library-of-the-most-common-utility-api-implementations.png
-- curated_id: P123Lr1g8NW7vIDkK8Uck2FMoLTvFqh1k7xXuaxSUhUnQuXhYWVETqA7Zky3Sj0TRxxsaddroCKTvzazOQjFSq6g117117
-  item_date: "2015-03-09 00:00:00"
-  title: Ideal REST API design  betim drenicas blog
-  url: https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/
-  domain: betimdrenica.wordpress.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/betimdrenica-wordpress-com20150309ideal-rest-api-design.png
 - curated_id: gbfpHt0Jwf3HoWH356OoyJK6TNHO1236bulVYUI1X7fpmZ2tLVGLDEs18CyjQKjzjEixOmf9Y70V511681IKrUDOgg117117
   item_date: "2015-03-09 00:00:00"
   title: Targeting Some APIs In My Stack For House Cleaning And Maybe Some Design
@@ -994,6 +988,12 @@
   url: http://apievangelist.com/2015/03/10/targeting-some-apis-in-my-stack-for-house-cleaning-and-maybe-some-design-iterations/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150310targeting-some-apis-in-my-stack-for-house-cleaning-and-maybe-some-design-iterations.png
+- curated_id: P123Lr1g8NW7vIDkK8Uck2FMoLTvFqh1k7xXuaxSUhUnQuXhYWVETqA7Zky3Sj0TRxxsaddroCKTvzazOQjFSq6g117117
+  item_date: "2015-03-09 00:00:00"
+  title: Ideal REST API design  betim drenicas blog
+  url: https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/
+  domain: betimdrenica.wordpress.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/betimdrenica-wordpress-com20150309ideal-rest-api-design.png
 - curated_id: KifJPHJjge116hzyNwyAPGw6RcPJ28rB1232hRPvkVRxsVRiP3aBPqPIi9rDLULK9BozVBsy0HhANdyhMtGjTvc03w117117
   item_date: "2015-03-10 00:00:00"
   title: Facebook Applies Versioning Strategy to Marketing API
@@ -1012,36 +1012,36 @@
   url: https://www.linkedin.com/pulse/10-usability-lessons-apis-frederik-willaert
   domain: www.linkedin.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-linkedin-compulse10-usability-lessons-apis-frederik-willaert.png
-- curated_id: Av2FJeSKCad0VEgYgGkjP7i4DjkK1Vi5fLsEnE116x4Jxibz2rfvd4ejMC116RixcyQzOqGAgHnZnxo1zKaUrKn4116Q117117
-  item_date: "2015-03-16 00:00:00"
-  title: Why Your APIs Need Design Help
-  url: http://www.digitalgov.gov/2015/03/16/why-your-apis-need-design-help/
-  domain: www.digitalgov.gov
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-digitalgov-gov20150316why-your-apis-need-design-help.png
 - curated_id: 8N0vORPBzAphlJwelOIm1vZ92lcGcSyizjQMWUYVuSJooR9KAelEcO6VfzvU2H7zYM0qOxbs916AceItWLCK116g117117
   item_date: "2015-03-16 00:00:00"
   title: Designing a Web API
   url: http://restlet.com/blog/2015/03/16/designing-a-web-api/
   domain: restlet.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/restlet-comblog20150316designing-a-web-api.png
+- curated_id: Av2FJeSKCad0VEgYgGkjP7i4DjkK1Vi5fLsEnE116x4Jxibz2rfvd4ejMC116RixcyQzOqGAgHnZnxo1zKaUrKn4116Q117117
+  item_date: "2015-03-16 00:00:00"
+  title: Why Your APIs Need Design Help
+  url: http://www.digitalgov.gov/2015/03/16/why-your-apis-need-design-help/
+  domain: www.digitalgov.gov
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-digitalgov-gov20150316why-your-apis-need-design-help.png
 - curated_id: oaScIuYJH95jMntmiUXlBzUhwBWPWLLdx7MEZk1wjiF89dehNdvKoLmD6RcQA9rcHJz116MXkvWkA116TIhjufe5fA117117
   item_date: "2015-03-17 00:00:00"
   title: 20 API Design Tips to Stop Annoying Developers
   url: http://jergames.blogspot.com/2015/03/20-api-design-tips-to-stop-annoying.html
   domain: jergames.blogspot.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/jergames-blogspot-com20150320-api-design-tips-to-stop-annoying-html.png
-- curated_id: ZtWvBV116njuOGonZkEKF2123WS6XJ116LwEejVuG123T5dzTIKGdI6Vshli3F9BnKLX1IiL5l123onu1EqAtQGpegJLZwVQ117117
-  item_date: "2015-03-18 00:00:00"
-  title: The API Field of Dreams Build It Correctly and They Will Come
-  url: http://www.developer.com/design/the-api-field-of-dreams-build-it-correctly-and-they-will-come.html
-  domain: www.developer.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-developer-comdesignthe-api-field-of-dreams-build-it-correctly-and-they-will-come-html.png
 - curated_id: d05d9cccb1cfd9b03f5bd3bbce44994f
   item_date: "2015-03-18 00:00:00"
   title: Building A Better Voice Mail Using Twilio
   url: http://nordicapis.com/building-a-better-voice-mail-using-twilio/
   domain: nordicapis.com
   image: ""
+- curated_id: ZtWvBV116njuOGonZkEKF2123WS6XJ116LwEejVuG123T5dzTIKGdI6Vshli3F9BnKLX1IiL5l123onu1EqAtQGpegJLZwVQ117117
+  item_date: "2015-03-18 00:00:00"
+  title: The API Field of Dreams Build It Correctly and They Will Come
+  url: http://www.developer.com/design/the-api-field-of-dreams-build-it-correctly-and-they-will-come.html
+  domain: www.developer.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-developer-comdesignthe-api-field-of-dreams-build-it-correctly-and-they-will-come-html.png
 - curated_id: MEH1ykAvmevhwN1ZfEBCBsoTueOTfd8OTMjf5UmgGYEdGl5Jk116KkTZUboNMdi71rWGPLc9XSyaypax8oN0rg116w117117
   item_date: "2015-03-20 00:00:00"
   title: I have my opinions on API design
@@ -1084,18 +1084,6 @@
   url: https://www.infoq.com/minibooks/emag-web-api
   domain: www.infoq.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comminibooksemag-web-api.png
-- curated_id: jDUonx123In6H7Y1169LPLlVkjcCb2BbcqHKmhFLzU05L69InkCZKIg0ru7o862116MCa6nxLzzIBE8Cvwzd123m2AgP9Q117117
-  item_date: "2015-04-02 00:00:00"
-  title: How to Decide How Many HTTP Status Codes Your API Needs
-  url: http://www.programmableweb.com/news/how-to-decide-how-many-http-status-codes-your-api-needs/elsewhere-web/2015/04/02
-  domain: www.programmableweb.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewshow-to-decide-how-many-http-status-codes-your-api-needselsewhere-web20150402.png
-- curated_id: a0e504cdd5222b8ab9aec63934d19345
-  item_date: "2015-04-02 00:00:00"
-  title: Interactive, shareable audio transcripts
-  url: http://popuparchive.tumblr.com/post/115332092929/interactive-shareable-audio-transcripts#_=_
-  domain: popuparchive.tumblr.com
-  image: ""
 - curated_id: 32deb10175ab3ca7d88158d6bc578527
   item_date: "2015-04-02 00:00:00"
   title: IBM Watson QA + Speech Recognition + Speech Synthesis = A Conversation With
@@ -1103,6 +1091,18 @@
   url: http://www.tricedesigns.com/2015/04/01/ibm-watson-qa-speech-recognition-speech-synthesis-a-conversation-with-your-computer/
   domain: www.tricedesigns.com
   image: ""
+- curated_id: a0e504cdd5222b8ab9aec63934d19345
+  item_date: "2015-04-02 00:00:00"
+  title: Interactive, shareable audio transcripts
+  url: http://popuparchive.tumblr.com/post/115332092929/interactive-shareable-audio-transcripts#_=_
+  domain: popuparchive.tumblr.com
+  image: ""
+- curated_id: jDUonx123In6H7Y1169LPLlVkjcCb2BbcqHKmhFLzU05L69InkCZKIg0ru7o862116MCa6nxLzzIBE8Cvwzd123m2AgP9Q117117
+  item_date: "2015-04-02 00:00:00"
+  title: How to Decide How Many HTTP Status Codes Your API Needs
+  url: http://www.programmableweb.com/news/how-to-decide-how-many-http-status-codes-your-api-needs/elsewhere-web/2015/04/02
+  domain: www.programmableweb.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewshow-to-decide-how-many-http-status-codes-your-api-needselsewhere-web20150402.png
 - curated_id: Dr1hw1rslo116khwnZp8ji0ekdQPZcY6Qs2123g116CiXMgmYiNklGzt116H5Dus9foB1238MckwR5FH6ihgJM31oqT123IlrQ117117
   item_date: "2015-04-06 00:00:00"
   title: JSON API Spec Goes Through The Hacker News Gauntlet
@@ -1115,18 +1115,18 @@
   url: http://www.programmableweb.com/news/rest-world-there%E2%80%99s-room-non-rest-apis/analysis/2015/04/07
   domain: www.programmableweb.com
   image: ""
-- curated_id: 0d1751f64da9815ad3ba2c6e8b214b01
-  item_date: "2015-04-08 00:00:00"
-  title: Amazon Echo can now turn appliances on and off thanks to WeMo and Hue integrations
-  url: http://thenextweb.com/gadgets/2015/04/08/when-is-my-echo-coming/
-  domain: thenextweb.com
-  image: ""
 - curated_id: ffORnFfOSjvjHO3YlmIaSkjP9LxwljppL0kwnMO70SvUO116QOhlbW6LzcJF2bcdwTjSF0Av1239qBIasNoGu3C59g117117
   item_date: "2015-04-08 00:00:00"
   title: Building Reusable REST API Services Part 3 of 4
   url: http://blog.dreamfactory.com/building-reusable-rest-api-services-part-3-of-4
   domain: blog.dreamfactory.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-dreamfactory-combuilding-reusable-rest-api-services-part-3-of-4.png
+- curated_id: 0d1751f64da9815ad3ba2c6e8b214b01
+  item_date: "2015-04-08 00:00:00"
+  title: Amazon Echo can now turn appliances on and off thanks to WeMo and Hue integrations
+  url: http://thenextweb.com/gadgets/2015/04/08/when-is-my-echo-coming/
+  domain: thenextweb.com
+  image: ""
 - curated_id: 7ebb0bcab92db48befc0171032dfcf2d
   item_date: "2015-04-09 00:00:00"
   title: Amazon?s Echo speaker is now also a smart home hub
@@ -1206,17 +1206,17 @@
   url: https://blog.apiary.io/2015/05/03/The-Role-of-the-API-Designer
   domain: blog.apiary.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-apiary-io20150503the-role-of-the-api-designer.png
-- curated_id: 45605247bdd401a250917f2a89e087b7
-  item_date: "2015-05-05 00:00:00"
-  title: 'Powershell : How to Listen to your Outlook Emails like a Voicemail'
-  url: https://geekeefy.wordpress.com/2015/05/06/powershell-how-to-listen-to-your-outlook-emails-like-a-voicemail/
-  domain: geekeefy.wordpress.com
-  image: ""
 - curated_id: 75cffa523be074b626841bfa3f823ffe
   item_date: "2015-05-05 00:00:00"
   title: The NSAs Voice-to-Text Capabilities
   url: https://www.schneier.com/blog/archives/2015/05/the_nsas_voice-.html
   domain: www.schneier.com
+  image: ""
+- curated_id: 45605247bdd401a250917f2a89e087b7
+  item_date: "2015-05-05 00:00:00"
+  title: 'Powershell : How to Listen to your Outlook Emails like a Voicemail'
+  url: https://geekeefy.wordpress.com/2015/05/06/powershell-how-to-listen-to-your-outlook-emails-like-a-voicemail/
+  domain: geekeefy.wordpress.com
   image: ""
 - curated_id: EURjanCKhp116CEZdmkuLDPpH7BFGQc116123fWLXL2G32W116123YDRAn5zD123SM7tjyeG17VmqKAbCC90xxk74CEtOWoyLA117117
   item_date: "2015-05-05 09:42:05"
@@ -1255,12 +1255,6 @@
   url: http://restlet.com/blog/2015/05/20/restlet-and-smartbear-partner-to-deliver-restlet-studio-plugin-for-ready-api/
   domain: restlet.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/restlet-comblog20150520restlet-and-smartbear-partner-to-deliver-restlet-studio-plugin-for-ready-api.png
-- curated_id: 0RlbclclakYqrpBkU1116CCDN6IbxoulxNCGvTLxNE8P1qJSRIwHMIPiIH0diua4OP116MJnWyKkQf6zf0116jZiWhYw117117
-  item_date: "2015-05-21 00:00:00"
-  title: Apigee API Studio Designing Testing and Sharing APIs
-  url: http://www.infoq.com/news/2015/05/apigee-api-studio
-  domain: www.infoq.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comnews201505apigee-api-studio.png
 - curated_id: aSdL9MjYhohCUm22j7gioM123xw9NVf5j952Lu80Elw32J8wGj8ePV24T2zSEQAvUYliq1qZuYPHNl9CPl8nbNjQ117117
   item_date: "2015-05-21 00:00:00"
   title: Apigee adds some Swagger to API design
@@ -1273,6 +1267,18 @@
   url: http://nordicapis.com/7-api-design-lessons-world-tour-roundup/
   domain: nordicapis.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-com7-api-design-lessons-world-tour-roundup.png
+- curated_id: 0RlbclclakYqrpBkU1116CCDN6IbxoulxNCGvTLxNE8P1qJSRIwHMIPiIH0diua4OP116MJnWyKkQf6zf0116jZiWhYw117117
+  item_date: "2015-05-21 00:00:00"
+  title: Apigee API Studio Designing Testing and Sharing APIs
+  url: http://www.infoq.com/news/2015/05/apigee-api-studio
+  domain: www.infoq.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comnews201505apigee-api-studio.png
+- curated_id: E9EtiV1169XNQe1kCC82mNbfy9COKD123Hg4UYKSOPgAE9guxhW7riNevMV0j123O796ixpYtcqn9YorIQIqEpe116h8FQ117117
+  item_date: "2015-05-26 00:00:00"
+  title: RESTful API Design Part III Error Handling
+  url: http://blog.cloud-elements.com/error-handling-restful-api-design-part-iii
+  domain: blog.cloud-elements.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/cloud-elements-comrestful-api-design-part-iii-error-handling.png
 - curated_id: e914a7a44ece4a10b699f024d9720ab4
   item_date: "2015-05-26 00:00:00"
   title: IBM Watson announces breakthrough in Conversational Speech Transcription
@@ -1285,12 +1291,6 @@
   url: http://www.infoq.com/articles/doodles-to-delivery
   domain: www.infoq.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comarticlesdoodles-to-delivery.png
-- curated_id: E9EtiV1169XNQe1kCC82mNbfy9COKD123Hg4UYKSOPgAE9guxhW7riNevMV0j123O796ixpYtcqn9YorIQIqEpe116h8FQ117117
-  item_date: "2015-05-26 00:00:00"
-  title: RESTful API Design Part III Error Handling
-  url: http://blog.cloud-elements.com/error-handling-restful-api-design-part-iii
-  domain: blog.cloud-elements.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/cloud-elements-comrestful-api-design-part-iii-error-handling.png
 - curated_id: yys0JrQG4GKZQYqRVGPCE7FBtxQeMrffOGJs2xUHIKaUcHOxHdb3Fhv1123oOB14PLPIUEwG7y82ETldawQ5uYKQ117117
   item_date: "2015-05-30 00:00:00"
   title: How to build APIs efficiently
@@ -1315,6 +1315,12 @@
   url: http://cloud-elements.com/integrations-hard-part-ii-api-resources-search-pagination/
   domain: cloud-elements.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/cloud-elements-comintegrations-hard-part-ii-api-resources-search-pagination.png
+- curated_id: e8af978fef945bf48959b1403cdd58ca
+  item_date: "2015-06-04 00:00:00"
+  title: Apple Tees Up Siri APIs in an Effort to Take On Google Now
+  url: http://www.programmableweb.com/news/apple-tees-siri-apis-effort-to-take-google-now/elsewhere-web/2015/06/04
+  domain: www.programmableweb.com
+  image: ""
 - curated_id: GJRNrJdsAI4jxd5D41xo123No27xfvP4X09DnCXz4pPSuat2Js116JfYQnCW0xlMVClXmvy27wXpMeX0mw34VWPOGQ117117
   item_date: "2015-06-04 00:00:00"
   title: Top 5 Development Tips for a Killer API
@@ -1327,12 +1333,6 @@
   url: http://www.programmableweb.com/news/why-not-to-overlook-api-planning-and-what-to-do-about-it/analysis/2015/06/04
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewswhy-not-to-overlook-api-planning-and-what-to-do-about-itanalysis20150604.png
-- curated_id: e8af978fef945bf48959b1403cdd58ca
-  item_date: "2015-06-04 00:00:00"
-  title: Apple Tees Up Siri APIs in an Effort to Take On Google Now
-  url: http://www.programmableweb.com/news/apple-tees-siri-apis-effort-to-take-google-now/elsewhere-web/2015/06/04
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: 05KJQ1WD9epxSr7O58AbBgBU62JBjCls8116PIAtr2BSV5cMxSq123og116V75fmYty3XXo1Dkjvgqb648116W123I4dIs9Q117117
   item_date: "2015-06-04 11:42:10"
   title: Visions Of My Perfect API Design Editor Using Electron
@@ -1346,18 +1346,18 @@
   url: http://www.androidpolice.com/2015/06/05/googles-voice-interaction-api-will-give-apps-a-better-handle-on-voice-initiated-requests/
   domain: www.androidpolice.com
   image: ""
-- curated_id: 626f0d275f31b2258b077d12ba23ac84
-  item_date: "2015-06-09 00:00:00"
-  title: 'Google Introduces Voice Interaction API to Initiate App Tasks '
-  url: http://www.programmableweb.com/news/google-introduces-voice-interaction-api-to-initiate-app-tasks/2015/06/09
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: 5azTlTxEddG1NdM67O4hf4bWMlI4p1LT7TIFCd5fx1o3wocGE91234qlXj116jvCL9xrNVtm7sHJ116L2apzcs9MqEsg117117
   item_date: "2015-06-09 00:00:00"
   title: Decoupling the Mind of the API Designer
   url: http://blog.apiary.io/2015/06/09/Decoupling-the-Mind-of-the-API-Designer/
   domain: blog.apiary.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-apiary-io20150609decoupling-the-mind-of-the-api-designer.png
+- curated_id: 626f0d275f31b2258b077d12ba23ac84
+  item_date: "2015-06-09 00:00:00"
+  title: 'Google Introduces Voice Interaction API to Initiate App Tasks '
+  url: http://www.programmableweb.com/news/google-introduces-voice-interaction-api-to-initiate-app-tasks/2015/06/09
+  domain: www.programmableweb.com
+  image: ""
 - curated_id: LX8fmCL5aAABapgd8qwQyeJdgYwRJA1230M831161n116edLZevYP1nP90Z123hdXngTaTLzkFPQRVY5QWm3K8p116hKt32A117117
   item_date: "2015-06-10 00:00:00"
   title: New JSON API Specification Aims to Speed API Development
@@ -1388,18 +1388,18 @@
   url: https://blog.apiary.io/2015/06/09/Decoupling-the-Mind-of-the-API-Designer
   domain: blog.apiary.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-apiary-io20150609decoupling-the-mind-of-the-api-designer.png
-- curated_id: DshiUEey7ptsMLb3DCi4123rDx6zzGLUYurwHIHcuu123pt7dgmnRahFexknkT116kcIhV1jSsa80awQS84qJssk116123RA117117
-  item_date: "2015-06-19 00:00:00"
-  title: Lessons learnt from shipping APIs for Microsofts cloud platform
-  url: http://sriramk.com/cloud-api-lessons.html
-  domain: sriramk.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/sriramk-comcloud-api-lessons-html.png
 - curated_id: 7363619f44c91e8740e1a194a50ee3eb
   item_date: "2015-06-19 00:00:00"
   title: We unboxed the Amazon Echo - its like Siri for your house
   url: http://www.businessinsider.com/unboxed-voice-command-amazon-echo-home-2015-6
   domain: www.businessinsider.com
   image: ""
+- curated_id: DshiUEey7ptsMLb3DCi4123rDx6zzGLUYurwHIHcuu123pt7dgmnRahFexknkT116kcIhV1jSsa80awQS84qJssk116123RA117117
+  item_date: "2015-06-19 00:00:00"
+  title: Lessons learnt from shipping APIs for Microsofts cloud platform
+  url: http://sriramk.com/cloud-api-lessons.html
+  domain: sriramk.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/sriramk-comcloud-api-lessons-html.png
 - curated_id: e1de96c5048d4a00e021b5dc1aec3359
   item_date: "2015-06-22 10:32:36"
   title: 'Adding Insight To Communications, api.ai Integrates With Twilio To Create
@@ -1420,41 +1420,17 @@
   url: http://apievangelist.com/2015/06/23/breaking-down-publication-references-with-the-global-change-information-system-api/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150623breaking-down-publication-references-with-the-global-change-information-system-api.png
-- curated_id: 1d294ad7582b031fd30571e3bb835fd4
-  item_date: "2015-06-24 00:00:00"
-  title: 'Gadgetwise: Amazon Echo, a.k.a. Alexa, Is a Personal Aide in Need of Schooling'
-  url: http://www.nytimes.com/2015/06/25/technology/personaltech/amazon-echo-aka-alexa-is-a-personal-aide-in-need-of-schooling.html
-  domain: www.nytimes.com
-  image: ""
 - curated_id: 2ae66385af0c72cd1f6a430e917b4178
   item_date: "2015-06-24 00:00:00"
   title: Advanced transcription and analytics with Voicebase and Tropo
   url: https://www.tropo.com/2015/06/advanced-transcription-analytics-voicebase-tropo/
   domain: www.tropo.com
   image: ""
-- curated_id: 56359217f9a358153df1f545b3f5b3a2
-  item_date: "2015-06-25 00:00:00"
-  title: New ? Alexa Skills Kit, Alexa Voice Service, Alexa Fund
-  url: https://aws.amazon.com/blogs/aws/new-alexa-skills-kit-alexa-voice-service-alexa-fund/
-  domain: aws.amazon.com
-  image: ""
-- curated_id: b8ef3d2d41d513297bde9a42110b9ba8
-  item_date: "2015-06-25 00:00:00"
-  title: Announcing the Alexa Voice Service (AVS)
-  url: https://developer.amazon.com/appsandservices/community/post/Tx1IWOJG191LB8X/Announcing-the-Alexa-Voice-Service-AVS
-  domain: developer.amazon.com
-  image: ""
-- curated_id: 68fbb122c87b64607f8c7709e61a58c9
-  item_date: "2015-06-25 00:00:00"
-  title: ?Amazon throws in $100 million, developer tools to open Echos Alexa ecosystem
-  url: http://www.zdnet.com/article/amazon-throws-100-million-developer-tools-to-open-echos-alexa-ecosystem/#ftag=RSSbaffb68
-  domain: www.zdnet.com
-  image: ""
-- curated_id: 3fa178de5c4e64bbfcfcf54cf0f12f24
-  item_date: "2015-06-25 00:00:00"
-  title: Build New Voice Experiences with Help from the Alexa Fund
-  url: https://developer.amazon.com/appsandservices/community/post/Tx28SME1SP9H8I4/Build-New-Voice-Experiences-with-Help-from-the-Alexa-Fund
-  domain: developer.amazon.com
+- curated_id: 1d294ad7582b031fd30571e3bb835fd4
+  item_date: "2015-06-24 00:00:00"
+  title: 'Gadgetwise: Amazon Echo, a.k.a. Alexa, Is a Personal Aide in Need of Schooling'
+  url: http://www.nytimes.com/2015/06/25/technology/personaltech/amazon-echo-aka-alexa-is-a-personal-aide-in-need-of-schooling.html
+  domain: www.nytimes.com
   image: ""
 - curated_id: e8c92b350ac053bd9a15c5bdd5edc9d5
   item_date: "2015-06-25 00:00:00"
@@ -1468,6 +1444,30 @@
   title: Wells Fargo to Roll Out Voice and Facial Recognition in 2016
   url: http://www.speechtechmag.com/Articles/News/Speech-Technology-Digest/Wells-Fargo-to-Roll-Out-Voice-and-Facial-Recognition-in-2016-104919.aspx
   domain: www.speechtechmag.com
+  image: ""
+- curated_id: 3fa178de5c4e64bbfcfcf54cf0f12f24
+  item_date: "2015-06-25 00:00:00"
+  title: Build New Voice Experiences with Help from the Alexa Fund
+  url: https://developer.amazon.com/appsandservices/community/post/Tx28SME1SP9H8I4/Build-New-Voice-Experiences-with-Help-from-the-Alexa-Fund
+  domain: developer.amazon.com
+  image: ""
+- curated_id: 68fbb122c87b64607f8c7709e61a58c9
+  item_date: "2015-06-25 00:00:00"
+  title: ?Amazon throws in $100 million, developer tools to open Echos Alexa ecosystem
+  url: http://www.zdnet.com/article/amazon-throws-100-million-developer-tools-to-open-echos-alexa-ecosystem/#ftag=RSSbaffb68
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 56359217f9a358153df1f545b3f5b3a2
+  item_date: "2015-06-25 00:00:00"
+  title: New ? Alexa Skills Kit, Alexa Voice Service, Alexa Fund
+  url: https://aws.amazon.com/blogs/aws/new-alexa-skills-kit-alexa-voice-service-alexa-fund/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: b8ef3d2d41d513297bde9a42110b9ba8
+  item_date: "2015-06-25 00:00:00"
+  title: Announcing the Alexa Voice Service (AVS)
+  url: https://developer.amazon.com/appsandservices/community/post/Tx1IWOJG191LB8X/Announcing-the-Alexa-Voice-Service-AVS
+  domain: developer.amazon.com
   image: ""
 - curated_id: 50671f171cf98c2fefb6c311cac958b7
   item_date: "2015-06-25 09:35:20"
@@ -1487,18 +1487,18 @@
   url: http://apievangelist.com/2015/06/30/the-api-design-tooling-i-have-included-in-my-research/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150630the-api-design-tooling-i-have-included-in-my-research.png
-- curated_id: GtToYCl83GqPeDTeu9CxlochQL5ZdZhjuN7n1noEnUcLl1Vg123ZZEaT7116k95123116UgOpQrjRmDKwDp8z123noC5XnYQ117117
-  item_date: "2015-06-30 00:00:00"
-  title: API Design Considerations for The Internet of Things
-  url: http://www.programmableweb.com/news/api-design-considerations-internet-things/analysis/2015/06/30
-  domain: www.programmableweb.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsapi-design-considerations-internet-thingsanalysis20150630.png
 - curated_id: WedC123gJbVRxcVR5FuD8q7123Yk116o9116116HS12xXrrtIyDZxZuZsaa58VJDuaUcXXCBRx1SFIuz2123QzLeZoiTp116Ie2g117117
   item_date: "2015-06-30 00:00:00"
   title: Why Its OK To Design Imperfect APIs
   url: http://www.programmableweb.com/news/why-it%E2%80%99s-ok-to-design-imperfect-apis/analysis/2015/06/30
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewswhy-it%e2%80%99s-ok-to-design-imperfect-apisanalysis20150630.png
+- curated_id: GtToYCl83GqPeDTeu9CxlochQL5ZdZhjuN7n1noEnUcLl1Vg123ZZEaT7116k95123116UgOpQrjRmDKwDp8z123noC5XnYQ117117
+  item_date: "2015-06-30 00:00:00"
+  title: API Design Considerations for The Internet of Things
+  url: http://www.programmableweb.com/news/api-design-considerations-internet-things/analysis/2015/06/30
+  domain: www.programmableweb.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsapi-design-considerations-internet-thingsanalysis20150630.png
 - curated_id: n7z123M6y116buVRfY8Wr4kz5OdnR123wqB2116t38ShIcn4123vI0XQysXA0yDLl17WibuFfmRMhAvqCtCoEPjA0aw7cjDA117117
   item_date: "2015-06-30 00:43:09"
   title: Tightening Up The Organizations That Are Included In My API Design Research
@@ -1560,6 +1560,12 @@
   url: http://venturebeat.com/2015/08/18/api-development-startup-apiary-raises-6-8m-and-launches-a-testing-service/
   domain: venturebeat.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/venturebeat-com20150818api-development-startup-apiary-raises-6-8m-and-launches-a-testing-service.png
+- curated_id: ScIgWaCVQBTKOdWjtIEo7saAylMdYlAAmEQwTEtbWoTgtdctLeqRVdzFwdahswjD3XJbFeYPUAm73c3Loijk5g117117
+  item_date: "2015-08-21 00:00:00"
+  title: Resources Not Data
+  url: http://www.windley.com//archives/2015/08/resources_not_data.shtml
+  domain: www.windley.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-windley-comarchives201508resources_not_data-shtml.png
 - curated_id: f5abe9af6b91efed786b0c72add1cf05
   item_date: "2015-08-21 00:00:00"
   title: Amazon rebrands the Echo app as Alexa (not to be confused with its Alexa
@@ -1573,12 +1579,6 @@
   url: https://developer.amazon.com/appsandservices/community/post/Tx23PZD8E8GWHAY/Introducing-the-New-Alexa-Lighting-API
   domain: developer.amazon.com
   image: ""
-- curated_id: ScIgWaCVQBTKOdWjtIEo7saAylMdYlAAmEQwTEtbWoTgtdctLeqRVdzFwdahswjD3XJbFeYPUAm73c3Loijk5g117117
-  item_date: "2015-08-21 00:00:00"
-  title: Resources Not Data
-  url: http://www.windley.com//archives/2015/08/resources_not_data.shtml
-  domain: www.windley.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-windley-comarchives201508resources_not_data-shtml.png
 - curated_id: PKOaXLD6RxrKfE36ft0H7lPHTmwKDQKDId2nBXkCs7a3lSTij5XeT0AZauCIKFGQsMDA6l8OCaX9L29V219xpA117117
   item_date: "2015-08-25 00:00:00"
   title: DTO engages with developers for API design mandate
@@ -1623,18 +1623,18 @@
   url: http://www.slideshare.net/AEMHub2014/rest-in-aem-by-roy-fielding
   domain: www.slideshare.net
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-slideshare-netaemhub2014rest-in-aem-by-roy-fielding.png
-- curated_id: CnLjMfKaXSPg2ohD6mjuZfGt8NQQPZ0cC3cdPpVeseooWawQK71QVpT0116KhdUhNMfd8PaD8NpeNQStNpxivGXA117117
-  item_date: "2015-09-13 00:00:00"
-  title: Architectural Styles for APIs SOAP REST and RPC
-  url: http://api-university.com/blog/styles-for-apis-soap-rest-and-rpc/
-  domain: api-university.com
-  image: ""
 - curated_id: AOKBxVnTNmpbS116dT7zC0116YY7ZWkobOEzHUoEAgrupOZlxW4oi4bCPHIjJ1123ouEggVcbR5mvS1Hp123DdMHThJrlw117117
   item_date: "2015-09-13 00:00:00"
   title: There Is A Big Opportunity Right Now When It Comes To API Design Tooling
   url: http://apievangelist.com/2015/09/14/there-is-a-big-opportunity-right-now-when-it-comes-to-api-design-tooling
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150914there-is-a-big-opportunity-right-now-when-it-comes-to-api-design-tooling.png
+- curated_id: CnLjMfKaXSPg2ohD6mjuZfGt8NQQPZ0cC3cdPpVeseooWawQK71QVpT0116KhdUhNMfd8PaD8NpeNQStNpxivGXA117117
+  item_date: "2015-09-13 00:00:00"
+  title: Architectural Styles for APIs SOAP REST and RPC
+  url: http://api-university.com/blog/styles-for-apis-soap-rest-and-rpc/
+  domain: api-university.com
+  image: ""
 - curated_id: e018c68e2e3a1c310af2b246674795b0
   item_date: "2015-10-21 00:00:00"
   title: Taking Voice Technology Beyond Commands
@@ -1740,17 +1740,17 @@
   url: http://www.freshblurbs.com/blog/2015/12/12/http-cache-restful-apis.html
   domain: www.freshblurbs.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-freshblurbs-comblog20151212http-cache-restful-apis-html.png
-- curated_id: sT8SgcfaPFes40BWqWGTgI5hTgbQWOqN41168u79xOOiemehKFFt7l2WpRlzZrigy1FOs8iIwJMWtE8uMXe2MSpA117117
-  item_date: "2016-01-05 00:00:00"
-  title: Web API  A Solid Approach
-  url: http://www.codeproject.com/Articles/1066348/Web-API-A-Solid-Approach
-  domain: www.codeproject.com
-  image: ""
 - curated_id: f56fcb5618f38e8fb2dc298a7dfdadfd
   item_date: "2016-01-05 00:00:00"
   title: Control your Ford car from your armchair with Amazon Alexa and Echo integration
   url: http://thenextweb.com/apps/2016/01/05/control-your-ford-car-from-your-armchair-with-amazon-alexa-and-echo-integration/
   domain: thenextweb.com
+  image: ""
+- curated_id: sT8SgcfaPFes40BWqWGTgI5hTgbQWOqN41168u79xOOiemehKFFt7l2WpRlzZrigy1FOs8iIwJMWtE8uMXe2MSpA117117
+  item_date: "2016-01-05 00:00:00"
+  title: Web API  A Solid Approach
+  url: http://www.codeproject.com/Articles/1066348/Web-API-A-Solid-Approach
+  domain: www.codeproject.com
   image: ""
 - curated_id: SM2iIDY4yrpVX4DnaMgRYLbkP123dWYug6hb62jyV123QfKzaowNSwfHEjbIdAShReidfDfvf1KlSahvqFeAt9nVIw117117
   item_date: "2016-01-07 00:00:00"
@@ -1806,17 +1806,17 @@
   url: http://www.programmableweb.com/news/apiary.io-now-features-swagger-support/brief/2016/01/19
   domain: www.programmableweb.com
   image: ""
-- curated_id: LdEjivBOKDGP6fyrgDbtpSMKX5Vn3iKzWMVYX1168UW116aP06giaaYrQkG4X3lCnrHHQ0hDqouYNCsI8rPdWRfDYA117117
-  item_date: "2016-01-21 00:00:00"
-  title: Paging in ASPNET Web API
-  url: http://www.codeproject.com/Articles/1073488/Paging-in-ASP-NET-Web-API
-  domain: www.codeproject.com
-  image: ""
 - curated_id: d2f1fb40808ed9c0cdf2f968780dfb35
   item_date: "2016-01-21 00:00:00"
   title: Announcing Stringify Now Works With Amazon Alexa
   url: https://www.stringify.com/product-announcements/stringify-now-works-with-amazon-alexa/
   domain: www.stringify.com
+  image: ""
+- curated_id: LdEjivBOKDGP6fyrgDbtpSMKX5Vn3iKzWMVYX1168UW116aP06giaaYrQkG4X3lCnrHHQ0hDqouYNCsI8rPdWRfDYA117117
+  item_date: "2016-01-21 00:00:00"
+  title: Paging in ASPNET Web API
+  url: http://www.codeproject.com/Articles/1073488/Paging-in-ASP-NET-Web-API
+  domain: www.codeproject.com
   image: ""
 - curated_id: 56a180ab57b9ec8041555ad13119c2bf
   item_date: "2016-01-22 00:00:00"
@@ -1902,12 +1902,6 @@
   url: https://sendgrid.com/blog/using-a-prototype-as-an-api-product-specification/
   domain: sendgrid.com
   image: ""
-- curated_id: osVw1gFKugfHVMaC8zTw9Ya116ho123n4ic3FC9sFeUK28BZSaypdwnbmhRMt7z99GtHDv116s1yWNL3KPT123xvadlZJg117117
-  item_date: "2016-02-17 00:00:00"
-  title: Why Github039s Scientist 10 Could Be Great for API Versioning
-  url: http://www.programmableweb.com/news/why-githubs-scientist-1.0-could-be-great-api-versioning/analysis/2016/02/17
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: hiLirbaQ4NlZkTXhYQhipgDJg116pqSEQzbf123DYPMRUGrD5123TZb1anvAoXlJwgsuZWHDY6p116JkDa4kZMBDtNFSrg117117
   item_date: "2016-02-17 00:00:00"
   title: Resolving the FrontendBackend API Design Conflict
@@ -1919,6 +1913,12 @@
   title: Dear API Designer Are You Sure You Want to Return a Primitive
   url: https://dzone.com/articles/dear-api-designer-are-you-sure-you-want-to-return
   domain: dzone.com
+  image: ""
+- curated_id: osVw1gFKugfHVMaC8zTw9Ya116ho123n4ic3FC9sFeUK28BZSaypdwnbmhRMt7z99GtHDv116s1yWNL3KPT123xvadlZJg117117
+  item_date: "2016-02-17 00:00:00"
+  title: Why Github039s Scientist 10 Could Be Great for API Versioning
+  url: http://www.programmableweb.com/news/why-githubs-scientist-1.0-could-be-great-api-versioning/analysis/2016/02/17
+  domain: www.programmableweb.com
   image: ""
 - curated_id: 0OSxMK09116K3SCioB0NMqBXstRka123czJIG7eBex00tkXiUfx6kcramPTB123NSNIJ7ZN39UjsZxfHX6jFgUyA123b123A117117
   item_date: "2016-02-17 10:52:18"
@@ -1957,12 +1957,6 @@
   url: http://blog.alchemyapi.com/hi-watson-building-apps-you-can-talk-to
   domain: blog.alchemyapi.com
   image: ""
-- curated_id: N1sbeXgH8CXvyirRvsjhTYY04miiSpZJOQZA116QAid123nkBy0nE1238pdj3WZtlCDEYMyMGUrqo57JkYEv7GSjNE5w117117
-  item_date: "2016-03-01 00:00:00"
-  title: StopLight Launches Visual API Design Tools
-  url: http://www.infoq.com/news/2016/03/spotlight-api-designer
-  domain: www.infoq.com
-  image: ""
 - curated_id: ee80242dc1fe39beb004b0ea0309d2bb
   item_date: "2016-03-01 00:00:00"
   title: 'Developing Alexa Skills Locally with Node.js: Setting Up Your Local Environment'
@@ -1974,6 +1968,12 @@
   title: ""
   url: http://www.codeproject.com/Articles/1082105/Visual-Modeling-Made-Easy-with-the-RASON-API-and-D
   domain: www.codeproject.com
+  image: ""
+- curated_id: N1sbeXgH8CXvyirRvsjhTYY04miiSpZJOQZA116QAid123nkBy0nE1238pdj3WZtlCDEYMyMGUrqo57JkYEv7GSjNE5w117117
+  item_date: "2016-03-01 00:00:00"
+  title: StopLight Launches Visual API Design Tools
+  url: http://www.infoq.com/news/2016/03/spotlight-api-designer
+  domain: www.infoq.com
   image: ""
 - curated_id: 89997f59be8b4f7330e02b81289b2bc5
   item_date: "2016-03-03 00:00:00"
@@ -2011,19 +2011,19 @@
   url: http://blog.atooma.com/post/140795240057/the-voice-of-iot#_=_
   domain: blog.atooma.com
   image: ""
-- curated_id: 0f276d7fbe6fee292d7c568f5b2ae67c
-  item_date: "2016-03-11 00:00:00"
-  title: Amazon Alexa?s new feature could be the best or worst thing for your bank
-    account
-  url: http://thenextweb.com/gadgets/2016/03/12/amazon-alexas-new-feature-could-be-the-best-or-worst-thing-for-your-bank-account/
-  domain: thenextweb.com
-  image: ""
 - curated_id: e88364cf41ee772cdfb4b96b947ab4ad
   item_date: "2016-03-11 00:00:00"
   title: Amazon?s Alexa now lets Capital One customers manage finances using their
     voice
   url: http://venturebeat.com/2016/03/11/amazons-alexa-now-lets-capital-one-customers-pay-bills-and-access-available-balance-using-their-voice/
   domain: venturebeat.com
+  image: ""
+- curated_id: 0f276d7fbe6fee292d7c568f5b2ae67c
+  item_date: "2016-03-11 00:00:00"
+  title: Amazon Alexa?s new feature could be the best or worst thing for your bank
+    account
+  url: http://thenextweb.com/gadgets/2016/03/12/amazon-alexas-new-feature-could-be-the-best-or-worst-thing-for-your-bank-account/
+  domain: thenextweb.com
   image: ""
 - curated_id: SSBciHckHuHa1231O123S768oLlKzsxw9IwtoRFjohsTL3CTcm6ukutGuBmLUMnXCEOqFF19sfFeGHnAuzMAs2sn4Q117117
   item_date: "2016-03-13 00:00:00"
@@ -2100,17 +2100,17 @@
   url: https://developer.amazon.com/appsandservices/community/post/Tx1BIPOTYRL82PV/Big-Nerd-Ranch-Series-Developing-Alexa-Skills-Locally-with-Node-js-Implementing
   domain: developer.amazon.com
   image: ""
-- curated_id: 3baba03f1e20e271f23b3cdc1981c44f
-  item_date: "2016-03-24 00:00:00"
-  title: Google to Offer Speech-to-Text API
-  url: http://www.programmableweb.com/news/google-to-offer-speech-to-text-api/2016/03/24
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: d3f70ac8f2b6503fa941352fae49cb5a
   item_date: "2016-03-24 00:00:00"
   title: How Amazon?s Alexa is bringing intelligent assistance into the mainstream
   url: http://venturebeat.com/2016/03/24/how-amazons-alexa-is-bringing-intelligent-assistance-into-the-mainstream/
   domain: venturebeat.com
+  image: ""
+- curated_id: 3baba03f1e20e271f23b3cdc1981c44f
+  item_date: "2016-03-24 00:00:00"
+  title: Google to Offer Speech-to-Text API
+  url: http://www.programmableweb.com/news/google-to-offer-speech-to-text-api/2016/03/24
+  domain: www.programmableweb.com
   image: ""
 - curated_id: 3702781960fd505ca3c9724ad45fa694
   item_date: "2016-03-27 00:00:00"
@@ -2155,6 +2155,12 @@
   url: http://launchany.com/what-skills-do-your-apis-offer/
   domain: launchany.com
   image: ""
+- curated_id: 116Y123UnRp6IWaN2RykJAZ0dGP5ksI123FZlWkMg90rsRgEUzLbXM3iNRlO116jOctp3re123u0Vh58rkqJt5tQ4fyvGkgA117117
+  item_date: "2016-04-01 00:00:00"
+  title: Screencast Design a web API from scratch with Restlet Studio
+  url: http://restlet.com/blog/2016/04/01/screencast-design-a-web-api-from-scratch-with-restlet-studio/
+  domain: restlet.com
+  image: ""
 - curated_id: 7c43d7ab9a05f78e9329c212698b0e53
   item_date: "2016-04-01 00:00:00"
   title: 'Developing Alexa Skills Locally with Node.js: Deploying Your Skill to Staging'
@@ -2167,17 +2173,17 @@
   url: http://www.programmableweb.com/news/fortytwo-announces-launch-voice-api/announcement/2016/04/01
   domain: www.programmableweb.com
   image: ""
-- curated_id: 116Y123UnRp6IWaN2RykJAZ0dGP5ksI123FZlWkMg90rsRgEUzLbXM3iNRlO116jOctp3re123u0Vh58rkqJt5tQ4fyvGkgA117117
-  item_date: "2016-04-01 00:00:00"
-  title: Screencast Design a web API from scratch with Restlet Studio
-  url: http://restlet.com/blog/2016/04/01/screencast-design-a-web-api-from-scratch-with-restlet-studio/
-  domain: restlet.com
-  image: ""
 - curated_id: HDh4lvjowSvKnkBW0fVo5U720oeGT2h9Ao2ZRNJQAACVrJF8et123ykLpok0nqLyClkNm0nZ3jV42aCq59zQ41MA117117
   item_date: "2016-04-04 18:24:05"
   title: RFC 7807  Problem Details for HTTP APIs
   url: http://tools.ietf.org/html/rfc7807
   domain: tools.ietf.org
+  image: ""
+- curated_id: 8eb9526f7af2b611f85af26b17748d07
+  item_date: "2016-04-05 00:00:00"
+  title: Amazon opens up the software for Alexa-controlled smart homes
+  url: http://www.cnet.com/news/amazon-opens-up-the-software-for-alexa-controlled-smart-homes/
+  domain: www.cnet.com
   image: ""
 - curated_id: f1a87b8e9304cced5c9f60f8c25f453f
   item_date: "2016-04-05 00:00:00"
@@ -2185,11 +2191,11 @@
   url: https://developer.amazon.com/appsandservices/community/post/Tx1KIRDSNFDHEA4/Amazon-Enables-Developers-to-Extend-Alexa-s-Smart-Home-Capabilities-a-New-Additi
   domain: developer.amazon.com
   image: ""
-- curated_id: 8eb9526f7af2b611f85af26b17748d07
-  item_date: "2016-04-05 00:00:00"
-  title: Amazon opens up the software for Alexa-controlled smart homes
-  url: http://www.cnet.com/news/amazon-opens-up-the-software-for-alexa-controlled-smart-homes/
-  domain: www.cnet.com
+- curated_id: 22831b2134e78e96a895a9c295075726
+  item_date: "2016-04-06 00:00:00"
+  title: The Amazon Echo is magical. Its also turning my kid into an a--hole
+  url: http://www.businessinsider.com/hunter-walk-on-amazon-echo-and-please-2016-4
+  domain: www.businessinsider.com
   image: ""
 - curated_id: NVH9EtbozZdzueIvjnPrXzNWHa1237TV0rFZUE123nwvcmWE116BcQM2a123EJtyiyGnDoBUxcNL116c116XTuKO76IzhuStOw117117
   item_date: "2016-04-06 00:00:00"
@@ -2202,12 +2208,6 @@
   title: Publishing Your Skill Code to Lambda via the Command Line Interface
   url: https://developer.amazon.com/appsandservices/community/post/Tx1UE9W1NQ0GYII/Publishing-Your-Skill-Code-to-Lambda-via-the-Command-Line-Interface
   domain: developer.amazon.com
-  image: ""
-- curated_id: 22831b2134e78e96a895a9c295075726
-  item_date: "2016-04-06 00:00:00"
-  title: The Amazon Echo is magical. Its also turning my kid into an a--hole
-  url: http://www.businessinsider.com/hunter-walk-on-amazon-echo-and-please-2016-4
-  domain: www.businessinsider.com
   image: ""
 - curated_id: 755949a6651ffad31a012e662ce658d2
   item_date: "2016-04-07 00:00:00"
@@ -2245,17 +2245,23 @@
   url: http://www.programmableweb.com/news/how-to-improve-api-errors-defensive-design/elsewhere-web/2016/04/16
   domain: www.programmableweb.com
   image: ""
+- curated_id: OTFSv0KzM3UiAZ7ZxgrVcCWa123G9HN76BfvMPwv0zJ12gd123F1CRSOGyzufyURsg7zXyUg0ZFOTlclQMzaSrNNTA117117
+  item_date: "2016-04-21 00:00:00"
+  title: Worlds First API Design Hackathon
+  url: https://blog.apiary.io/2016/04/21/API-Design-Hackaton
+  domain: blog.apiary.io
+  image: ""
 - curated_id: doBhRMxX8Nd5116QLuQNVMPi4NVlgU4vklv1230IB6OFvvNyy1TwAo116ylefZZwsTtfCL7jAQaAxY4Afv532LmWDRzg117117
   item_date: "2016-04-21 00:00:00"
   title: Build Better Mobile Apps Data and API Best Practices
   url: http://www.builtinchicago.org/blog/build-better-mobile-apps-data-and-api-best-practices
   domain: www.builtinchicago.org
   image: ""
-- curated_id: OTFSv0KzM3UiAZ7ZxgrVcCWa123G9HN76BfvMPwv0zJ12gd123F1CRSOGyzufyURsg7zXyUg0ZFOTlclQMzaSrNNTA117117
-  item_date: "2016-04-21 00:00:00"
-  title: Worlds First API Design Hackathon
-  url: https://blog.apiary.io/2016/04/21/API-Design-Hackaton
-  domain: blog.apiary.io
+- curated_id: e06ccb01ccd10b90adf3969113f0e735
+  item_date: "2016-04-22 00:00:00"
+  title: Amazon Echo now adds events to Google calendar like a proper digital assistant
+  url: http://thenextweb.com/gadgets/2016/04/22/amazons-echo-google-calendar/
+  domain: thenextweb.com
   image: ""
 - curated_id: picbMlrYU35LX86cTL0H26Be123BhaEGEJEtVR6py5iF123v25RnWnZbOS123z7cQOCRV0ozrCtN2K2fVJhjmLYfp98A117117
   item_date: "2016-04-22 00:00:00"
@@ -2269,17 +2275,11 @@
   url: https://dzone.com/articles/api-names-and-begging-the-negatives
   domain: dzone.com
   image: ""
-- curated_id: e06ccb01ccd10b90adf3969113f0e735
-  item_date: "2016-04-22 00:00:00"
-  title: Amazon Echo now adds events to Google calendar like a proper digital assistant
-  url: http://thenextweb.com/gadgets/2016/04/22/amazons-echo-google-calendar/
-  domain: thenextweb.com
-  image: ""
-- curated_id: 9ee97978aa8dc472d4259ec223883fc9
+- curated_id: 96b10ac911cda94c3695a9ec51608bae
   item_date: "2016-04-23 00:00:00"
-  title: Retro Rotary Raspi Phone Rings Alexa
-  url: http://hackaday.com/2016/04/23/retro-rotary-raspi-phone-rings-alexa/
-  domain: hackaday.com
+  title: Amazons Alexa can now add events to Google Calendar
+  url: http://www.theverge.com/2016/4/23/11493778/google-calendar-add-events-using-amazon-alexa
+  domain: www.theverge.com
   image: ""
 - curated_id: n1239IRU1116nUVY5w17gdar4efuaY4Bs11662mwmOgO9SCZ10Fj123enMxyx0gH123qE9LcAfJkWFz63tYHVpqlz5NqtOZg117117
   item_date: "2016-04-23 00:00:00"
@@ -2287,11 +2287,11 @@
   url: https://dzone.com/articles/the-relationship-between-bdd-and-api-design
   domain: dzone.com
   image: ""
-- curated_id: 96b10ac911cda94c3695a9ec51608bae
+- curated_id: 9ee97978aa8dc472d4259ec223883fc9
   item_date: "2016-04-23 00:00:00"
-  title: Amazons Alexa can now add events to Google Calendar
-  url: http://www.theverge.com/2016/4/23/11493778/google-calendar-add-events-using-amazon-alexa
-  domain: www.theverge.com
+  title: Retro Rotary Raspi Phone Rings Alexa
+  url: http://hackaday.com/2016/04/23/retro-rotary-raspi-phone-rings-alexa/
+  domain: hackaday.com
   image: ""
 - curated_id: J123F073y4BGT9116FITflnWsjh4TcU10JUsuFZ123dv123w7G3T9JBeHMA5ziKi123PCBi7Clo4pSNdC3LPXK1y7U46qCOw117117
   item_date: "2016-04-25 00:00:00"
@@ -2305,17 +2305,17 @@
   url: http://thenextweb.com/us/2016/04/28/triby-rather-cute-new-alexa-controlled-speaker/
   domain: thenextweb.com
   image: ""
-- curated_id: f9227589995c835170fc01d059bd6082
-  item_date: "2016-04-29 00:00:00"
-  title: 'Amazon Echo Dot: Loud and Clear!'
-  url: https://dzone.com/articles/amazon-echo-dot-loud-amp-clear
-  domain: dzone.com
-  image: ""
 - curated_id: bgeAoVRkzyRCMODP0di0SyJkdddCEyZZKBpIX2uiCo116pWEf8kZlvNq4pV1DsGT4774P5WyRzhkQfyXEqtdhAZg117117
   item_date: "2016-04-29 00:00:00"
   title: Never Put Secrets in URLs and Query Parameters
   url: https://www.fullcontact.com/blog/never-put-secrets-urls-query-parameters/
   domain: www.fullcontact.com
+  image: ""
+- curated_id: f9227589995c835170fc01d059bd6082
+  item_date: "2016-04-29 00:00:00"
+  title: 'Amazon Echo Dot: Loud and Clear!'
+  url: https://dzone.com/articles/amazon-echo-dot-loud-amp-clear
+  domain: dzone.com
   image: ""
 - curated_id: MXdwQKnCy89eom8UQS2AfqVJrobTVllI75nAQgDhQNGcvLq5qZCxBKz7fgN1164Edos123C5AH9gQz116rbXFpI76tMQ117117
   item_date: "2016-05-02 12:10:55"
@@ -2348,18 +2348,18 @@
   url: http://thenextweb.com/apps/2016/05/05/move-alexa-creators-siri-working-ultimate-ai-voice-assistant/
   domain: thenextweb.com
   image: ""
-- curated_id: 2b6417a68e504cb3b8debf4136b50ab3
-  item_date: "2016-05-06 00:00:00"
-  title: Someone hacked a Tesla Model S so that it could be summoned using voice commands
-  url: http://www.businessinsider.com/amazon-echo-summon-tesla-model-s-hack-2016-5
-  domain: www.businessinsider.com
-  image: ""
 - curated_id: 140a57eeb6a945058c60bc341769e3c6
   item_date: "2016-05-06 00:00:00"
   title: RAIN Developer Builds an Alexa Skill to Play Rock, Paper, Scissors, Lizard,
     Spock
   url: https://developer.amazon.com/appsandservices/community/post/TxDBBRMNWF6YGM/RAIN-Developer-Builds-an-Alexa-Skill-to-Play-Rock-Paper-Scissors-Lizard-Spock
   domain: developer.amazon.com
+  image: ""
+- curated_id: 2b6417a68e504cb3b8debf4136b50ab3
+  item_date: "2016-05-06 00:00:00"
+  title: Someone hacked a Tesla Model S so that it could be summoned using voice commands
+  url: http://www.businessinsider.com/amazon-echo-summon-tesla-model-s-hack-2016-5
+  domain: www.businessinsider.com
   image: ""
 - curated_id: 7b503ab782c825b5e737b6d3a6808cba
   item_date: "2016-05-08 00:00:00"
@@ -2373,17 +2373,23 @@
   url: http://www.theverge.com/2016/5/10/11649136/amazon-echo-alexa-kayak-track-flights
   domain: www.theverge.com
   image: ""
+- curated_id: e42f2f6ab395318cce4ae44fe485a261
+  item_date: "2016-05-11 00:00:00"
+  title: Amazons Echo can now tell you where your Amazon packages are
+  url: http://www.theverge.com/circuitbreaker/2016/5/11/11658218/amazon-echo-now-tracks-deliveries
+  domain: www.theverge.com
+  image: ""
 - curated_id: f5039c577dd20da5f363ad8955cab20f
   item_date: "2016-05-11 00:00:00"
   title: Amazon?s Alexa voice assistant can finally track, you know, Amazon packages
   url: http://thenextweb.com/apps/2016/05/11/amazons-alexa-voice-assistant-can-finally-track-know-amazon-packages/
   domain: thenextweb.com
   image: ""
-- curated_id: e42f2f6ab395318cce4ae44fe485a261
-  item_date: "2016-05-11 00:00:00"
-  title: Amazons Echo can now tell you where your Amazon packages are
-  url: http://www.theverge.com/circuitbreaker/2016/5/11/11658218/amazon-echo-now-tracks-deliveries
-  domain: www.theverge.com
+- curated_id: dbcd153ad87f27d37e2598c82f14bfe3
+  item_date: "2016-05-17 00:00:00"
+  title: Amazon Fire TV gets Siri-like voice control, powered by Alexa
+  url: http://thenextweb.com/insider/2016/05/17/alexa-and-amazon-tv-are-a-potent-combo-that-just-got-even-better/
+  domain: thenextweb.com
   image: ""
 - curated_id: fe2ea2c604d3ca30386fd4739965ff2c
   item_date: "2016-05-17 00:00:00"
@@ -2396,12 +2402,6 @@
   title: Building a great API Lessons learned from working with dozens of REST APIs
   url: http://blog.bugsnag.com/building-great-apis
   domain: blog.bugsnag.com
-  image: ""
-- curated_id: dbcd153ad87f27d37e2598c82f14bfe3
-  item_date: "2016-05-17 00:00:00"
-  title: Amazon Fire TV gets Siri-like voice control, powered by Alexa
-  url: http://thenextweb.com/insider/2016/05/17/alexa-and-amazon-tv-are-a-potent-combo-that-just-got-even-better/
-  domain: thenextweb.com
   image: ""
 - curated_id: 0ab1db8c682f56c38c631ddb3f61f5f4
   item_date: "2016-05-18 00:00:00"
@@ -2428,17 +2428,17 @@
   url: https://dzone.com/articles/i-built-my-own-amazon-echo-alexa-with-a-raspberry
   domain: dzone.com
   image: ""
-- curated_id: 03a48426ef33558b087e0e2bfad898f2
-  item_date: "2016-05-25 00:00:00"
-  title: 'Apples Siri SDK: Too late to duel Amazon Echo, Google Assistant?'
-  url: http://www.zdnet.com/article/apples-siri-sdk-too-late-to-duel-amazon-echo-google-assistant/
-  domain: www.zdnet.com
-  image: ""
 - curated_id: 70d052b922ba6b57189c17cd0f64dfb7
   item_date: "2016-05-25 00:00:00"
   title: 'The Information: Apple Developing Siri API and Echo-Like Device'
   url: https://www.theinformation.com/apple-opening-siri-developing-echo-rival
   domain: www.theinformation.com
+  image: ""
+- curated_id: 03a48426ef33558b087e0e2bfad898f2
+  item_date: "2016-05-25 00:00:00"
+  title: 'Apples Siri SDK: Too late to duel Amazon Echo, Google Assistant?'
+  url: http://www.zdnet.com/article/apples-siri-sdk-too-late-to-duel-amazon-echo-google-assistant/
+  domain: www.zdnet.com
   image: ""
 - curated_id: c2a071da22dc3f9e53dbbf62651ef0a5
   item_date: "2016-05-26 00:00:00"
@@ -2459,11 +2459,11 @@
   url: https://dzone.com/articles/the-most-important-thing-when-picking-http-statusc
   domain: dzone.com
   image: ""
-- curated_id: aLHR0xOc7T1d7r4TSoq5PyLvIdxHu1pHmxRZkkSIDHMQK7huIiZ123U3fe123vHSv5amiVw9NmuG2o123ulZxTGz0b8A117117
+- curated_id: f9fda0599a74f04eca4be2e40efe0725
   item_date: "2016-06-06 00:00:00"
-  title: The Basics of REST and RESTful API Development
-  url: http://www.hongkiat.com/blog/rest-restful-api-dev/
-  domain: www.hongkiat.com
+  title: Amazon Alexa Keeps You On Track with New Food Tracking Skill Powered by Nutritionix
+  url: http://blog.nutritionix.com/2016/06/06/track-by-nutritionix-amazon-alexa-skill/
+  domain: blog.nutritionix.com
   image: ""
 - curated_id: b5c349ac4ff1adb8a0d0b661f9ac7d4c
   item_date: "2016-06-06 00:00:00"
@@ -2471,11 +2471,11 @@
   url: http://www.businessinsider.com/voice-search-is-still-a-moonshot-dream-2016-6
   domain: www.businessinsider.com
   image: ""
-- curated_id: f9fda0599a74f04eca4be2e40efe0725
+- curated_id: aLHR0xOc7T1d7r4TSoq5PyLvIdxHu1pHmxRZkkSIDHMQK7huIiZ123U3fe123vHSv5amiVw9NmuG2o123ulZxTGz0b8A117117
   item_date: "2016-06-06 00:00:00"
-  title: Amazon Alexa Keeps You On Track with New Food Tracking Skill Powered by Nutritionix
-  url: http://blog.nutritionix.com/2016/06/06/track-by-nutritionix-amazon-alexa-skill/
-  domain: blog.nutritionix.com
+  title: The Basics of REST and RESTful API Development
+  url: http://www.hongkiat.com/blog/rest-restful-api-dev/
+  domain: www.hongkiat.com
   image: ""
 - curated_id: 434bd60a159e17198d894fdabd833502
   item_date: "2016-06-08 00:00:00"
@@ -2537,6 +2537,18 @@
   url: https://www.built.io/blog/2016/06/insight-ios-10-predictions-for-siri-and-bots/
   domain: www.built.io
   image: ""
+- curated_id: K2IKGvQwG7hV4ghiEZHtFWQv1Hq3Fu4Zh5DSFvTLFn4N123bySdq8kWkdXjznagGQkXY28CZjOmGfi0tDrxKZTfA117117
+  item_date: "2016-06-21 00:00:00"
+  title: Why Your API039s EndUsage Context Matters To Great Developer Experiences
+  url: http://www.programmableweb.com/news/why-your-apis-end-usage-context-matters-to-great-developer-experiences/analysis/2016/06/21
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: dY37b123xzBaJrTaQc6ghpw323ilw6NmHPPSuB5kYZai2Sg116RFEosSgoXFqo116otvSzC60qdyt3TUkx123XyRW116xv1Q117117
+  item_date: "2016-06-21 00:00:00"
+  title: Why Your API039s EndUsage Context Matters To Great API Design
+  url: http://www.programmableweb.com/news/why-your-apis-end-usage-context-matters-to-great-api-design/analysis/2016/06/21
+  domain: www.programmableweb.com
+  image: ""
 - curated_id: 81c12009a55b6eb3efb9309c279f40a8
   item_date: "2016-06-21 00:00:00"
   title: 'Flask-Ask: A New Python Framework for Rapid Alexa Skills Kit Development'
@@ -2549,18 +2561,6 @@
     Siri
   url: http://betanews.com/2016/06/21/digital-assistants-rise-in-popularity/
   domain: betanews.com
-  image: ""
-- curated_id: dY37b123xzBaJrTaQc6ghpw323ilw6NmHPPSuB5kYZai2Sg116RFEosSgoXFqo116otvSzC60qdyt3TUkx123XyRW116xv1Q117117
-  item_date: "2016-06-21 00:00:00"
-  title: Why Your API039s EndUsage Context Matters To Great API Design
-  url: http://www.programmableweb.com/news/why-your-apis-end-usage-context-matters-to-great-api-design/analysis/2016/06/21
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: K2IKGvQwG7hV4ghiEZHtFWQv1Hq3Fu4Zh5DSFvTLFn4N123bySdq8kWkdXjznagGQkXY28CZjOmGfi0tDrxKZTfA117117
-  item_date: "2016-06-21 00:00:00"
-  title: Why Your API039s EndUsage Context Matters To Great Developer Experiences
-  url: http://www.programmableweb.com/news/why-your-apis-end-usage-context-matters-to-great-developer-experiences/analysis/2016/06/21
-  domain: www.programmableweb.com
   image: ""
 - curated_id: 806c6aa0bf2e526a20d696f4193f6ff9
   item_date: "2016-06-27 00:00:00"
@@ -2611,18 +2611,18 @@
   url: http://rewrite.ca.com/us/articles/application-economy/rewrite-rewind-hey-siri-how-do-you-spell-api.html
   domain: rewrite.ca.com
   image: ""
-- curated_id: 43b92774c03d12f0bebc7d9e7e38b40c
-  item_date: "2016-07-07 00:00:00"
-  title: Amazon Echo users can finally choose Spotify or Pandora as default music
-    service
-  url: https://techcrunch.com/2016/07/07/amazon-echo-users-can-finally-choose-spotify-or-pandora-as-default-music-service/
-  domain: techcrunch.com
-  image: ""
 - curated_id: 144e4c3bc0bfa2117ed165d5190f1d81
   item_date: "2016-07-07 00:00:00"
   title: Audible?s new Channels audio content subscription service is a bet on a voice-powered
     future
   url: https://techcrunch.com/2016/07/07/audible-channels-netflix-for-podcasts/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 43b92774c03d12f0bebc7d9e7e38b40c
+  item_date: "2016-07-07 00:00:00"
+  title: Amazon Echo users can finally choose Spotify or Pandora as default music
+    service
+  url: https://techcrunch.com/2016/07/07/amazon-echo-users-can-finally-choose-spotify-or-pandora-as-default-music-service/
   domain: techcrunch.com
   image: ""
 - curated_id: 0950a5006792da4186be23d9b58e8705
@@ -2637,18 +2637,18 @@
   url: https://blog.apiary.io/2016/07/10/Scaling-Your-API-Design-Workflow
   domain: blog.apiary.io
   image: ""
-- curated_id: gQAqK3X30IwWfdaZk0fJcikkqxyPDTPUOSu9jWRYaVAoeqiyms2Hvb5je1fbSB4Bk123eABFjZhc15nvHYEGwVlA117117
-  item_date: "2016-07-12 00:00:00"
-  title: Presentation REST Considered Harmful
-  url: https://www.infoq.com/presentations/rest-streaming-api
-  domain: www.infoq.com
-  image: ""
 - curated_id: e383003b0fafbf0406ffd80d00dc5526
   item_date: "2016-07-12 00:00:00"
   title: Mumbly Hour - Siri API, Great or Garbage? ? How does the new Siri API position
     Apple for the future?
   url: http://mumblyhour.com/podcast/20
   domain: mumblyhour.com
+  image: ""
+- curated_id: gQAqK3X30IwWfdaZk0fJcikkqxyPDTPUOSu9jWRYaVAoeqiyms2Hvb5je1fbSB4Bk123eABFjZhc15nvHYEGwVlA117117
+  item_date: "2016-07-12 00:00:00"
+  title: Presentation REST Considered Harmful
+  url: https://www.infoq.com/presentations/rest-streaming-api
+  domain: www.infoq.com
   image: ""
 - curated_id: mXwGZAfk11624F0sJ8qBcQbFNRycTfizNzZpX6DbemLpzZwT0nogM3PCNwzKb72YBpy9XvRNFwPjdxYHZ5QqCLmg117117
   item_date: "2016-07-15 00:00:00"
@@ -2681,17 +2681,17 @@
   url: https://developer.amazon.com/appsandservices/community/post/Tx123QTJWIJR9W3/A-Voice-for-Smart-Home
   domain: developer.amazon.com
   image: ""
-- curated_id: v4Nvl9lWN4J7Int4yYDsTh38yTdxosle50116q116MnYof5Xq0GJs123WAkSN3Z5MZep66zfbrhNjTHX2Bw8r123tRle8A117117
-  item_date: "2016-07-21 00:00:00"
-  title: Microsoft Publishes REST API Guidelines 23
-  url: http://www.programmableweb.com/news/microsoft-publishes-rest-api-guidelines-2.3/brief/2016/07/21
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: EQ3nD4KJh116yUZ8x123a4dw68KbWIAlRIWpVoXe4NM116m123PnhtJXVhpn0iIompIRwZBwO6X123dCHv6vknVF1mS1qnSA117117
   item_date: "2016-07-21 00:00:00"
   title: Microsoft REST API Guidelines Are Not RESTful
   url: https://www.infoq.com/news/2016/07/microsoft-rest-api
   domain: www.infoq.com
+  image: ""
+- curated_id: v4Nvl9lWN4J7Int4yYDsTh38yTdxosle50116q116MnYof5Xq0GJs123WAkSN3Z5MZep66zfbrhNjTHX2Bw8r123tRle8A117117
+  item_date: "2016-07-21 00:00:00"
+  title: Microsoft Publishes REST API Guidelines 23
+  url: http://www.programmableweb.com/news/microsoft-publishes-rest-api-guidelines-2.3/brief/2016/07/21
+  domain: www.programmableweb.com
   image: ""
 - curated_id: a55e37989294eb1415cec2683b251ebb
   item_date: "2016-07-22 00:00:00"
@@ -2699,17 +2699,17 @@
   url: https://moz.com/blog/voice-conversational-search-change-seo-tactics-strategy
   domain: moz.com
   image: ""
-- curated_id: c9c3d86c15ce0f65ab7e2dcc61a2c658
-  item_date: "2016-07-27 00:00:00"
-  title: Money Talks with the Capital One Alexa Skill
-  url: https://developer.amazon.com/appsandservices/community/post/Tx3GO7OTYATKAU0/Money-Talks-with-the-Capital-One-Alexa-Skill
-  domain: developer.amazon.com
-  image: ""
 - curated_id: 9b05564a2c43d15ff17bbc254105aeb8
   item_date: "2016-07-27 00:00:00"
   title: Awair air quality monitor teams up with Nest, Amazon Echo and IFTTT
   url: https://techcrunch.com/2016/07/27/awair-air-quality-monitor-teams-up-with-nest-amazon-echo-and-ifttt/
   domain: techcrunch.com
+  image: ""
+- curated_id: c9c3d86c15ce0f65ab7e2dcc61a2c658
+  item_date: "2016-07-27 00:00:00"
+  title: Money Talks with the Capital One Alexa Skill
+  url: https://developer.amazon.com/appsandservices/community/post/Tx3GO7OTYATKAU0/Money-Talks-with-the-Capital-One-Alexa-Skill
+  domain: developer.amazon.com
   image: ""
 - curated_id: a12f888a6b6fa9f2803f57bbf8a60734
   item_date: "2016-08-01 00:00:00"
@@ -2717,11 +2717,35 @@
   url: http://www.bbc.co.uk/news/business-36939709
   domain: www.bbc.co.uk
   image: ""
+- curated_id: e4e4b7313f2ddd7344d7225942737028
+  item_date: "2016-08-02 00:00:00"
+  title: Noise Cancelling Speech Recogntion
+  url: http://hackaday.com/2016/08/02/noise-cancelling-speech-recogntion/
+  domain: hackaday.com
+  image: ""
+- curated_id: ab30fcd68dce414433870570e4f5679c
+  item_date: "2016-08-02 00:00:00"
+  title: How to Get Started With Amazon?s Alexa Skills Kit
+  url: http://www.programmableweb.com/news/how-to-get-started-amazon%E2%80%99s-alexa-skills-kit/how-to/2016/08/02
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 93aac7b638b37948b6697ec41aaf9fea
+  item_date: "2016-08-02 00:00:00"
+  title: What Is Alexa? What Is the Amazon Echo, and Should You Get One?
+  url: http://thewirecutter.com/reviews/what-is-alexa-what-is-the-amazon-echo-and-should-you-get-one/
+  domain: thewirecutter.com
+  image: ""
 - curated_id: ca6bd66b12dce06578806ff947facb4d
   item_date: "2016-08-02 00:00:00"
   title: 'Top-Ranking Alexa Skill: A Collaboration Between Warner Bros., DC Comics,
     and Amazon'
   url: https://developer.amazon.com/appsandservices/community/post/Tx234I65DC2NZH5/Top-Ranking-Alexa-Skill-A-Collaboration-Between-Warner-Bros-DC-Comics-and-Amazon
+  domain: developer.amazon.com
+  image: ""
+- curated_id: 7bae96f8b105cf4c28a86ffa91f48f68
+  item_date: "2016-08-02 00:00:00"
+  title: Announcing a New Tool for Building Interactive Adventure Games on Alexa
+  url: https://developer.amazon.com/appsandservices/community/post/TxEQV5K754YS77/Announcing-a-New-Tool-for-Building-Interactive-Adventure-Games-on-Alexa
   domain: developer.amazon.com
   image: ""
 - curated_id: 236d546679b892a923ad4eacab3503b1
@@ -2731,41 +2755,17 @@
   url: https://developer.amazon.com/appsandservices/community/post/TxHGKH09BL2VA1/New-Alexa-Skills-Kit-Template-Step-by-Step-Guide-to-Build-a-Decision-Tree-Skill
   domain: developer.amazon.com
   image: ""
-- curated_id: 7bae96f8b105cf4c28a86ffa91f48f68
-  item_date: "2016-08-02 00:00:00"
-  title: Announcing a New Tool for Building Interactive Adventure Games on Alexa
-  url: https://developer.amazon.com/appsandservices/community/post/TxEQV5K754YS77/Announcing-a-New-Tool-for-Building-Interactive-Adventure-Games-on-Alexa
-  domain: developer.amazon.com
-  image: ""
-- curated_id: ab30fcd68dce414433870570e4f5679c
-  item_date: "2016-08-02 00:00:00"
-  title: How to Get Started With Amazon?s Alexa Skills Kit
-  url: http://www.programmableweb.com/news/how-to-get-started-amazon%E2%80%99s-alexa-skills-kit/how-to/2016/08/02
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: e4e4b7313f2ddd7344d7225942737028
-  item_date: "2016-08-02 00:00:00"
-  title: Noise Cancelling Speech Recogntion
-  url: http://hackaday.com/2016/08/02/noise-cancelling-speech-recogntion/
-  domain: hackaday.com
-  image: ""
-- curated_id: 93aac7b638b37948b6697ec41aaf9fea
-  item_date: "2016-08-02 00:00:00"
-  title: What Is Alexa? What Is the Amazon Echo, and Should You Get One?
-  url: http://thewirecutter.com/reviews/what-is-alexa-what-is-the-amazon-echo-and-should-you-get-one/
-  domain: thewirecutter.com
+- curated_id: kZx123I9JcW5EFeckjo8v3rPxf123O3epDRsTJ123AE1MQjJY109116ro1UxHrtxIn2sG0P116xUgTyfRgHQdf6116le123yx0MQ117117
+  item_date: "2016-08-03 00:00:00"
+  title: Restlet Studio 13 is out
+  url: http://restlet.com/blog/2016/08/03/restlet-studio-1-3-is-out/
+  domain: restlet.com
   image: ""
 - curated_id: h6loNrmahtGZvgL116Pr8gcsvvzgTqiWUvFoKxZmid4V3MUhCQbij5H5116nLYFyEOwa2IHgQI5V62Z70QMSmwrt116w117117
   item_date: "2016-08-03 00:00:00"
   title: Getting Your REST is Important
   url: http://www.tibco.com/blog/2016/08/03/getting-your-rest-is-important/
   domain: www.tibco.com
-  image: ""
-- curated_id: kZx123I9JcW5EFeckjo8v3rPxf123O3epDRsTJ123AE1MQjJY109116ro1UxHrtxIn2sG0P116xUgTyfRgHQdf6116le123yx0MQ117117
-  item_date: "2016-08-03 00:00:00"
-  title: Restlet Studio 13 is out
-  url: http://restlet.com/blog/2016/08/03/restlet-studio-1-3-is-out/
-  domain: restlet.com
   image: ""
 - curated_id: 44b13e5c43f5da92639c8cff32bff1c8
   item_date: "2016-08-04 00:00:00"
@@ -2804,18 +2804,6 @@
   url: http://nordicapis.com/api-design-building-and-enforcing-an-internal-style-guide/
   domain: nordicapis.com
   image: ""
-- curated_id: 7c46bb9dc0b28c3920e0af13c9543381
-  item_date: "2016-08-17 00:00:00"
-  title: 'Meet April L. Hamilton: Developer, Blogger, and All Around Alexa Champion'
-  url: https://developer.amazon.com/appsandservices/community/post/Tx1I8VB8CSIC5JW/Meet-April-L-Hamilton-Developer-Blogger-and-All-Around-Alexa-Champion
-  domain: developer.amazon.com
-  image: ""
-- curated_id: 8a3700d294b364c604c5604639c46294
-  item_date: "2016-08-17 00:00:00"
-  title: 'Alexa Champions: Recognizing Top Alexa Developers in the Community'
-  url: https://developer.amazon.com/appsandservices/community/post/Tx19OHYKBG2ROQQ/Alexa-Champions-Recognizing-Top-Alexa-Developers-in-the-Community
-  domain: developer.amazon.com
-  image: ""
 - curated_id: 23fb474781cb69f8ac06f5dfa0ac7e60
   item_date: "2016-08-17 00:00:00"
   title: How to activate Cortana voice recognition on your Xbox One
@@ -2827,6 +2815,30 @@
   title: OptoNews Tip Whats a RESTful API and why does it matter
   url: http://blog.opto22.com/optoblog/optonews-tip-whats-a-restful-api-and-why-does-it-matter
   domain: blog.opto22.com
+  image: ""
+- curated_id: 8a3700d294b364c604c5604639c46294
+  item_date: "2016-08-17 00:00:00"
+  title: 'Alexa Champions: Recognizing Top Alexa Developers in the Community'
+  url: https://developer.amazon.com/appsandservices/community/post/Tx19OHYKBG2ROQQ/Alexa-Champions-Recognizing-Top-Alexa-Developers-in-the-Community
+  domain: developer.amazon.com
+  image: ""
+- curated_id: 7c46bb9dc0b28c3920e0af13c9543381
+  item_date: "2016-08-17 00:00:00"
+  title: 'Meet April L. Hamilton: Developer, Blogger, and All Around Alexa Champion'
+  url: https://developer.amazon.com/appsandservices/community/post/Tx1I8VB8CSIC5JW/Meet-April-L-Hamilton-Developer-Blogger-and-All-Around-Alexa-Champion
+  domain: developer.amazon.com
+  image: ""
+- curated_id: a253e2beaf6e9f4fcaa09f7277b9d6e7
+  item_date: "2016-08-18 00:00:00"
+  title: Amazon Alexa Can Now Control Hyundai Genesis
+  url: http://www.pcmag.com/news/347135/amazon-alexa-can-now-control-huyndai-genesis
+  domain: www.pcmag.com
+  image: ""
+- curated_id: 5kumgPU1tpPUcGzXi123y0Z116tD230wPDqsDpsZ96h8ISNGv9TrCNU1Pcg3hX3U5ege4c7QV1haRdiF8ABWkrsYIQ117117
+  item_date: "2016-08-18 00:00:00"
+  title: Five Steps Before Developing a Smart Home Skill
+  url: https://developer.amazon.com/appsandservices/community/post/Tx4WG410EHXIYQ/Five-Steps-Before-Developing-a-Smart-Home-Skill
+  domain: developer.amazon.com
   image: ""
 - curated_id: 892c54e37d34ac056e92f3ce18ad6e8a
   item_date: "2016-08-18 00:00:00"
@@ -2840,18 +2852,6 @@
   title: "Why Developers Are Flocking to Amazon?s Alexa\r\n"
   url: http://motherboard.vice.com/read/amazon-alexa-developers-echo-skills
   domain: motherboard.vice.com
-  image: ""
-- curated_id: 5kumgPU1tpPUcGzXi123y0Z116tD230wPDqsDpsZ96h8ISNGv9TrCNU1Pcg3hX3U5ege4c7QV1haRdiF8ABWkrsYIQ117117
-  item_date: "2016-08-18 00:00:00"
-  title: Five Steps Before Developing a Smart Home Skill
-  url: https://developer.amazon.com/appsandservices/community/post/Tx4WG410EHXIYQ/Five-Steps-Before-Developing-a-Smart-Home-Skill
-  domain: developer.amazon.com
-  image: ""
-- curated_id: a253e2beaf6e9f4fcaa09f7277b9d6e7
-  item_date: "2016-08-18 00:00:00"
-  title: Amazon Alexa Can Now Control Hyundai Genesis
-  url: http://www.pcmag.com/news/347135/amazon-alexa-can-now-control-huyndai-genesis
-  domain: www.pcmag.com
   image: ""
 - curated_id: qLaC11644116WujhcD5nT9f4LoBUe10mDVVEAMM0rippPDYHWXZ24osQ1Ij0kD08kbZYT4CWuvfl5aCPplmfWigAYg117117
   item_date: "2016-08-19 00:00:00"
@@ -2877,12 +2877,6 @@
   url: http://www.cioreview.com/news/user-interface-an-essential-part-of-a-effective-api-design-nid-18306-cid-111.html
   domain: www.cioreview.com
   image: ""
-- curated_id: 4f819f47f529c1c8adbf86521016f7c1
-  item_date: "2016-08-25 00:00:00"
-  title: Seeed Studio?s ReSpeaker Speaks All the Voice Recognition Languages
-  url: http://hackaday.com/2016/08/25/seeed-studios-respeaker-speaks-all-the-voice-recognition-languages/
-  domain: hackaday.com
-  image: ""
 - curated_id: df997fae2a536308c9586c41c1aae22e
   item_date: "2016-08-25 00:00:00"
   title: 'Developer Spotlight: How One Developer?s Passion Project Led to Lexi, the
@@ -2890,17 +2884,11 @@
   url: https://developer.amazon.com/appsandservices/community/post/Tx3HRGTBR264DGE/Developer-Spotlight-How-One-Developer-s-Passion-Project-Led-to-Lexi-the-Alexa-En
   domain: developer.amazon.com
   image: ""
-- curated_id: Xfyir400A5QT2tkKsL0h4r9rBrHYZDJhKN84Dbz2xsmzScR49f116dt116sGAmd9lqWMS0cLOvKKKE7kcLTnMjt9Ew117117
-  item_date: "2016-08-26 00:00:00"
-  title: RESTful APIs and MediaTypes
-  url: https://akrabat.com/restful-apis-and-media-types/
-  domain: akrabat.com
-  image: ""
-- curated_id: 63aaf9cb5c7d7034f937268c1fea62c9
-  item_date: "2016-08-26 00:00:00"
-  title: Virtual assistants like Siri and Alexa look poised to explode
-  url: http://www.businessinsider.com/virtual-assistants-siri-alexa-growth-chart-2016-8
-  domain: www.businessinsider.com
+- curated_id: 4f819f47f529c1c8adbf86521016f7c1
+  item_date: "2016-08-25 00:00:00"
+  title: Seeed Studio?s ReSpeaker Speaks All the Voice Recognition Languages
+  url: http://hackaday.com/2016/08/25/seeed-studios-respeaker-speaks-all-the-voice-recognition-languages/
+  domain: hackaday.com
   image: ""
 - curated_id: 0064bece157e9058ababab1c1607fac4
   item_date: "2016-08-26 00:00:00"
@@ -2908,18 +2896,23 @@
   url: https://developer.amazon.com/appsandservices/community/post/TxWSCWZI9SPYNT/Coding-Smart-Home-Skill-Adapter-Directives-Using-Node-js
   domain: developer.amazon.com
   image: ""
+- curated_id: 63aaf9cb5c7d7034f937268c1fea62c9
+  item_date: "2016-08-26 00:00:00"
+  title: Virtual assistants like Siri and Alexa look poised to explode
+  url: http://www.businessinsider.com/virtual-assistants-siri-alexa-growth-chart-2016-8
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: Xfyir400A5QT2tkKsL0h4r9rBrHYZDJhKN84Dbz2xsmzScR49f116dt116sGAmd9lqWMS0cLOvKKKE7kcLTnMjt9Ew117117
+  item_date: "2016-08-26 00:00:00"
+  title: RESTful APIs and MediaTypes
+  url: https://akrabat.com/restful-apis-and-media-types/
+  domain: akrabat.com
+  image: ""
 - curated_id: YHfjCEvdfVvyO09RvJmochOyo8wzrYFQV6XoIiYhxCk6Hftk6oGyi123rLSlA7FBRRCldeEZJ8vr4ICEnDAgG1Ew117117
   item_date: "2016-08-29 00:00:00"
   title: Internal API Design for Distributed Teams
   url: https://www.lullabot.com/articles/internal-api-design-for-distributed-teams
   domain: www.lullabot.com
-  image: ""
-- curated_id: 6d2d380a065ec95a30d73182b57bea1c
-  item_date: "2016-08-30 00:00:00"
-  title: 'Alexa, give me the news: How outlets are tailoring their coverage for Amazon?s
-    new platform'
-  url: http://www.niemanlab.org/2016/08/alexa-give-me-the-news-how-outlets-are-tailoring-their-coverage-for-amazons-new-platform/
-  domain: www.niemanlab.org
   image: ""
 - curated_id: lJDc116koEBDYKzA9Gqj8Tgo0lWYERe1236K7O1161DL441B7icwAMmdV123trJFikQk1QWaMnO1aLXkE2HSRYCbUc1231Iw117117
   item_date: "2016-08-30 00:00:00"
@@ -2932,6 +2925,13 @@
   title: Why Consistency Matters Across the Media Types Offered by an API
   url: http://www.programmableweb.com/news/why-consistency-matters-across-media-types-offered-api/analysis/2016/08/30
   domain: www.programmableweb.com
+  image: ""
+- curated_id: 6d2d380a065ec95a30d73182b57bea1c
+  item_date: "2016-08-30 00:00:00"
+  title: 'Alexa, give me the news: How outlets are tailoring their coverage for Amazon?s
+    new platform'
+  url: http://www.niemanlab.org/2016/08/alexa-give-me-the-news-how-outlets-are-tailoring-their-coverage-for-amazons-new-platform/
+  domain: www.niemanlab.org
   image: ""
 - curated_id: 2487d9a1d74b89b7182ff0956c614b22
   item_date: "2016-09-01 00:00:00"
@@ -2969,18 +2969,6 @@
   url: http://www.yiiframework.com/forum/index.php/topic/72123-how-to-sort-api-expand-fields/page__pid__302978
   domain: www.yiiframework.com
   image: ""
-- curated_id: c2b6252a4232d448058e3ba773cf1935
-  item_date: "2016-09-07 00:00:00"
-  title: 'New Video: Using Speech Synthesis Markup Language (SSML) in Alexa Skills'
-  url: https://developer.amazon.com/appsandservices/community/post/Tx67FV39TX68ZP/New-Video-Using-Speech-Synthesis-Markup-Language-SSML-in-Alexa-Skills
-  domain: developer.amazon.com
-  image: ""
-- curated_id: oYs4qsbpPmSOxyLH7Rn3ssb123ZcV5jL1JQZ7omYsO9o116h116Quf35PqCEU116JjXEfjq0u3WUeUoOzhEWJqlce3ZqlA117117
-  item_date: "2016-09-07 00:00:00"
-  title: API Design Book Available Today
-  url: http://api-university.com/blog/api-design-book-available-today/
-  domain: api-university.com
-  image: ""
 - curated_id: 3ab902e812bfd35c9cfa5d55526213e7
   item_date: "2016-09-07 00:00:00"
   title: Smartly.ai ? All-in-one platform for voice and chatbots
@@ -2993,17 +2981,23 @@
   url: http://blog.teamtreehouse.com/understanding-new-swift-3-api-design-guidelines
   domain: blog.teamtreehouse.com
   image: ""
+- curated_id: oYs4qsbpPmSOxyLH7Rn3ssb123ZcV5jL1JQZ7omYsO9o116h116Quf35PqCEU116JjXEfjq0u3WUeUoOzhEWJqlce3ZqlA117117
+  item_date: "2016-09-07 00:00:00"
+  title: API Design Book Available Today
+  url: http://api-university.com/blog/api-design-book-available-today/
+  domain: api-university.com
+  image: ""
+- curated_id: c2b6252a4232d448058e3ba773cf1935
+  item_date: "2016-09-07 00:00:00"
+  title: 'New Video: Using Speech Synthesis Markup Language (SSML) in Alexa Skills'
+  url: https://developer.amazon.com/appsandservices/community/post/Tx67FV39TX68ZP/New-Video-Using-Speech-Synthesis-Markup-Language-SSML-in-Alexa-Skills
+  domain: developer.amazon.com
+  image: ""
 - curated_id: qgjubPTwQuFMvCl123n5OfQnJOPjVOucQ51231qnXMd30ZvA3gRR5bmSQnZ116j0t123sXLyN5cLMWiTQXAozbTXkajIIw117117
   item_date: "2016-09-07 09:36:49"
   title: The Secret Sauce Behind Building an Elastic API
   url: http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/The-Secret-Sauce-Behind-Building-an-Elastic-API-113410.aspx
   domain: www.streamingmedia.com
-  image: ""
-- curated_id: sjnAUAGv7o123BuTzkKPOTB123Hfq4HpzOE116JKaTvukk23Rys8jjr2OwvPpoLPN3BragPVRI1169t6HMfBxePb123G88MQ117117
-  item_date: "2016-09-08 00:00:00"
-  title: RESTful Web API Design with Nodejs
-  url: https://adobeland.wordpress.com/2016/09/08/restful-web-api-design-with-node-js/
-  domain: adobeland.wordpress.com
   image: ""
 - curated_id: dGDk6eIYibFC8rIkNQEU07nkJhfM7yQlLv41oCq116WUZOnte431232KbzuK04T5JcrakDfXqKLY3DL6bUb116XI2cAA117117
   item_date: "2016-09-08 00:00:00"
@@ -3011,11 +3005,11 @@
   url: https://dzone.com/articles/restful-api-design-an-opinionated-guide
   domain: dzone.com
   image: ""
-- curated_id: aXZiXF123qk31BV80o6QHscLNx5IkM2prEHAIThFwl5L116PUhda6IujxuRLscWFJvcGWlM1167YNMWzmqKwEb1166OODg117117
-  item_date: "2016-09-09 00:00:00"
-  title: Introducing API Templates With Reusable System and Process APIs
-  url: http://blogs.mulesoft.com/dev/anypoint-platform-dev/api-templates-reusable-system-process-apis/
-  domain: blogs.mulesoft.com
+- curated_id: sjnAUAGv7o123BuTzkKPOTB123Hfq4HpzOE116JKaTvukk23Rys8jjr2OwvPpoLPN3BragPVRI1169t6HMfBxePb123G88MQ117117
+  item_date: "2016-09-08 00:00:00"
+  title: RESTful Web API Design with Nodejs
+  url: https://adobeland.wordpress.com/2016/09/08/restful-web-api-design-with-node-js/
+  domain: adobeland.wordpress.com
   image: ""
 - curated_id: 9335dad4c5bac790e0377fdf77b74ce7
   item_date: "2016-09-09 00:00:00"
@@ -3023,11 +3017,23 @@
   url: https://developer.amazon.com/appsandservices/community/post/TxS5NKF0D8RVP2/14-Year-Old-Girl-Creates-CloudStatus-Alexa-Skill-That-Benefits-AWS-Developers
   domain: developer.amazon.com
   image: ""
+- curated_id: aXZiXF123qk31BV80o6QHscLNx5IkM2prEHAIThFwl5L116PUhda6IujxuRLscWFJvcGWlM1167YNMWzmqKwEb1166OODg117117
+  item_date: "2016-09-09 00:00:00"
+  title: Introducing API Templates With Reusable System and Process APIs
+  url: http://blogs.mulesoft.com/dev/anypoint-platform-dev/api-templates-reusable-system-process-apis/
+  domain: blogs.mulesoft.com
+  image: ""
 - curated_id: 9BwJxzXnkaTjYrlBsZJaRxACK3zh8SdElECj3BSDzcKZWP1X9Ti1lqx5pDXtpaNDsg116ABolgwZbdJxzGuieHsA117117
   item_date: "2016-09-11 00:00:00"
   title: Maintaining API  Working As A Software Engineer
   url: https://cvesters.wordpress.com/2016/09/11/maintaining-api/
   domain: cvesters.wordpress.com
+  image: ""
+- curated_id: 6307ec8e39751a3faddab8647025be45
+  item_date: "2016-09-13 00:00:00"
+  title: Control GE Kitchen Appliances Via Voice With Alexa
+  url: http://www.pcmag.com/news/347826/control-ge-kitchen-appliances-via-voice-with-alexa
+  domain: www.pcmag.com
   image: ""
 - curated_id: 8812600a698e7d03e9e5f4986f19f48a
   item_date: "2016-09-13 00:00:00"
@@ -3041,17 +3047,17 @@
   url: http://www.zdnet.com/article/ges-connected-appliances-can-now-talk-to-amazons-alexa/
   domain: www.zdnet.com
   image: ""
-- curated_id: 6307ec8e39751a3faddab8647025be45
-  item_date: "2016-09-13 00:00:00"
-  title: Control GE Kitchen Appliances Via Voice With Alexa
-  url: http://www.pcmag.com/news/347826/control-ge-kitchen-appliances-via-voice-with-alexa
-  domain: www.pcmag.com
-  image: ""
 - curated_id: beaa7b3b7269883e2948fbe62efd8e23
   item_date: "2016-09-13 08:58:38"
   title: The Hitchhikers Guide to Twilio Programmable Voice
   url: https://www.twilio.com/blog/2016/09/hitchhikers-guide-to-twilio-programmable-voice.html
   domain: www.twilio.com
+  image: ""
+- curated_id: 60dcad5802d3f9e2e8d8b56426516312
+  item_date: "2016-09-14 00:00:00"
+  title: Vonage Launches Next-Generation Nexmo Voice API
+  url: http://www.programmableweb.com/news/vonage-launches-next-generation-nexmo-voice-api/2016/09/14
+  domain: www.programmableweb.com
   image: ""
 - curated_id: 7de5b94b875af7bd5a289ece7ebddb84
   item_date: "2016-09-14 00:00:00"
@@ -3065,23 +3071,11 @@
   url: http://techseen.com/2016/09/14/vonage-launches-nexmo-voice-api/
   domain: techseen.com
   image: ""
-- curated_id: 60dcad5802d3f9e2e8d8b56426516312
-  item_date: "2016-09-14 00:00:00"
-  title: Vonage Launches Next-Generation Nexmo Voice API
-  url: http://www.programmableweb.com/news/vonage-launches-next-generation-nexmo-voice-api/2016/09/14
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: Nl1gldzDhgrbcDlUgdHKhEUDKwjCUaaZsUmZAqHuxChtQu9luOTk123vvTGeTfzlGN0Lnioi123SgRfj6WqOWd2W116g117117
   item_date: "2016-09-14 17:38:31"
   title: The GitHub GraphQL API  GitHub Engineering
   url: http://githubengineering.com/the-github-graphql-api/
   domain: githubengineering.com
-  image: ""
-- curated_id: cDJL0xH67dOaAxrzgwT7vGmvVQkkKTW4JN7N77116htbGh5hHK5FPpFsEHXjsG3f3pLVSSIL116unJzQo0rJ7D3aZQ117117
-  item_date: "2016-09-15 00:00:00"
-  title: How to Take Your API From RPC to Hypermedia in 7 Steps
-  url: http://www.programmableweb.com/news/how-to-take-your-api-rpc-to-hypermedia-7-steps/how-to/2016/09/15
-  domain: www.programmableweb.com
   image: ""
 - curated_id: edYbaWsa123R8e2zfyLXvgo5AVtwXb1116NuEbMXDFregXHr1c7Jdjs116O1KPP39WvuR8Zd6VBQYTsvcKTwD116QVKygg117117
   item_date: "2016-09-15 00:00:00"
@@ -3089,11 +3083,11 @@
   url: http://restlet.com/blog/2016/09/15/sept-api-meetup/
   domain: restlet.com
   image: ""
-- curated_id: e8f825ce69e3163b4cc78904a91be408
-  item_date: "2016-09-16 00:00:00"
-  title: From Echo to Smart Home Skill, Wemo is Still Switching on the Lights
-  url: https://developer.amazon.com/appsandservices/community/post/Tx248Y8OC5W87ON/From-Echo-to-Smart-Home-Skill-Wemo-is-Still-Switching-on-the-Lights
-  domain: developer.amazon.com
+- curated_id: cDJL0xH67dOaAxrzgwT7vGmvVQkkKTW4JN7N77116htbGh5hHK5FPpFsEHXjsG3f3pLVSSIL116unJzQo0rJ7D3aZQ117117
+  item_date: "2016-09-15 00:00:00"
+  title: How to Take Your API From RPC to Hypermedia in 7 Steps
+  url: http://www.programmableweb.com/news/how-to-take-your-api-rpc-to-hypermedia-7-steps/how-to/2016/09/15
+  domain: www.programmableweb.com
   image: ""
 - curated_id: 4f90c79512715caf144c0aebe62c9fdd
   item_date: "2016-09-16 00:00:00"
@@ -3107,17 +3101,11 @@
   url: https://therealadam.com/2016/09/17/here-comes-graphql/
   domain: therealadam.com
   image: ""
-- curated_id: GJND123zdkkBX5IFjGwdoaYHMo7yd7iwWBRlfD5116tEZN7FRReFOlee8pVFqyovqV116JyWu1OFS9iLgXSLkX1JTwwA117117
-  item_date: "2016-09-19 00:00:00"
-  title: RESTful Web Service With Example
-  url: https://dzone.com/articles/restful-web-service-1
-  domain: dzone.com
-  image: ""
-- curated_id: 2380115b03158528f06e493093ebb646
-  item_date: "2016-09-19 00:00:00"
-  title: Voice is chat?s next battleground
-  url: https://techcrunch.com/2016/09/19/voice-is-chats-next-battleground/
-  domain: techcrunch.com
+- curated_id: e8f825ce69e3163b4cc78904a91be408
+  item_date: "2016-09-16 00:00:00"
+  title: From Echo to Smart Home Skill, Wemo is Still Switching on the Lights
+  url: https://developer.amazon.com/appsandservices/community/post/Tx248Y8OC5W87ON/From-Echo-to-Smart-Home-Skill-Wemo-is-Still-Switching-on-the-Lights
+  domain: developer.amazon.com
   image: ""
 - curated_id: ca691ddb5b8fb4fe1382c49da273149f
   item_date: "2016-09-19 00:00:00"
@@ -3125,17 +3113,17 @@
   url: https://developers.googleblog.com/2016/09/making-conversational-interfaces-easier-to-build.html
   domain: developers.googleblog.com
   image: ""
-- curated_id: e2eea291a562948633a5239546f2a633
-  item_date: "2016-09-20 00:00:00"
-  title: Twilio launches Voice Insights API to monitor call quality
-  url: http://www.zdnet.com/article/twilio-launches-voice-insights-api-to-monitor-call-quality/
-  domain: www.zdnet.com
+- curated_id: 2380115b03158528f06e493093ebb646
+  item_date: "2016-09-19 00:00:00"
+  title: Voice is chat?s next battleground
+  url: https://techcrunch.com/2016/09/19/voice-is-chats-next-battleground/
+  domain: techcrunch.com
   image: ""
-- curated_id: 6jZVGTsC9S2HDZRPs123n3dFDGcJl0WyLG7aSbcQVxD0aG1w83cYwmDyuKnXUBao116mud84YVMSHgAi4kZ2uOZcIA117117
-  item_date: "2016-09-20 00:00:00"
-  title: Understanding REST And RPC For HTTP APIs
-  url: https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/
-  domain: www.smashingmagazine.com
+- curated_id: GJND123zdkkBX5IFjGwdoaYHMo7yd7iwWBRlfD5116tEZN7FRReFOlee8pVFqyovqV116JyWu1OFS9iLgXSLkX1JTwwA117117
+  item_date: "2016-09-19 00:00:00"
+  title: RESTful Web Service With Example
+  url: https://dzone.com/articles/restful-web-service-1
+  domain: dzone.com
   image: ""
 - curated_id: m73FE7d4lJQt3fa6LnbXYkEi4kf54W0XAok8PVABQ8qKR8mRVUcS8kiU0EPf0qCwRRS7SdMQMUl0PQmuUObqEg117117
   item_date: "2016-09-20 00:00:00"
@@ -3143,17 +3131,23 @@
   url: http://www.bizcoder.com:80/rpc-vs-rest-is-not-in-the-url
   domain: www.bizcoder.com
   image: ""
+- curated_id: 6jZVGTsC9S2HDZRPs123n3dFDGcJl0WyLG7aSbcQVxD0aG1w83cYwmDyuKnXUBao116mud84YVMSHgAi4kZ2uOZcIA117117
+  item_date: "2016-09-20 00:00:00"
+  title: Understanding REST And RPC For HTTP APIs
+  url: https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/
+  domain: www.smashingmagazine.com
+  image: ""
+- curated_id: e2eea291a562948633a5239546f2a633
+  item_date: "2016-09-20 00:00:00"
+  title: Twilio launches Voice Insights API to monitor call quality
+  url: http://www.zdnet.com/article/twilio-launches-voice-insights-api-to-monitor-call-quality/
+  domain: www.zdnet.com
+  image: ""
 - curated_id: yKafGukRwI0iX7J9sRjmJ7Zpp9bcVrEi33Vb116SCMy123zMkqdeWma34XEJW8gIT3EGI3DbdbYwqs503rtmFeYYMQ117117
   item_date: "2016-09-20 06:32:01"
   title: There is No REST API
   url: http://blog.howarddierking.com/2016/09/15/there-is-no-rest-api/
   domain: blog.howarddierking.com
-  image: ""
-- curated_id: ba302a70d305abd63369a55c3f8dae7b
-  item_date: "2016-09-21 00:00:00"
-  title: Twilio Launches Voice Insights API to Monitor WebRTC Performance
-  url: http://www.programmableweb.com/news/twilio-launches-voice-insights-api-to-monitor-webrtc-performance/brief/2016/09/21
-  domain: www.programmableweb.com
   image: ""
 - curated_id: 00d73fdc183c32381b7511ae56cf6648
   item_date: "2016-09-21 00:00:00"
@@ -3161,6 +3155,12 @@
     Nucleus
   url: https://developer.amazon.com/appsandservices/community/post/Tx1DD409MWE20LE/Alexa-Fund-Adds-New-Company-to-Portfolio-by-Taking-Lead-Investor-Role-in-Nucleus
   domain: developer.amazon.com
+  image: ""
+- curated_id: ba302a70d305abd63369a55c3f8dae7b
+  item_date: "2016-09-21 00:00:00"
+  title: Twilio Launches Voice Insights API to Monitor WebRTC Performance
+  url: http://www.programmableweb.com/news/twilio-launches-voice-insights-api-to-monitor-webrtc-performance/brief/2016/09/21
+  domain: www.programmableweb.com
   image: ""
 - curated_id: 68a1238xoB3m4SN3S1233p0d123wpchzwYXCdpkT5N7CoTUBelHTfmgfNut18a5QmiFvXx6aBvVfTyWaUR3zdRDzxORQ117117
   item_date: "2016-09-21 09:55:12"
@@ -3193,11 +3193,29 @@
   url: http://sunlightfoundation.com/blog/2016/09/26/sunlight-at-the-21st-century-neighborhoods-symposium-how-humanizing-data-will-improve-our-communities/
   domain: sunlightfoundation.com
   image: ""
-- curated_id: 6d16af2cf3a31ca1d61b9b3ec5b9978f
+- curated_id: a82294a2cf36a957d4c4d9bab198d24e
   item_date: "2016-09-28 00:00:00"
-  title: Amazons faster new Fire TV Stick comes with an Alexa-enabled voice remote
-  url: http://www.pcworld.com/article/3124635/consumer-electronics/amazons-faster-new-fire-tv-stick-comes-with-an-alexa-enabled-voice-remote.html#tk.rss_all
-  domain: www.pcworld.com
+  title: Amazon?s New TV Streaming Stick Has Echo-Like Voice Controls
+  url: http://time.com/4511347/amazon-fire-tv-stick-2016/
+  domain: time.com
+  image: ""
+- curated_id: 291ab6fc5e800f65c6ff90438ef7033c
+  item_date: "2016-09-28 00:00:00"
+  title: Amazon?s new Fire TV Stick finally invites Alexa to the party
+  url: http://thenextweb.com/gadgets/2016/09/28/amazons-new-fire-tv-stick-finally-invites-alexa-to-the-party/
+  domain: thenextweb.com
+  image: ""
+- curated_id: DwWXVrcos2G3G9963wiz0D4uQhzN2njtOdQJK06uX7IkPTkAE5Dhcu8OWvr24jxZLcvodWFRoceqnbDOfs7ApQ117117
+  item_date: "2016-09-28 00:00:00"
+  title: Announcing the OpenSource beaR Library
+  url: http://www.esa.doc.gov/under-secretary-blog/announcing-open-source-bear-library
+  domain: www.esa.doc.gov
+  image: ""
+- curated_id: 5b7711886b824e54aa30ac37d0e71417
+  item_date: "2016-09-28 00:00:00"
+  title: 'Just Ask Lyft: Its Great Having Alexa Along for the Ride'
+  url: https://developer.amazon.com/appsandservices/community/post/Tx21JPICDF6EETE/Just-Ask-Lyft-It-s-Great-Having-Alexa-Along-for-the-Ride
+  domain: developer.amazon.com
   image: ""
 - curated_id: b03b4044d98a0bd75d141176a1321268
   item_date: "2016-09-28 00:00:00"
@@ -3211,35 +3229,17 @@
   url: http://api-university.com/blog/what-is-api-design/
   domain: api-university.com
   image: ""
-- curated_id: 5b7711886b824e54aa30ac37d0e71417
+- curated_id: 6d16af2cf3a31ca1d61b9b3ec5b9978f
   item_date: "2016-09-28 00:00:00"
-  title: 'Just Ask Lyft: Its Great Having Alexa Along for the Ride'
-  url: https://developer.amazon.com/appsandservices/community/post/Tx21JPICDF6EETE/Just-Ask-Lyft-It-s-Great-Having-Alexa-Along-for-the-Ride
-  domain: developer.amazon.com
+  title: Amazons faster new Fire TV Stick comes with an Alexa-enabled voice remote
+  url: http://www.pcworld.com/article/3124635/consumer-electronics/amazons-faster-new-fire-tv-stick-comes-with-an-alexa-enabled-voice-remote.html#tk.rss_all
+  domain: www.pcworld.com
   image: ""
-- curated_id: DwWXVrcos2G3G9963wiz0D4uQhzN2njtOdQJK06uX7IkPTkAE5Dhcu8OWvr24jxZLcvodWFRoceqnbDOfs7ApQ117117
-  item_date: "2016-09-28 00:00:00"
-  title: Announcing the OpenSource beaR Library
-  url: http://www.esa.doc.gov/under-secretary-blog/announcing-open-source-bear-library
-  domain: www.esa.doc.gov
-  image: ""
-- curated_id: a82294a2cf36a957d4c4d9bab198d24e
-  item_date: "2016-09-28 00:00:00"
-  title: Amazon?s New TV Streaming Stick Has Echo-Like Voice Controls
-  url: http://time.com/4511347/amazon-fire-tv-stick-2016/
-  domain: time.com
-  image: ""
-- curated_id: 291ab6fc5e800f65c6ff90438ef7033c
-  item_date: "2016-09-28 00:00:00"
-  title: Amazon?s new Fire TV Stick finally invites Alexa to the party
-  url: http://thenextweb.com/gadgets/2016/09/28/amazons-new-fire-tv-stick-finally-invites-alexa-to-the-party/
-  domain: thenextweb.com
-  image: ""
-- curated_id: 48a66e49d553d3e614e59c69254189e5
+- curated_id: 423e1541b85bc02c0e92f542c55a3294
   item_date: "2016-09-29 00:00:00"
-  title: First Annual Alexa Prize ? $2.5 Million to Advance Conversational AI
-  url: https://aws.amazon.com/blogs/aws/first-annual-alexa-prize-2-5-million-to-advance-conversational-ai/
-  domain: aws.amazon.com
+  title: Whats next for Siri?
+  url: http://www.macworld.com/article/3125495/os-x/whats-next-for-siri.html#tk.rss_all
+  domain: www.macworld.com
   image: ""
 - curated_id: 3d42f41ccad66d608de37f88a08702fe
   item_date: "2016-09-29 00:00:00"
@@ -3247,11 +3247,11 @@
   url: http://www.pcmag.com/news/348331/amazon-launches-2-5-million-alexa-prize-competition
   domain: www.pcmag.com
   image: ""
-- curated_id: 423e1541b85bc02c0e92f542c55a3294
+- curated_id: 48a66e49d553d3e614e59c69254189e5
   item_date: "2016-09-29 00:00:00"
-  title: Whats next for Siri?
-  url: http://www.macworld.com/article/3125495/os-x/whats-next-for-siri.html#tk.rss_all
-  domain: www.macworld.com
+  title: First Annual Alexa Prize ? $2.5 Million to Advance Conversational AI
+  url: https://aws.amazon.com/blogs/aws/first-annual-alexa-prize-2-5-million-to-advance-conversational-ai/
+  domain: aws.amazon.com
   image: ""
 - curated_id: 7CeE123KNo123MVyYk9lEHdRyTJtEgeU3NehAxgWlk123AwQUkiP3116PG05dnj177Bvd1GpNoylYbEsnvTdSDlCm2g67Q117117
   item_date: "2016-09-29 13:23:41"
@@ -3283,6 +3283,19 @@
   url: http://dismagazine.com/discussion/73298/sara-m-watson-metaphors-of-big-data/
   domain: dismagazine.com
   image: ""
+- curated_id: 966a51b7986ea56e4756482dbce514b7
+  item_date: "2016-10-03 00:00:00"
+  title: Google?s Slow Response to Amazon?s Echo is a Warning
+  url: http://www.nytimes.com/2016/10/04/technology/daily-report-googles-slow-response-to-amazons-echo-is-a-warning.html
+  domain: www.nytimes.com
+  image: ""
+- curated_id: 9cd3881a511ffc222ab5ef8b38711923
+  item_date: "2016-10-03 00:00:00"
+  title: Amazon Enables Developers to Extend Alexa?s Flash Briefing - a New Addition
+    to the Alexa Skills Kit
+  url: https://developer.amazon.com/appsandservices/community/post/TxKJ2OU7KQI6E4/Amazon-Enables-Developers-to-Extend-Alexa-s-Flash-Briefing-a-New-Addition-to-the
+  domain: developer.amazon.com
+  image: ""
 - curated_id: 22vkbl03tCelP3OpsPYPLMYRIBwjRsvlZJuVFt4116uY1166hUcOHF0RWVyzW92ZxuEvuoWr9jh5DDgm0FxnhW7m7w117117
   item_date: "2016-10-03 00:00:00"
   title: Software backward compatibility undocumented APIs and importance of history
@@ -3296,30 +3309,11 @@
   url: https://developer.amazon.com/appsandservices/community/post/Tx3D6L3NB0D8A59/KIRO7-in-the-News-Elevating-Flash-Briefing-on-Alexa-to-an-Audio-Artform
   domain: developer.amazon.com
   image: ""
-- curated_id: 9cd3881a511ffc222ab5ef8b38711923
-  item_date: "2016-10-03 00:00:00"
-  title: Amazon Enables Developers to Extend Alexa?s Flash Briefing - a New Addition
-    to the Alexa Skills Kit
-  url: https://developer.amazon.com/appsandservices/community/post/TxKJ2OU7KQI6E4/Amazon-Enables-Developers-to-Extend-Alexa-s-Flash-Briefing-a-New-Addition-to-the
+- curated_id: 7e9d0178c82f0741359245b63cada108
+  item_date: "2016-10-04 00:00:00"
+  title: Hackster Live and Amazon Alexa
+  url: https://developer.amazon.com/appsandservices/community/post/Tx2V9RY8I9J1XZL/Hackster-Live-and-Amazon-Alexa
   domain: developer.amazon.com
-  image: ""
-- curated_id: 966a51b7986ea56e4756482dbce514b7
-  item_date: "2016-10-03 00:00:00"
-  title: Google?s Slow Response to Amazon?s Echo is a Warning
-  url: http://www.nytimes.com/2016/10/04/technology/daily-report-googles-slow-response-to-amazons-echo-is-a-warning.html
-  domain: www.nytimes.com
-  image: ""
-- curated_id: 6OVIyn4chl62W7lCApv6ECbdPElg32P6g6alSaHqpFwI4EzPU7bcE116maXRoo0NIF6ioqyCuen3123EOh4V1gddGA117117
-  item_date: "2016-10-04 00:00:00"
-  title: Why to Prioritize Your API Strategy Before Your API Design
-  url: http://www.programmableweb.com/news/why-to-prioritize-your-api-strategy-your-api-design/sponsored-content/2016/10/04
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: fd9e5cef9a312d2948d4b39aad0f3373
-  item_date: "2016-10-04 00:00:00"
-  title: Google Home Is Finally Ready to Rumble With Amazon Echo
-  url: https://www.wired.com/2016/10/google-home-price-availability/
-  domain: www.wired.com
   image: ""
 - curated_id: beeb8a3fc7f2bc331f9f359272e750d5
   item_date: "2016-10-04 00:00:00"
@@ -3328,11 +3322,17 @@
   url: http://www.techhive.com/article/3127605/consumer-electronics/google-home-is-set-to-do-battle-amazons-echo-for-voice-control-of-the-smart-home.html#tk.rss_all
   domain: www.techhive.com
   image: ""
-- curated_id: 7e9d0178c82f0741359245b63cada108
+- curated_id: fd9e5cef9a312d2948d4b39aad0f3373
   item_date: "2016-10-04 00:00:00"
-  title: Hackster Live and Amazon Alexa
-  url: https://developer.amazon.com/appsandservices/community/post/Tx2V9RY8I9J1XZL/Hackster-Live-and-Amazon-Alexa
-  domain: developer.amazon.com
+  title: Google Home Is Finally Ready to Rumble With Amazon Echo
+  url: https://www.wired.com/2016/10/google-home-price-availability/
+  domain: www.wired.com
+  image: ""
+- curated_id: 6OVIyn4chl62W7lCApv6ECbdPElg32P6g6alSaHqpFwI4EzPU7bcE116maXRoo0NIF6ioqyCuen3123EOh4V1gddGA117117
+  item_date: "2016-10-04 00:00:00"
+  title: Why to Prioritize Your API Strategy Before Your API Design
+  url: http://www.programmableweb.com/news/why-to-prioritize-your-api-strategy-your-api-design/sponsored-content/2016/10/04
+  domain: www.programmableweb.com
   image: ""
 - curated_id: DkuK79rMDOlIwCjgDm9JTp5ecKr3uE8OEseyee116B1230BwdK5wJ123vEpCtcCI6vBR9mU116AnRrbYlN2JdAP1wiYBgg117117
   item_date: "2016-10-04 11:37:19"
@@ -3380,11 +3380,11 @@
   url: https://twitter.com/dfsoftwareinc/statuses/784186988928827392
   domain: twitter.com
   image: ""
-- curated_id: 0baf9736f4828c50cbf72e5a75d77369
+- curated_id: 98f9ffd502bedef7ece695bbcc012b84
   item_date: "2016-10-07 00:00:00"
-  title: Amazon wants to bring Alexa outside of the Echo (AMZN)
-  url: http://www.businessinsider.com/amazon-wants-to-bring-alexa-outside-of-the-echo-2016-10
-  domain: www.businessinsider.com
+  title: Google?s Voice-Activated Future
+  url: https://www.wired.com/2016/10/gadget-lab-podcast-290/
+  domain: www.wired.com
   image: ""
 - curated_id: dd50d7f24b99b496d969bed5c161ea29
   item_date: "2016-10-07 00:00:00"
@@ -3392,11 +3392,11 @@
   url: https://developer.amazon.com/appsandservices/community/post/Tx27NAUCY0KQ34D/Rapidly-Create-Your-Alexa-Skill-Backend-with-AWS-CloudFormation
   domain: developer.amazon.com
   image: ""
-- curated_id: 98f9ffd502bedef7ece695bbcc012b84
+- curated_id: 0baf9736f4828c50cbf72e5a75d77369
   item_date: "2016-10-07 00:00:00"
-  title: Google?s Voice-Activated Future
-  url: https://www.wired.com/2016/10/gadget-lab-podcast-290/
-  domain: www.wired.com
+  title: Amazon wants to bring Alexa outside of the Echo (AMZN)
+  url: http://www.businessinsider.com/amazon-wants-to-bring-alexa-outside-of-the-echo-2016-10
+  domain: www.businessinsider.com
   image: ""
 - curated_id: 70a9c65d0d65e6dc0eefdf140c64a992
   item_date: "2016-10-10 00:00:00"
@@ -3458,6 +3458,12 @@
   url: https://medium.com/@karliszigurs/the-api-problem-2190bcbd0df9#.g5z2lkruz
   domain: medium.com
   image: ""
+- curated_id: dcac9c63a19a41d1c8e535f7c1e8a119
+  item_date: "2016-10-17 00:00:00"
+  title: Apple Recruits Scientists to Bolster AI Research, Siri
+  url: http://www.pcmag.com/news/348763/apple-recruits-scientists-to-bolster-ai-research-siri
+  domain: www.pcmag.com
+  image: ""
 - curated_id: e4522990a9c9d39de5783a621da52f77
   item_date: "2016-10-17 00:00:00"
   title: Creating a compassionate conversational agent using Watson Tone Analyzer
@@ -3465,11 +3471,11 @@
   url: https://developer.ibm.com/watson/blog/2016/10/17/creating-a-compassionate-conversational-agent-using-watson-tone-analyzer-and-watson-conversation-services/
   domain: developer.ibm.com
   image: ""
-- curated_id: dcac9c63a19a41d1c8e535f7c1e8a119
-  item_date: "2016-10-17 00:00:00"
-  title: Apple Recruits Scientists to Bolster AI Research, Siri
-  url: http://www.pcmag.com/news/348763/apple-recruits-scientists-to-bolster-ai-research-siri
-  domain: www.pcmag.com
+- curated_id: A123p123GIerBtVHkMiwWel56HQCj123Xw7jM4hUzF116Xgs116PO7R8123KM7TmQIRYfjaNXKW9K8xAnWVqFXx69VUJ0vwENA117117
+  item_date: "2016-10-18 00:00:00"
+  title: 'API Usability Matters UX and CX is like DX and '
+  url: http://dret.typepad.com/dretblog/2016/10/api-usability-matters.html
+  domain: dret.typepad.com
   image: ""
 - curated_id: 648c79a11071963d46d950632dd375ab
   item_date: "2016-10-18 00:00:00"
@@ -3483,11 +3489,11 @@
   url: http://www.theverge.com/2016/10/18/13326434/microsoft-speech-recognition-human-parity
   domain: www.theverge.com
   image: ""
-- curated_id: A123p123GIerBtVHkMiwWel56HQCj123Xw7jM4hUzF116Xgs116PO7R8123KM7TmQIRYfjaNXKW9K8xAnWVqFXx69VUJ0vwENA117117
-  item_date: "2016-10-18 00:00:00"
-  title: 'API Usability Matters UX and CX is like DX and '
-  url: http://dret.typepad.com/dretblog/2016/10/api-usability-matters.html
-  domain: dret.typepad.com
+- curated_id: 116DJfGp9e3SCSl1236fULT4116lYhHEJ1Kmjbf5VgB38l2FG116HEDbx8ktTa116h147YNTT9ADBPd1230h525oGiCUfSGrmg117117
+  item_date: "2016-10-19 00:00:00"
+  title: From Good to Great API
+  url: http://api-university.com/blog/from-good-to-great-api/
+  domain: api-university.com
   image: ""
 - curated_id: BBA116Yi3Ib060MJ123HmqgmaGhJ6i1230kxpcFicTxw7wAos1ISyHN1awVQbBAPQrDTmVut123qlCsarzjkc1uMdMcsUQ117117
   item_date: "2016-10-19 00:00:00"
@@ -3495,23 +3501,17 @@
   url: https://arefs.com/2016/10/19/designing-better-web-apis-part-i/
   domain: arefs.com
   image: ""
-- curated_id: 116DJfGp9e3SCSl1236fULT4116lYhHEJ1Kmjbf5VgB38l2FG116HEDbx8ktTa116h147YNTT9ADBPd1230h525oGiCUfSGrmg117117
-  item_date: "2016-10-19 00:00:00"
-  title: From Good to Great API
-  url: http://api-university.com/blog/from-good-to-great-api/
-  domain: api-university.com
-  image: ""
 - curated_id: f0e7aa78fca69a9e24251a647b0279f2
   item_date: "2016-10-21 00:00:00"
   title: Microsoft has hit a milestone in voice recognition (MSFT)
   url: http://www.businessinsider.com/microsoft-hits-a-milestone-in-voice-recognition-2016-10
   domain: www.businessinsider.com
   image: ""
-- curated_id: dMcIt35Bmig123EVRJYyAv7nIFLwniY7MfwR0FPxUYNsEjkI6PQ4VXWMKdsRbYRAzfuDr116QLx54yDd3mhKx123byqw117117
+- curated_id: 83de830bd684666165ec76f7c8d9946f
   item_date: "2016-10-31 00:00:00"
-  title: Introducing Seamless Source Control Integration With Bitbucket and SwaggerHub
-  url: https://dzone.com/articles/introducing-seamless-source-control-integration-wi
-  domain: dzone.com
+  title: Voice Control Belkin Wemo Devices with the Alexa Voice Service
+  url: https://developer.amazon.com/appsandservices/community/post/Tx383SLN15L0L30/Voice-Control-Belkin-Wemo-Devices-with-the-Alexa-Voice-Service
+  domain: developer.amazon.com
   image: ""
 - curated_id: sn116dMhVpC1vv6rctwmQj8Rjhik7123ib2DW116xrzMKfQ0stJc4y0U2wPZsmmBgTv0123YF9QrFE4DXPoLxqa5GE86Dg117117
   item_date: "2016-10-31 00:00:00"
@@ -3519,11 +3519,11 @@
   url: http://www.programmableweb.com/news/introduction-to-api-first-design/analysis/2016/10/31
   domain: www.programmableweb.com
   image: ""
-- curated_id: 83de830bd684666165ec76f7c8d9946f
+- curated_id: dMcIt35Bmig123EVRJYyAv7nIFLwniY7MfwR0FPxUYNsEjkI6PQ4VXWMKdsRbYRAzfuDr116QLx54yDd3mhKx123byqw117117
   item_date: "2016-10-31 00:00:00"
-  title: Voice Control Belkin Wemo Devices with the Alexa Voice Service
-  url: https://developer.amazon.com/appsandservices/community/post/Tx383SLN15L0L30/Voice-Control-Belkin-Wemo-Devices-with-the-Alexa-Voice-Service
-  domain: developer.amazon.com
+  title: Introducing Seamless Source Control Integration With Bitbucket and SwaggerHub
+  url: https://dzone.com/articles/introducing-seamless-source-control-integration-wi
+  domain: dzone.com
   image: ""
 - curated_id: 8c8943ec5b08b3df1795a3f8154c5432
   item_date: "2016-11-01 00:00:00"
@@ -3568,17 +3568,17 @@
   url: https://apigee.com/about/blog/engineering/announcing-new-apigee-edge-experience
   domain: apigee.com
   image: ""
-- curated_id: c4dc9835f3a1dbed0c779b251a8470a2
-  item_date: "2016-11-10 00:00:00"
-  title: The Google Assistant Developer Platform will be ready in December
-  url: http://www.pcworld.com/article/3139601/android/the-google-assistant-developer-platform-will-be-ready-in-december.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
 - curated_id: d9285d5487fcfe2bd6076a5b40378b20
   item_date: "2016-11-10 00:00:00"
   title: PayPal enables voice-activated payments via Siri
   url: http://www.zdnet.com/article/paypal-enables-voice-activated-payments-via-siri/
   domain: www.zdnet.com
+  image: ""
+- curated_id: c4dc9835f3a1dbed0c779b251a8470a2
+  item_date: "2016-11-10 00:00:00"
+  title: The Google Assistant Developer Platform will be ready in December
+  url: http://www.pcworld.com/article/3139601/android/the-google-assistant-developer-platform-will-be-ready-in-december.html#tk.rss_all
+  domain: www.pcworld.com
   image: ""
 - curated_id: 932275859fe7914a8c22e8570174a1cf
   item_date: "2016-11-11 00:00:00"
@@ -3605,6 +3605,18 @@
   url: http://www.hometoys.com/article/2016/12/alexa-%E2%80%93-make-my-building-run-better/35621
   domain: www.hometoys.com
   image: ""
+- curated_id: dKrthEVodGvPzc48123gsMZnHQ1MKhQnVpMkOKghMUeleaNk116RFZgIEfs6nl4QGjuIAHAg97VAiQW3ymxHbZzXnA117117
+  item_date: "2016-12-14 00:00:00"
+  title: 7 Secrets to Designing Alexa Skills
+  url: https://dzone.com/articles/7-secrets-to-designing-alexa-skills
+  domain: dzone.com
+  image: ""
+- curated_id: Jg5bAi9PLGNP9IJKUxF4iXAx0aW123q1tK66AiMWRkAWZ2F5GUqAB123zPjPMsyRNSUdEIz85OoVV1iUXfYO6xnMeQ117117
+  item_date: "2016-12-14 00:00:00"
+  title: Foundations of RESTful Architecture
+  url: https://dzone.com/refcardz/rest-foundations-restful
+  domain: dzone.com
+  image: ""
 - curated_id: 7b9aaadbca2d71272d12e69de13e4437
   item_date: "2016-12-14 00:00:00"
   title: The Wynn Las Vegas is putting an Amazon Echo in every hotel room
@@ -3617,28 +3629,16 @@
   url: http://www.tibco.com/blog/2016/12/14/api-modeling-a-zero-code-way-to-a-designer-api/
   domain: www.tibco.com
   image: ""
-- curated_id: Jg5bAi9PLGNP9IJKUxF4iXAx0aW123q1tK66AiMWRkAWZ2F5GUqAB123zPjPMsyRNSUdEIz85OoVV1iUXfYO6xnMeQ117117
-  item_date: "2016-12-14 00:00:00"
-  title: Foundations of RESTful Architecture
-  url: https://dzone.com/refcardz/rest-foundations-restful
-  domain: dzone.com
-  image: ""
-- curated_id: dKrthEVodGvPzc48123gsMZnHQ1MKhQnVpMkOKghMUeleaNk116RFZgIEfs6nl4QGjuIAHAg97VAiQW3ymxHbZzXnA117117
-  item_date: "2016-12-14 00:00:00"
-  title: 7 Secrets to Designing Alexa Skills
-  url: https://dzone.com/articles/7-secrets-to-designing-alexa-skills
-  domain: dzone.com
+- curated_id: 4702352747e5e26d895a6c723f173ad6
+  item_date: "2016-12-15 00:00:00"
+  title: Tap Into Amazons Alexa With Onvocals OV Headphones
+  url: http://www.pcmag.com/news/350283/tap-into-amazons-alexa-with-onvocals-ov-headphones
+  domain: www.pcmag.com
   image: ""
 - curated_id: ffa4a90b85fa025c9e6c0428d391f515
   item_date: "2016-12-15 00:00:00"
   title: 'Wynn Las Vegas Adding Amazon Echo to All Rooms '
   url: http://www.pcmag.com/news/350330/wynn-las-vegas-adding-amazon-echo-to-all-rooms
-  domain: www.pcmag.com
-  image: ""
-- curated_id: 4702352747e5e26d895a6c723f173ad6
-  item_date: "2016-12-15 00:00:00"
-  title: Tap Into Amazons Alexa With Onvocals OV Headphones
-  url: http://www.pcmag.com/news/350283/tap-into-amazons-alexa-with-onvocals-ov-headphones
   domain: www.pcmag.com
   image: ""
 - curated_id: hCTkehE2fpb12356q116riWdoE9npZ8nzB0XHa3AAS2yKJU123RMX123tFyGtE7HBPP3OCF9VxQpS2cd9dghkJWD1234cK116w117117
@@ -3659,17 +3659,23 @@
   url: https://medium.com/m/global-identity
   domain: medium.com
   image: ""
+- curated_id: 6e6d9b3b50b1eb760891f5ab720f89f5
+  item_date: "2016-12-25 00:00:00"
+  title: "Here\u2019s why your recorded voice sounds weird"
+  url: http://www.businessinsider.com/science-sound-voice-hate-2016-12
+  domain: www.businessinsider.com
+  image: ""
 - curated_id: 6a77001ca08269e973c1760c6ace11e0
   item_date: "2016-12-25 00:00:00"
   title: How to Set Up Your New Amazon Echo
   url: https://www.wired.com/2016/12/set-new-amazon-echo/
   domain: www.wired.com
   image: ""
-- curated_id: 6e6d9b3b50b1eb760891f5ab720f89f5
-  item_date: "2016-12-25 00:00:00"
-  title: "Here\u2019s why your recorded voice sounds weird"
-  url: http://www.businessinsider.com/science-sound-voice-hate-2016-12
-  domain: www.businessinsider.com
+- curated_id: c099ccf98c08375ba6217583637f9afd
+  item_date: "2016-12-27 00:00:00"
+  title: Amazon Alexa Data Wanted in Murder Investigation
+  url: http://www.pcmag.com/news/350625/amazon-alexa-data-wanted-in-murder-investigation
+  domain: www.pcmag.com
   image: ""
 - curated_id: 280b3c85dc249b1086dccdd1384fa096
   item_date: "2016-12-27 00:00:00"
@@ -3677,12 +3683,6 @@
     charged with murder (AMZN)
   url: http://www.businessinsider.com/amazon-refuses-to-give-police-echo-voice-data-in-murder-case-2016-12
   domain: www.businessinsider.com
-  image: ""
-- curated_id: c099ccf98c08375ba6217583637f9afd
-  item_date: "2016-12-27 00:00:00"
-  title: Amazon Alexa Data Wanted in Murder Investigation
-  url: http://www.pcmag.com/news/350625/amazon-alexa-data-wanted-in-murder-investigation
-  domain: www.pcmag.com
   image: ""
 - curated_id: c31bda0920c229ea8d432bed519b0be5
   item_date: "2016-12-27 15:01:16"
@@ -3733,6 +3733,36 @@
   url: https://www.infoq.com/presentations/ddd-rest
   domain: www.infoq.com
   image: ""
+- curated_id: 11b68301191d3d962862be4ede4f3720
+  item_date: "2017-01-03 00:00:00"
+  title: Alexa enters home automation
+  url: http://www.computerweekly.com/news/450410270/Alexa-enters-home-automation
+  domain: www.computerweekly.com
+  image: ""
+- curated_id: a803ed72b51393cb17d98cb0c357cf13
+  item_date: "2017-01-03 00:00:00"
+  title: 'Twilio API Profile: Add Voice Calls and Messaging to Your App'
+  url: http://blog.rapidapi.com/2017/01/03/twilio-api-profile-add-voice-calls-and-messaging-to-your-app/
+  domain: blog.rapidapi.com
+  image: ""
+- curated_id: 4dd6990eaba7c0a279dbd72b19adfb4a
+  item_date: "2017-01-03 00:00:00"
+  title: The Difference Between Google Assistant and Siri
+  url: https://birchtree.me/blog/the-difference-between-google-assistant-and-siri/
+  domain: birchtree.me
+  image: ""
+- curated_id: 251816a58a63e53c4b46978441b0f620
+  item_date: "2017-01-03 00:00:00"
+  title: "Amazon\u2019s Alexa will come baked in on select 4K TVs"
+  url: http://thenextweb.com/gadgets/2017/01/04/amazons-alexa-will-come-baked-in-on-select-4k-tvs/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 32c7f8397be96a493d6e541e2278d7f9
+  item_date: "2017-01-03 00:00:00"
+  title: Amazon is putting its Alexa virtual assistant inside TVs (AMZN)
+  url: http://www.businessinsider.com/amazon-launching-fire-tvs-2017-1
+  domain: www.businessinsider.com
+  image: ""
 - curated_id: 6b71bd330e51053be4a3375e45b522a6
   item_date: "2017-01-03 00:00:00"
   title: "Lenovo just launched an Amazon Echo clone that also uses Alexa \u2014 but
@@ -3746,35 +3776,17 @@
   url: http://www.ensor.cc/2016/12/protobuf-alternative-to-rest-for.html
   domain: www.ensor.cc
   image: ""
-- curated_id: 32c7f8397be96a493d6e541e2278d7f9
-  item_date: "2017-01-03 00:00:00"
-  title: Amazon is putting its Alexa virtual assistant inside TVs (AMZN)
-  url: http://www.businessinsider.com/amazon-launching-fire-tvs-2017-1
+- curated_id: f632a6b6ac9d0867586e530a585a0659
+  item_date: "2017-01-04 00:00:00"
+  title: Welcome to 2017, where Alexa even made its way into a fridge
+  url: https://techcrunch.com/2017/01/04/welcome-to-2017-where-alexa-even-made-its-way-into-a-fridge/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 69549a9149d5b494a9852e9ec0574898
+  item_date: "2017-01-04 00:00:00"
+  title: Amazons Alexa is officially coming to Ford cars
+  url: http://www.businessinsider.com/amazon-alexa-coming-to-ford-cars-2017-1
   domain: www.businessinsider.com
-  image: ""
-- curated_id: 11b68301191d3d962862be4ede4f3720
-  item_date: "2017-01-03 00:00:00"
-  title: Alexa enters home automation
-  url: http://www.computerweekly.com/news/450410270/Alexa-enters-home-automation
-  domain: www.computerweekly.com
-  image: ""
-- curated_id: 251816a58a63e53c4b46978441b0f620
-  item_date: "2017-01-03 00:00:00"
-  title: "Amazon\u2019s Alexa will come baked in on select 4K TVs"
-  url: http://thenextweb.com/gadgets/2017/01/04/amazons-alexa-will-come-baked-in-on-select-4k-tvs/
-  domain: thenextweb.com
-  image: ""
-- curated_id: a803ed72b51393cb17d98cb0c357cf13
-  item_date: "2017-01-03 00:00:00"
-  title: 'Twilio API Profile: Add Voice Calls and Messaging to Your App'
-  url: http://blog.rapidapi.com/2017/01/03/twilio-api-profile-add-voice-calls-and-messaging-to-your-app/
-  domain: blog.rapidapi.com
-  image: ""
-- curated_id: 4dd6990eaba7c0a279dbd72b19adfb4a
-  item_date: "2017-01-03 00:00:00"
-  title: The Difference Between Google Assistant and Siri
-  url: https://birchtree.me/blog/the-difference-between-google-assistant-and-siri/
-  domain: birchtree.me
   image: ""
 - curated_id: aec19f3bf6fc774653bfde9cbae308bc
   item_date: "2017-01-04 00:00:00"
@@ -3794,23 +3806,17 @@
   url: https://blog.readme.io/on-the-origins-of-api-first-companies/
   domain: blog.readme.io
   image: ""
-- curated_id: 69549a9149d5b494a9852e9ec0574898
-  item_date: "2017-01-04 00:00:00"
-  title: Amazons Alexa is officially coming to Ford cars
-  url: http://www.businessinsider.com/amazon-alexa-coming-to-ford-cars-2017-1
-  domain: www.businessinsider.com
-  image: ""
-- curated_id: f632a6b6ac9d0867586e530a585a0659
-  item_date: "2017-01-04 00:00:00"
-  title: Welcome to 2017, where Alexa even made its way into a fridge
-  url: https://techcrunch.com/2017/01/04/welcome-to-2017-where-alexa-even-made-its-way-into-a-fridge/
-  domain: techcrunch.com
-  image: ""
 - curated_id: 51155b5d9df9fe1bae7a06db0c68d6ec
   item_date: "2017-01-04 10:56:05"
   title: Mattel Is Building An Alexa For Kids
   url: http://www.fastcodesign.com/3066881/mattel-is-building-an-alexa-for-kids
   domain: www.fastcodesign.com
+  image: ""
+- curated_id: 4538747ad401fb567b5ed38e12b8bfe0
+  item_date: "2017-01-05 00:00:00"
+  title: Build your own Haven OnDemand Combination API
+  url: https://community.havenondemand.com/t5/Blog/Build-your-own-Haven-OnDemand-Combination-API-and-call-it-from/ba-p/3330
+  domain: community.havenondemand.com
   image: ""
 - curated_id: 3b849611039184be0f266920a031c41c
   item_date: "2017-01-05 00:00:00"
@@ -3818,11 +3824,11 @@
   url: http://www.pcworld.com/article/3154897/home-tech/alexa-will-now-take-your-restaurant-delivery-order.html#tk.rss_all
   domain: www.pcworld.com
   image: ""
-- curated_id: 93d60611820370bb4a64084f82124830
+- curated_id: a80bc5c9035ed0bc16a63127598b4571
   item_date: "2017-01-05 00:00:00"
-  title: Ford Offers Amazons Alexa in Cars
-  url: http://www.pcmag.com/news/350808/ford-offers-amazons-alexa-in-cars
-  domain: www.pcmag.com
+  title: 'CES 2017: The robot with an Alexa-powered brain'
+  url: http://www.bbc.co.uk/news/technology-38515715
+  domain: www.bbc.co.uk
   image: ""
 - curated_id: 4687350e82f1167c86d4fd7d1b66552e
   item_date: "2017-01-05 00:00:00"
@@ -3830,17 +3836,11 @@
   url: https://www.nytimes.com/2017/01/05/automobiles/automakers-voice-control-amazon-alexa.html
   domain: www.nytimes.com
   image: ""
-- curated_id: a80bc5c9035ed0bc16a63127598b4571
+- curated_id: 93d60611820370bb4a64084f82124830
   item_date: "2017-01-05 00:00:00"
-  title: 'CES 2017: The robot with an Alexa-powered brain'
-  url: http://www.bbc.co.uk/news/technology-38515715
-  domain: www.bbc.co.uk
-  image: ""
-- curated_id: 4538747ad401fb567b5ed38e12b8bfe0
-  item_date: "2017-01-05 00:00:00"
-  title: Build your own Haven OnDemand Combination API
-  url: https://community.havenondemand.com/t5/Blog/Build-your-own-Haven-OnDemand-Combination-API-and-call-it-from/ba-p/3330
-  domain: community.havenondemand.com
+  title: Ford Offers Amazons Alexa in Cars
+  url: http://www.pcmag.com/news/350808/ford-offers-amazons-alexa-in-cars
+  domain: www.pcmag.com
   image: ""
 - curated_id: olaSZPknIQKSEycY1166Oh6TdEApvnupBx3JKVlDurV6fKE4fa12388jYgaNuCtdWerMwcrIupMZFiudOwuigtVgLQ117117
   item_date: "2017-01-05 08:20:07"
@@ -3866,6 +3866,13 @@
   url: https://www.nginx.com/blog/building-api-for-longevity-spec-driven-development/
   domain: www.nginx.com
   image: ""
+- curated_id: 7a324e4009c29c1e3ec481990752c6b3
+  item_date: "2017-01-07 00:00:00"
+  title: "Amazon\u2019s Alexa started ordering people dollhouses after hearing its
+    name on TV"
+  url: http://www.theverge.com/2017/1/7/14200210/amazon-alexa-tech-news-anchor-order-dollhouse
+  domain: www.theverge.com
+  image: ""
 - curated_id: bf03ff60745da797e1f135b772fa94b1
   item_date: "2017-01-07 00:00:00"
   title: "Amazon\u2019s Echo is building a coffin that\u2019s custom-made for Google
@@ -3873,12 +3880,11 @@
   url: http://www.businessinsider.com/amazon-echo-success-could-spell-big-trouble-for-google-2017-1
   domain: www.businessinsider.com
   image: ""
-- curated_id: 7a324e4009c29c1e3ec481990752c6b3
-  item_date: "2017-01-07 00:00:00"
-  title: "Amazon\u2019s Alexa started ordering people dollhouses after hearing its
-    name on TV"
-  url: http://www.theverge.com/2017/1/7/14200210/amazon-alexa-tech-news-anchor-order-dollhouse
-  domain: www.theverge.com
+- curated_id: 4bc2b8e75eb7d6b71925a51df8232cc7
+  item_date: "2017-01-09 00:00:00"
+  title: Amazon Echos activated by TV comment
+  url: http://www.bbc.co.uk/news/technology-38553643
+  domain: www.bbc.co.uk
   image: ""
 - curated_id: 7f850b88f7d8b2909b97d1ad0b9518ef
   item_date: "2017-01-09 00:00:00"
@@ -3892,17 +3898,17 @@
   url: http://www.macworld.com/article/3155510/internet-of-things/amazon-echo-speakers-obey-tvs-command-to-buy-a-dollhouse.html#tk.rss_all
   domain: www.macworld.com
   image: ""
-- curated_id: 4bc2b8e75eb7d6b71925a51df8232cc7
-  item_date: "2017-01-09 00:00:00"
-  title: Amazon Echos activated by TV comment
-  url: http://www.bbc.co.uk/news/technology-38553643
-  domain: www.bbc.co.uk
-  image: ""
 - curated_id: 9212dbcda1816f9d4fdca25b3d1cbf4b
   item_date: "2017-01-10 00:00:00"
   title: "Find new listens with Alexa\u2019s \u201CMagic Podcast\u201D"
   url: http://popuparchive.tumblr.com/post/155684557209/find-new-listens-with-alexas-magic-podcast#_=_
   domain: popuparchive.tumblr.com
+  image: ""
+- curated_id: 3322ff5cf50093a6738286093f74d48c
+  item_date: "2017-01-11 00:00:00"
+  title: Adobe video envisions AI helper for editing photos and other media
+  url: https://techcrunch.com/2017/01/11/adobe-video-envisions-ai-helper-for-editing-photos-and-other-media/
+  domain: techcrunch.com
   image: ""
 - curated_id: f947ed0117c8b8aa45df9e4df2f19ee2
   item_date: "2017-01-11 00:00:00"
@@ -3911,23 +3917,17 @@
   url: http://www.theverge.com/2017/1/11/14242042/adobe-research-voice-control-ai-assistant-edit-photos
   domain: www.theverge.com
   image: ""
-- curated_id: 3322ff5cf50093a6738286093f74d48c
-  item_date: "2017-01-11 00:00:00"
-  title: Adobe video envisions AI helper for editing photos and other media
-  url: https://techcrunch.com/2017/01/11/adobe-video-envisions-ai-helper-for-editing-photos-and-other-media/
-  domain: techcrunch.com
+- curated_id: 3ef33cdd1fe9366f6284d4f91e3aac37
+  item_date: "2017-01-13 00:00:00"
+  title: How to Stop the Amazon Echo From Buying Stuff
+  url: http://time.com/4634966/amazon-echo-voice-purchasing-tips-tricks/
+  domain: time.com
   image: ""
 - curated_id: f0bb818bcc923fc9e30bfb91c6a9fbb6
   item_date: "2017-01-13 00:00:00"
   title: Sonos needs voice control, and not just Alexa
   url: http://www.macworld.com/article/3157451/software-music/sonos-needs-voice-control-and-not-just-alexa.html#tk.rss_all
   domain: www.macworld.com
-  image: ""
-- curated_id: 3ef33cdd1fe9366f6284d4f91e3aac37
-  item_date: "2017-01-13 00:00:00"
-  title: How to Stop the Amazon Echo From Buying Stuff
-  url: http://time.com/4634966/amazon-echo-voice-purchasing-tips-tricks/
-  domain: time.com
   image: ""
 - curated_id: bmJXvSElCbS123A123zpeHc123U8C75CdU123KYRhZQF6E885eNFCG9Nluyi116bg1YYbNljVfgLjGQUIgbZd4V123NwlQLDNg117117
   item_date: "2017-01-14 00:00:00"
@@ -3941,23 +3941,29 @@
   url: https://snarky.ca/looking-for-commonality-among-http-request-apis/
   domain: snarky.ca
   image: ""
-- curated_id: 5c3b33d6d2560e19e65b620f41689a51
-  item_date: "2017-01-17 00:00:00"
-  title: "How the Amazon Echo Could Fundamentally Alter Tech\u2019s Future"
-  url: http://time.com/4636194/amazon-echo-voice-control/
-  domain: time.com
-  image: ""
 - curated_id: 6ba4d9361f7722f72d4244f265ee4c6f
   item_date: "2017-01-17 00:00:00"
   title: Voice Commands
   url: https://xkcd.com/1787/
   domain: xkcd.com
   image: ""
+- curated_id: 5c3b33d6d2560e19e65b620f41689a51
+  item_date: "2017-01-17 00:00:00"
+  title: "How the Amazon Echo Could Fundamentally Alter Tech\u2019s Future"
+  url: http://time.com/4636194/amazon-echo-voice-control/
+  domain: time.com
+  image: ""
 - curated_id: f2b8eb8720be8dc2b97cfc5854f98fcc
   item_date: "2017-01-22 00:00:00"
   title: "Breaking Banks: Why bankers aren\u2019t quite ready for Amazon Alexa"
   url: https://www.americanbanker.com/podcast/breaking-banks-why-bankers-arent-quite-ready-for-amazon-alexa
   domain: www.americanbanker.com
+  image: ""
+- curated_id: bd550fde5beeec6b8ae8b8509ead2c14
+  item_date: "2017-01-30 00:00:00"
+  title: Alexa, Order Me a Starbucks Latte
+  url: http://www.pcmag.com/news/351426/alexa-order-me-a-starbucks-latte
+  domain: www.pcmag.com
   image: ""
 - curated_id: f049a96121b7435f41ff734162ce56f4
   item_date: "2017-01-30 00:00:00"
@@ -3966,11 +3972,11 @@
   url: http://www.businessinsider.com/how-people-use-virtual-assistants-siri-alexa-chart-2017-1
   domain: www.businessinsider.com
   image: ""
-- curated_id: bd550fde5beeec6b8ae8b8509ead2c14
-  item_date: "2017-01-30 00:00:00"
-  title: Alexa, Order Me a Starbucks Latte
-  url: http://www.pcmag.com/news/351426/alexa-order-me-a-starbucks-latte
-  domain: www.pcmag.com
+- curated_id: Iuu2grPtfFXlvCzkPjvGipaShv5QWN116oKM9kudyw18miCrbivkCYhZV9sCz5DAESOtKUf35qD8y0sKeuVfNhzw117117
+  item_date: "2017-01-31 00:00:00"
+  title: Designing a True REST State Machine
+  url: http://nordicapis.com/designing-a-true-rest-state-machine/
+  domain: nordicapis.com
   image: ""
 - curated_id: 1a5eeffffa2dcb756f9cda42408645d9
   item_date: "2017-01-31 00:00:00"
@@ -3983,12 +3989,6 @@
   title: "Alexa \u2013 Make My Building Run Better!"
   url: http://www.automatedbuildings.com/news/feb17/articles/sierra/170118110505sierra.html
   domain: www.automatedbuildings.com
-  image: ""
-- curated_id: Iuu2grPtfFXlvCzkPjvGipaShv5QWN116oKM9kudyw18miCrbivkCYhZV9sCz5DAESOtKUf35qD8y0sKeuVfNhzw117117
-  item_date: "2017-01-31 00:00:00"
-  title: Designing a True REST State Machine
-  url: http://nordicapis.com/designing-a-true-rest-state-machine/
-  domain: nordicapis.com
   image: ""
 - curated_id: jTmQUtMcEjTLGtISDASg9anBWHJW1Wau1160CsQvh0mfAu19n8U5jvcdWs24K123VJYr7LHNEwrjEkrnFKBuNWZtUg117117
   item_date: "2017-02-02 00:00:00"
@@ -4008,24 +4008,11 @@
   url: https://www.wired.com/2017/02/keep-amazon-echo-google-home-responding-tv/
   domain: www.wired.com
   image: ""
-- curated_id: d9b32f92eb4ffca963bdaf0af3449bb1
+- curated_id: e08c31151bb773c503e302c8d9b2df73
   item_date: "2017-02-07 00:00:00"
-  title: "Logitech adds Amazon\u2019s Alexa skills to its ZeroTouch voice-control
-    smartphone mount"
-  url: http://www.pcworld.com/article/3166565/home-tech/logitech-adds-amazon-s-alexa-skills-to-its-zerotouch-android-smartphone-car-mounts.html#tk.rss_all
+  title: Microsofts custom voice recognition service hits public beta
+  url: http://www.pcworld.com/article/3166912/cloud-computing/microsofts-custom-voice-recognition-service-hits-public-beta.html#tk.rss_all
   domain: www.pcworld.com
-  image: ""
-- curated_id: 06ffa3a46d768be9a70f250d8f4d1e8a
-  item_date: "2017-02-07 00:00:00"
-  title: Amazon Alexa Coming to Logitechs Car Assistant App
-  url: http://www.pcmag.com/news/351586/amazon-alexa-coming-to-logitechs-car-assistant-app
-  domain: www.pcmag.com
-  image: ""
-- curated_id: 2tAS4n97EhMF8Pq99onfpXmy326QRc6oCZ7UxKEAttwyfZrjp123Wrv123tSNWEJT9krMPj91rwCIr6fPNsxUJZREQ117117
-  item_date: "2017-02-07 00:00:00"
-  title: HTML APIs What They Are And How To Design A Good One
-  url: https://newze.net/404-error-page/
-  domain: newze.net
   image: ""
 - curated_id: fdcbe3b44c712a0ce413f33960537192
   item_date: "2017-02-07 00:00:00"
@@ -4033,17 +4020,30 @@
   url: http://blog.rapidapi.com/2017/02/07/alexa-skill-flight-departure/
   domain: blog.rapidapi.com
   image: ""
-- curated_id: e08c31151bb773c503e302c8d9b2df73
-  item_date: "2017-02-07 00:00:00"
-  title: Microsofts custom voice recognition service hits public beta
-  url: http://www.pcworld.com/article/3166912/cloud-computing/microsofts-custom-voice-recognition-service-hits-public-beta.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
 - curated_id: gEkQR813o116HF8yldGiKvDtog1zeI9n4116fIHr5E7njDlzfcFoMh1HenoG9xDFFq123IM4116uY6GFuQjfDNUFkcXSDg117117
   item_date: "2017-02-07 00:00:00"
   title: Use a Local API to Protect Global Methods in a Distributed Environment
   url: https://www.codeproject.com/Tips/1169500/Use-a-Local-API-to-Protect-Global-Methods-in-a-Dis
   domain: www.codeproject.com
+  image: ""
+- curated_id: d9b32f92eb4ffca963bdaf0af3449bb1
+  item_date: "2017-02-07 00:00:00"
+  title: "Logitech adds Amazon\u2019s Alexa skills to its ZeroTouch voice-control
+    smartphone mount"
+  url: http://www.pcworld.com/article/3166565/home-tech/logitech-adds-amazon-s-alexa-skills-to-its-zerotouch-android-smartphone-car-mounts.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 2tAS4n97EhMF8Pq99onfpXmy326QRc6oCZ7UxKEAttwyfZrjp123Wrv123tSNWEJT9krMPj91rwCIr6fPNsxUJZREQ117117
+  item_date: "2017-02-07 00:00:00"
+  title: HTML APIs What They Are And How To Design A Good One
+  url: https://newze.net/404-error-page/
+  domain: newze.net
+  image: ""
+- curated_id: 06ffa3a46d768be9a70f250d8f4d1e8a
+  item_date: "2017-02-07 00:00:00"
+  title: Amazon Alexa Coming to Logitechs Car Assistant App
+  url: http://www.pcmag.com/news/351586/amazon-alexa-coming-to-logitechs-car-assistant-app
+  domain: www.pcmag.com
   image: ""
 - curated_id: gCK4O9BWxWcBb9dnQDKBWP09J34pOlV2mK123dJUI116rgJm4cmHXnYEBgiGf886QlDbh1w621Lm9QIO2ap6VnxjLA117117
   item_date: "2017-02-08 00:00:00"
@@ -4069,23 +4069,11 @@
   url: https://www.codeproject.com/Articles/1169060/Model-driven-RESTful-API-for-CRUD-and-more
   domain: www.codeproject.com
   image: ""
-- curated_id: 460701fc6fcf8f0159f4a52f332a777e
+- curated_id: 7cf5af1564636bcb37de39b0e08c41e5
   item_date: "2017-02-15 00:00:00"
-  title: Hosting Your Alexa Skill Service on Arrow, Part 1
-  url: https://www.appcelerator.com/blog/2017/02/hosting-your-alexa-skill-service-on-arrow-part-1/
-  domain: www.appcelerator.com
-  image: ""
-- curated_id: 0IAQwlK116LpSD8H3HOaq1165GR2123Hn5UeZEcV7TDUbBwjAvhrZ6RyliHimG12309LLQ2STYPTcMVOokrWtmFcP41123wg117117
-  item_date: "2017-02-15 00:00:00"
-  title: ConsumerOriented API Design
-  url: http://api-university.com/blog/consumer-oriented-api-design-2/
-  domain: api-university.com
-  image: ""
-- curated_id: b7926de06b6e9b5cfc6eb0f1732c9a84
-  item_date: "2017-02-15 00:00:00"
-  title: 'Head-To-Head: Amazon Chime Vs. Microsoft Skype'
-  url: http://www.crn.com/slide-shows/applications-os/300083752/head-to-head-amazon-chime-vs-microsoft-skype.htm
-  domain: www.crn.com
+  title: Amazon Launches Chime Video  Voice Chat
+  url: http://www.pcmag.com/news/351736/amazon-launches-chime-video-voice-chat
+  domain: www.pcmag.com
   image: ""
 - curated_id: cTdCVjsVWLDDPUFgpBCSdKj8TChU28RdRsjgqC3TLplkrOKZ6m5AkEDYmWJ1235yNjKX45K00pXsww5QUOQKqotg117117
   item_date: "2017-02-15 00:00:00"
@@ -4093,17 +4081,23 @@
   url: https://dzone.com/articles/implementing-domain-driven-design-in-php
   domain: dzone.com
   image: ""
-- curated_id: 7cf5af1564636bcb37de39b0e08c41e5
+- curated_id: 460701fc6fcf8f0159f4a52f332a777e
   item_date: "2017-02-15 00:00:00"
-  title: Amazon Launches Chime Video  Voice Chat
-  url: http://www.pcmag.com/news/351736/amazon-launches-chime-video-voice-chat
-  domain: www.pcmag.com
+  title: Hosting Your Alexa Skill Service on Arrow, Part 1
+  url: https://www.appcelerator.com/blog/2017/02/hosting-your-alexa-skill-service-on-arrow-part-1/
+  domain: www.appcelerator.com
   image: ""
-- curated_id: a15fa1b391f317945155b60c6e514469
-  item_date: "2017-02-17 00:00:00"
-  title: "Here\u2019s Why Apple Isn\u2019t Building an Amazon Echo Rival"
-  url: http://time.com/4674522/apple-echo-amazon-siri-iphone-airpods/
-  domain: time.com
+- curated_id: b7926de06b6e9b5cfc6eb0f1732c9a84
+  item_date: "2017-02-15 00:00:00"
+  title: 'Head-To-Head: Amazon Chime Vs. Microsoft Skype'
+  url: http://www.crn.com/slide-shows/applications-os/300083752/head-to-head-amazon-chime-vs-microsoft-skype.htm
+  domain: www.crn.com
+  image: ""
+- curated_id: 0IAQwlK116LpSD8H3HOaq1165GR2123Hn5UeZEcV7TDUbBwjAvhrZ6RyliHimG12309LLQ2STYPTcMVOokrWtmFcP41123wg117117
+  item_date: "2017-02-15 00:00:00"
+  title: ConsumerOriented API Design
+  url: http://api-university.com/blog/consumer-oriented-api-design-2/
+  domain: api-university.com
   image: ""
 - curated_id: obUXVkeXzx3i9MkgDvWk116XP2qZzRTC1PJ123DsMov1crv7f116q6bt2LkyU6wtFki123DLe6XsfuBujSEc3DwARnnwfA117117
   item_date: "2017-02-17 00:00:00"
@@ -4111,6 +4105,12 @@
     PayPal  Part 1
   url: https://www.infoq.com/articles/paypal-api-first-part1
   domain: www.infoq.com
+  image: ""
+- curated_id: a15fa1b391f317945155b60c6e514469
+  item_date: "2017-02-17 00:00:00"
+  title: "Here\u2019s Why Apple Isn\u2019t Building an Amazon Echo Rival"
+  url: http://time.com/4674522/apple-echo-amazon-siri-iphone-airpods/
+  domain: time.com
   image: ""
 - curated_id: M6CuMUQGfTtZUdFgWzcBNgYYhfJqMRo4kx116Do0sm4jNzf9x3ts4OcCneLEnLAxQZtZBd6TQCMJTAg2og6A90LA117117
   item_date: "2017-02-19 00:00:00"
@@ -4138,11 +4138,11 @@
   url: https://stripe.com/blog/idempotency
   domain: stripe.com
   image: ""
-- curated_id: dywdTtmTwVnAmqkOeJ123SwFwZmGWBq3fWEPIZV123Rl42fu9KrMIYpQEl3123qoJIsyMtRsCkzEaZTNCImC0mras8Ow117117
+- curated_id: efacbe17f148711109382a17070a2aee
   item_date: "2017-02-22 00:00:00"
-  title: API update Scroll API Segments and rate limits
-  url: https://medium.com/intercom-developers/api-update-scroll-api-segments-and-rate-limits-77b14c6f946b
-  domain: medium.com
+  title: Voysis raises $8 million to help it become the Twillio of voice AI
+  url: https://techcrunch.com/2017/02/22/voysis-raises-8-million-to-help-it-become-the-the-twillio-of-voice-ai/
+  domain: techcrunch.com
   image: ""
 - curated_id: b65e91d2f3fffaee901ec660340346d9
   item_date: "2017-02-22 00:00:00"
@@ -4150,23 +4150,17 @@
   url: http://www.darkreading.com/endpoint/speak-up-ransomware-attack-uses-voice-recognition-/d/d-id/1328235
   domain: www.darkreading.com
   image: ""
-- curated_id: efacbe17f148711109382a17070a2aee
+- curated_id: dywdTtmTwVnAmqkOeJ123SwFwZmGWBq3fWEPIZV123Rl42fu9KrMIYpQEl3123qoJIsyMtRsCkzEaZTNCImC0mras8Ow117117
   item_date: "2017-02-22 00:00:00"
-  title: Voysis raises $8 million to help it become the Twillio of voice AI
-  url: https://techcrunch.com/2017/02/22/voysis-raises-8-million-to-help-it-become-the-the-twillio-of-voice-ai/
-  domain: techcrunch.com
+  title: API update Scroll API Segments and rate limits
+  url: https://medium.com/intercom-developers/api-update-scroll-api-segments-and-rate-limits-77b14c6f946b
+  domain: medium.com
   image: ""
 - curated_id: FEUtZ8ba116EexWpcNyhTn0WVrkZYv2HtGs1bK4rWroVMJM8povJzxAdLB7rxN0Wp3116CNIpnx7dG1123flemqBIDYg117117
   item_date: "2017-02-22 19:07:59"
   title: API Design Guide  Cloud APIs  Google Cloud Platform
   url: https://cloud.google.com/apis/design/
   domain: cloud.google.com
-  image: ""
-- curated_id: 9664591c15796c65bd00b4cddb31ad40
-  item_date: "2017-02-23 00:00:00"
-  title: Amazon Alexa hits 10,000 skills with a nifty musical game
-  url: https://thenextweb.com/gadgets/2017/02/23/amazon-alexa-hits-10000-skills-nifty-musical-game/
-  domain: thenextweb.com
   image: ""
 - curated_id: 1f75f1a4a3d56aaf4e99346f07839d6f
   item_date: "2017-02-23 00:00:00"
@@ -4180,6 +4174,18 @@
   url: http://www.theverge.com/2017/2/23/14714656/amazon-alexa-data-protection-court-free-speech
   domain: www.theverge.com
   image: ""
+- curated_id: 9664591c15796c65bd00b4cddb31ad40
+  item_date: "2017-02-23 00:00:00"
+  title: Amazon Alexa hits 10,000 skills with a nifty musical game
+  url: https://thenextweb.com/gadgets/2017/02/23/amazon-alexa-hits-10000-skills-nifty-musical-game/
+  domain: thenextweb.com
+  image: ""
+- curated_id: c4651eb6d7b37a6aeab1a950293e9a3e
+  item_date: "2017-02-24 00:00:00"
+  title: Amazon resorts to First Amendment to protect Alexa recordings in murder trial
+  url: https://thenextweb.com/apps/2017/02/24/amazon-alexa-murder-trial/
+  domain: thenextweb.com
+  image: ""
 - curated_id: c5e532c4583673dd25b41a9fc39fb424
   item_date: "2017-02-24 00:00:00"
   title: Amazon Alexa Has More Skills Than You Do
@@ -4191,12 +4197,6 @@
   title: An Alexa Project Name Generator on OpenWhisk
   url: https://dzone.com/articles/an-alexa-project-name-generator-on-openwhisk
   domain: dzone.com
-  image: ""
-- curated_id: c4651eb6d7b37a6aeab1a950293e9a3e
-  item_date: "2017-02-24 00:00:00"
-  title: Amazon resorts to First Amendment to protect Alexa recordings in murder trial
-  url: https://thenextweb.com/apps/2017/02/24/amazon-alexa-murder-trial/
-  domain: thenextweb.com
   image: ""
 - curated_id: aV3Xn6YfwMqTWlli1BomBzqVOZi7WRe7NJSAoD52V0UHdX34123WZ4Ci1APzviii123HaVtFybfxGvewX6u2Bt93xg117117
   item_date: "2017-02-25 00:00:00"
@@ -4216,11 +4216,17 @@
   url: http://www.theverge.com/2017/3/2/14790982/google-assistant-android-marshmallow-nougat-now-available
   domain: www.theverge.com
   image: ""
-- curated_id: dyyMtYbkqi123qDnr3i123FFna0pVX4r116PGFipsoECkxbFsR83BmjeDOJf123H0FCd45otLgnyJ1Pkk1H7maSg116hqofw117117
+- curated_id: 40117abbc5e482748180f31144e42c31
   item_date: "2017-03-03 00:00:00"
-  title: Arent 301s 302s and Canonicals All Basically the Same
-  url: https://moz.com/blog/arent-301s-302s-canonicals-all-basically-the-same-whiteboard-friday
-  domain: moz.com
+  title: "Alexa\u2019s 7 Banking Skills You Didn\u2019t Know About"
+  url: http://bankinnovation.net/2017/03/7-financial-services-skills-alexa-has-that-you-didnt-know-about/
+  domain: bankinnovation.net
+  image: ""
+- curated_id: 4210376596e15a1649fcab65c33ca586
+  item_date: "2017-03-03 00:00:00"
+  title: Amazon links with students to build Alexa capabilities
+  url: https://disruptiveviews.com/amazon-links-students-build-alexa-capabilities/
+  domain: disruptiveviews.com
   image: ""
 - curated_id: 7ac7ada2b1f06dde58c2abb30659342e
   item_date: "2017-03-03 00:00:00"
@@ -4235,17 +4241,11 @@
   url: http://www.businessinsider.com/amazon-echo-2-alexa-voice-calls-2017-3
   domain: www.businessinsider.com
   image: ""
-- curated_id: 4210376596e15a1649fcab65c33ca586
+- curated_id: dyyMtYbkqi123qDnr3i123FFna0pVX4r116PGFipsoECkxbFsR83BmjeDOJf123H0FCd45otLgnyJ1Pkk1H7maSg116hqofw117117
   item_date: "2017-03-03 00:00:00"
-  title: Amazon links with students to build Alexa capabilities
-  url: https://disruptiveviews.com/amazon-links-students-build-alexa-capabilities/
-  domain: disruptiveviews.com
-  image: ""
-- curated_id: 40117abbc5e482748180f31144e42c31
-  item_date: "2017-03-03 00:00:00"
-  title: "Alexa\u2019s 7 Banking Skills You Didn\u2019t Know About"
-  url: http://bankinnovation.net/2017/03/7-financial-services-skills-alexa-has-that-you-didnt-know-about/
-  domain: bankinnovation.net
+  title: Arent 301s 302s and Canonicals All Basically the Same
+  url: https://moz.com/blog/arent-301s-302s-canonicals-all-basically-the-same-whiteboard-friday
+  domain: moz.com
   image: ""
 - curated_id: wx9X0SwHRUjRFvSN52fMGwanXmthIua2r116sXRpTzb0QdP51OywXZ2nBBLKweVkOhfQi0lyQDIn6zvRObqVLMJQ117117
   item_date: "2017-03-04 01:49:20"
@@ -4272,11 +4272,11 @@
   url: https://tyk.io/2017/03/06/api-management-events-webhooks-microservices/
   domain: tyk.io
   image: ""
-- curated_id: IXNnXpt4KbvV7SYgrhePZLdBLnGWsSIw1JJu123ivKjBlyRQBaG6hc1S8pVpOYZIBA8Dubiho7oDZE4wIMwmfOWg117117
+- curated_id: ec59f858d27e917b2af91e927161bedb
   item_date: "2017-03-08 00:00:00"
-  title: Two Forgotten Aspects to an API Design First Approach
-  url: https://medium.com/m/global-identity
-  domain: medium.com
+  title: Amazon agrees to hand over Echo records for murder case
+  url: http://www.zdnet.com/article/amazon-agrees-to-hand-over-alexa-records-for-murder-case/
+  domain: www.zdnet.com
   image: ""
 - curated_id: y7aIobXwBSysxDKTD7AyDx1ueYEqJlj4qY3riZMtIE3g1Y9klS4fguFLYyBUdsKFPW10oamsMlPPVwhaC116gEOw117117
   item_date: "2017-03-08 00:00:00"
@@ -4284,11 +4284,11 @@
   url: https://zapier.com/engineering/api-pet-peeves/
   domain: zapier.com
   image: ""
-- curated_id: ec59f858d27e917b2af91e927161bedb
+- curated_id: IXNnXpt4KbvV7SYgrhePZLdBLnGWsSIw1JJu123ivKjBlyRQBaG6hc1S8pVpOYZIBA8Dubiho7oDZE4wIMwmfOWg117117
   item_date: "2017-03-08 00:00:00"
-  title: Amazon agrees to hand over Echo records for murder case
-  url: http://www.zdnet.com/article/amazon-agrees-to-hand-over-alexa-records-for-murder-case/
-  domain: www.zdnet.com
+  title: Two Forgotten Aspects to an API Design First Approach
+  url: https://medium.com/m/global-identity
+  domain: medium.com
   image: ""
 - curated_id: q1Nq1168Bcxhx3GzO5iZjXpvvGQiI1dZu7Jz6TNpVb1JutCa673BNVWfZoU116r3Yxl2OvB6MyFoO0VXYYOz116f1116Vg117117
   item_date: "2017-03-08 10:12:12"
@@ -4315,28 +4315,28 @@
   url: https://blog.qmo.io/ultimate-guide-to-api-design/
   domain: blog.qmo.io
   image: ""
-- curated_id: a697d87336de46d15e48517286209d7b
-  item_date: "2017-03-09 00:00:00"
-  title: In video, Alexa goes strangely quiet when asked if its connected to the CIA
-  url: http://boingboing.net/2017/03/09/in-video-alexa-goes-strangely.html
-  domain: boingboing.net
-  image: ""
 - curated_id: en123nOEMnP1yuhXVU1eZHpxUGPdoNFGTMajLnxcLqllMuvdEfCORBEuaEgei0s5ljNnaq116SD20wgnuzgHeE2fYg117117
   item_date: "2017-03-09 00:00:00"
   title: Is GraphQL The End of REST Style APIs
   url: http://nordicapis.com/is-graphql-the-end-of-rest-style-apis/
   domain: nordicapis.com
   image: ""
-- curated_id: cc673ea09ba6c6c36020190eb9b7d63d
-  item_date: "2017-03-10 00:00:00"
-  title: Why Alexa and Siri would make terrible companions
-  url: https://thenextweb.com/voice/2017/03/10/alexa-siri-make-terrible-companions/
-  domain: thenextweb.com
+- curated_id: a697d87336de46d15e48517286209d7b
+  item_date: "2017-03-09 00:00:00"
+  title: In video, Alexa goes strangely quiet when asked if its connected to the CIA
+  url: http://boingboing.net/2017/03/09/in-video-alexa-goes-strangely.html
+  domain: boingboing.net
   image: ""
 - curated_id: 4f30df41de38ba4df00031fc80c65f72
   item_date: "2017-03-10 00:00:00"
   title: "Future voice interfaces could turn us all into geniuses \u2014 or idiots"
   url: https://thenextweb.com/insider/2017/03/11/future-voice-interfaces-could-turn-us-all-into-geniuses-or-idiots/
+  domain: thenextweb.com
+  image: ""
+- curated_id: cc673ea09ba6c6c36020190eb9b7d63d
+  item_date: "2017-03-10 00:00:00"
+  title: Why Alexa and Siri would make terrible companions
+  url: https://thenextweb.com/voice/2017/03/10/alexa-siri-make-terrible-companions/
   domain: thenextweb.com
   image: ""
 - curated_id: ceb82393956a6e9a8051304479717689
@@ -4345,16 +4345,22 @@
   url: https://techcrunch.com/2017/03/14/interactive-fiction-and-the-origins-of-the-conversational-interface/
   domain: techcrunch.com
   image: ""
+- curated_id: f95ea50d6d2d4fbc757466bb32ce1e4b
+  item_date: "2017-03-14 00:00:00"
+  title: iRobot adds Alexa integration, analytics to smart home
+  url: http://www.zdnet.com/article/irobot-adds-alexa-integration-analytics-to-smart-home/
+  domain: www.zdnet.com
+  image: ""
 - curated_id: 03b781ddc7602385ce7c0ef41ee889c9
   item_date: "2017-03-14 00:00:00"
   title: 'OK, Google: How Do I Optimize My Site for Voice Search?'
   url: http://www.wordstream.com/blog/ws/2017/03/14/google-voice-search
   domain: www.wordstream.com
   image: ""
-- curated_id: f95ea50d6d2d4fbc757466bb32ce1e4b
-  item_date: "2017-03-14 00:00:00"
-  title: iRobot adds Alexa integration, analytics to smart home
-  url: http://www.zdnet.com/article/irobot-adds-alexa-integration-analytics-to-smart-home/
+- curated_id: d0ca83d15e4c685ffb847e3bb2ecbb6e
+  item_date: "2017-03-15 00:00:00"
+  title: Amazon makes it cheaper to host Alexa skills on AWS
+  url: http://www.zdnet.com/article/amazon-makes-it-cheaper-to-host-alexa-skills-on-aws/
   domain: www.zdnet.com
   image: ""
 - curated_id: 09458ccf1ccb4cf021b385b2e4b1e6c2
@@ -4368,12 +4374,6 @@
   title: AWS offers Alexa developers free cloud credits
   url: http://www.pcworld.com/article/3181368/cloud-computing/aws-offers-alexa-developers-free-cloud-credits.html#tk.rss_all
   domain: www.pcworld.com
-  image: ""
-- curated_id: d0ca83d15e4c685ffb847e3bb2ecbb6e
-  item_date: "2017-03-15 00:00:00"
-  title: Amazon makes it cheaper to host Alexa skills on AWS
-  url: http://www.zdnet.com/article/amazon-makes-it-cheaper-to-host-alexa-skills-on-aws/
-  domain: www.zdnet.com
   image: ""
 - curated_id: HxloJAo72xgUo6aQS116Yzj4V12aeXmDkvd0wMB116qsCGyi25ElXK297iXPDxM4yqHfY116JpmgSm4ZAetLs123JcXtlw117117
   item_date: "2017-03-16 00:00:00"
@@ -4399,16 +4399,16 @@
   url: http://daviddawson.me/blog/2017/02/21/muon-intro.html
   domain: daviddawson.me
   image: ""
-- curated_id: P123GLG50vbUOfZlqHnZhWCfm2RGV4e3AzqFY6uQynI3QzNu4a7io55iiXDE1XZ0VpqqgfA97EnxuJ6Hngi116NJ9w117117
-  item_date: "2017-03-20 00:00:00"
-  title: RESTful SNMP Over HTTP Part II
-  url: https://dzone.com/articles/restful-snmp-over-http-ii
-  domain: dzone.com
-  image: ""
 - curated_id: YH353116wouFo123ya123WX70zkC4BmBhE2EmIf8qOTj25Eix3wrtzjA5X3eHniA116DmL2sxCnGH9GH54GwRn93bEqmEQ117117
   item_date: "2017-03-20 00:00:00"
   title: RESTful SNMP Over HTTP Part III
   url: https://dzone.com/articles/restful-snmp-over-http-3
+  domain: dzone.com
+  image: ""
+- curated_id: P123GLG50vbUOfZlqHnZhWCfm2RGV4e3AzqFY6uQynI3QzNu4a7io55iiXDE1XZ0VpqqgfA97EnxuJ6Hngi116NJ9w117117
+  item_date: "2017-03-20 00:00:00"
+  title: RESTful SNMP Over HTTP Part II
+  url: https://dzone.com/articles/restful-snmp-over-http-ii
   domain: dzone.com
   image: ""
 - curated_id: 5aZEQTZcJk1235sBBL4wRS8GfQpKd123AbMDY5ch8123WGGMw7oP5ITbeSsOGyDIYmITSok92iw4va6I4ddS0BywxoCQ117117
@@ -4478,6 +4478,12 @@
   url: http://www.zdnet.com/article/amazon-rolls-out-new-alexa-dashboard-and-device-address-api/
   domain: www.zdnet.com
   image: ""
+- curated_id: ra123rE6JGtLbZE116mul3tLsTQFjCHNDsE1Q123dcJ0RTKliJS0W1LNl5l1164z9OaeEqReVxx1dhNoUWyk4isg4k6S123A117117
+  item_date: "2017-04-07 00:00:00"
+  title: API Design Standards With Andy Beier
+  url: http://businessintelligence.com/bi-insights/api-design-standards-andy-beier/
+  domain: businessintelligence.com
+  image: ""
 - curated_id: 7f3bdd0a7cd7ade0361583f5d39abc26
   item_date: "2017-04-07 00:00:00"
   title: Amazon turns to location-based APIs for Alexa (AMZN)
@@ -4490,11 +4496,11 @@
   url: https://www.programmableweb.com/news/amazon-adds-device-address-api-to-alexa/brief/2017/04/07
   domain: www.programmableweb.com
   image: ""
-- curated_id: ra123rE6JGtLbZE116mul3tLsTQFjCHNDsE1Q123dcJ0RTKliJS0W1LNl5l1164z9OaeEqReVxx1dhNoUWyk4isg4k6S123A117117
-  item_date: "2017-04-07 00:00:00"
-  title: API Design Standards With Andy Beier
-  url: http://businessintelligence.com/bi-insights/api-design-standards-andy-beier/
-  domain: businessintelligence.com
+- curated_id: rez4RYUvvh9ybD2mi06U1UrXWsqDy1237L116XczgEWpm6YCLGPNgX7dlHN72FWz116h1RFZ48mobZhLgFlZf0hPkGww117117
+  item_date: "2017-04-10 00:00:00"
+  title: The 5 Basic API Design Paradigms
+  url: https://blog.cloudobjects.io/api-design/2017/04/10/api-design-paradigms/
+  domain: blog.cloudobjects.io
   image: ""
 - curated_id: befa7f9133b5aa1c8ad6e267a8bc38e3
   item_date: "2017-04-10 00:00:00"
@@ -4502,43 +4508,17 @@
   url: http://www.bbc.co.uk/news/technology-39559512
   domain: www.bbc.co.uk
   image: ""
-- curated_id: rez4RYUvvh9ybD2mi06U1UrXWsqDy1237L116XczgEWpm6YCLGPNgX7dlHN72FWz116h1RFZ48mobZhLgFlZf0hPkGww117117
-  item_date: "2017-04-10 00:00:00"
-  title: The 5 Basic API Design Paradigms
-  url: https://blog.cloudobjects.io/api-design/2017/04/10/api-design-paradigms/
-  domain: blog.cloudobjects.io
-  image: ""
-- curated_id: 9fded4df226123bd8d010fff8a032b82
-  item_date: "2017-04-11 00:00:00"
-  title: 'Doc Pops News Drop: A WordPress plugin for Amazons Alexa'
-  url: https://torquemag.io/2017/04/doc-pops-news-drop-wordpress-skill-amazons-alexa/
-  domain: torquemag.io
-  image: ""
 - curated_id: e7c2c4ac1875d58abc24e5dc3027a68f
   item_date: "2017-04-11 00:00:00"
   title: 'Go Ask Oprah: The O Comes to Alexa'
   url: http://blogs.forrester.com/james_mcquivey/17-04-11-go_ask_oprah_the_o_comes_to_alexa
   domain: blogs.forrester.com
   image: ""
-- curated_id: ebe4bb7ff73231313f3c0eedae306da5
-  item_date: "2017-04-12 00:00:00"
-  title: WTF Just Happened Today available as an Amazon skill
-  url: http://boingboing.net/2017/04/12/wtf-just-happened-today-availa.html
-  domain: boingboing.net
-  image: ""
-- curated_id: 5bc45ee4b52b133e3583931b0ba653df
-  item_date: "2017-04-12 00:00:00"
-  title: "Pollexy \u2013 Building a Special Needs Voice Assistant with Amazon Polly
-    and Raspberry Pi"
-  url: https://aws.amazon.com/blogs/aws/pollexy-building-a-special-needs-voice-assistant-with-amazon-polly-and-raspberry-pi/
-  domain: aws.amazon.com
-  image: ""
-- curated_id: e1ca3d2490679b4922975bf8714f32c9
-  item_date: "2017-04-12 00:00:00"
-  title: "Samsung\u2019s Bixby Assistant Won\u2019t Support Voice Commands When Galaxy
-    S8 Launches"
-  url: http://www.theverge.com/2017/4/11/15266028/samsung-galaxy-s8-bixby-assistant-launch-voice-support
-  domain: www.theverge.com
+- curated_id: 9fded4df226123bd8d010fff8a032b82
+  item_date: "2017-04-11 00:00:00"
+  title: 'Doc Pops News Drop: A WordPress plugin for Amazons Alexa'
+  url: https://torquemag.io/2017/04/doc-pops-news-drop-wordpress-skill-amazons-alexa/
+  domain: torquemag.io
   image: ""
 - curated_id: dQABj84JsOJAH2jN4QvFHvEjONLmtXSbTYzyOX6qSulmTJSGImquWRG0IymZQkHEMXWG6sbqUtKjRcimSFStBQ117117
   item_date: "2017-04-12 00:00:00"
@@ -4552,6 +4532,26 @@
   url: https://techcrunch.com/2017/04/12/no-thank-you/
   domain: techcrunch.com
   image: ""
+- curated_id: 5bc45ee4b52b133e3583931b0ba653df
+  item_date: "2017-04-12 00:00:00"
+  title: "Pollexy \u2013 Building a Special Needs Voice Assistant with Amazon Polly
+    and Raspberry Pi"
+  url: https://aws.amazon.com/blogs/aws/pollexy-building-a-special-needs-voice-assistant-with-amazon-polly-and-raspberry-pi/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: ebe4bb7ff73231313f3c0eedae306da5
+  item_date: "2017-04-12 00:00:00"
+  title: WTF Just Happened Today available as an Amazon skill
+  url: http://boingboing.net/2017/04/12/wtf-just-happened-today-availa.html
+  domain: boingboing.net
+  image: ""
+- curated_id: e1ca3d2490679b4922975bf8714f32c9
+  item_date: "2017-04-12 00:00:00"
+  title: "Samsung\u2019s Bixby Assistant Won\u2019t Support Voice Commands When Galaxy
+    S8 Launches"
+  url: http://www.theverge.com/2017/4/11/15266028/samsung-galaxy-s8-bixby-assistant-launch-voice-support
+  domain: www.theverge.com
+  image: ""
 - curated_id: uE98LCuxXpjtSw8nZESvzEJPFe5Pz9ZFKyb9lxzo4123dsq0eykwGKmCGkOg1JA0h8eNc4WJKa3rj59Wxu2MURbA117117
   item_date: "2017-04-12 00:24:58"
   title: Tweet Materia v07 is now available  httpstcooPDC7PPxXt User Management Addon
@@ -4559,23 +4559,17 @@
   url: https://twitter.com/MateriaHQ/statuses/852059953280012288
   domain: twitter.com
   image: ""
-- curated_id: 5c4c2c565aa833875fa8ea943525f201
+- curated_id: c40d84918e08ab12bbb158d854f0fc34
   item_date: "2017-04-13 00:00:00"
-  title: Amazon Offers Echos Voice Recognition Tech to Devs
-  url: http://www.pcmag.com/news/353052/amazon-offers-echos-voice-recognition-tech-to-devs
-  domain: www.pcmag.com
+  title: New Whopper burger advert gets Google Home to sell it to you
+  url: https://disruptiveviews.com/whopper-advert-google-home/
+  domain: disruptiveviews.com
   image: ""
-- curated_id: vMUDNki123zuBuTxjNu7p7zzQm2tBqxoxcX6CdrIlBIhO1at1QdnuMYHTPOKZV6IekZBVbOwQxY123zeiowbiP2v1A117117
+- curated_id: 67330cb746ca9928625c5920e03a966f
   item_date: "2017-04-13 00:00:00"
-  title: Simplicity  Utility x Data  Success
-  url: http://blog.mparticle.com/simplicity-utility-x-data-success/
-  domain: blog.mparticle.com
-  image: ""
-- curated_id: 15620a2241ada2cdf0a2fc44255f52a5
-  item_date: "2017-04-13 00:00:00"
-  title: Amazon ramps up smart speakers battle against Google
-  url: http://www.bbc.co.uk/news/technology-39589233
-  domain: www.bbc.co.uk
+  title: The 3 ways Amazons Alexa could snag $10 billion in revenue by 2020 (AMZN)
+  url: http://www.businessinsider.com/amazons-alexa-echo-revenue-estimate-by-2020-2017-4
+  domain: www.businessinsider.com
   image: ""
 - curated_id: ad36d583d2f588ce5ffd8e03da6dbffb
   item_date: "2017-04-13 00:00:00"
@@ -4590,17 +4584,23 @@
   url: https://techcrunch.com/2017/04/13/amazon-offers-echos-excellent-voice-recognition-tech-to-other-device-makers/
   domain: techcrunch.com
   image: ""
-- curated_id: c40d84918e08ab12bbb158d854f0fc34
+- curated_id: vMUDNki123zuBuTxjNu7p7zzQm2tBqxoxcX6CdrIlBIhO1at1QdnuMYHTPOKZV6IekZBVbOwQxY123zeiowbiP2v1A117117
   item_date: "2017-04-13 00:00:00"
-  title: New Whopper burger advert gets Google Home to sell it to you
-  url: https://disruptiveviews.com/whopper-advert-google-home/
-  domain: disruptiveviews.com
+  title: Simplicity  Utility x Data  Success
+  url: http://blog.mparticle.com/simplicity-utility-x-data-success/
+  domain: blog.mparticle.com
   image: ""
-- curated_id: 67330cb746ca9928625c5920e03a966f
+- curated_id: 15620a2241ada2cdf0a2fc44255f52a5
   item_date: "2017-04-13 00:00:00"
-  title: The 3 ways Amazons Alexa could snag $10 billion in revenue by 2020 (AMZN)
-  url: http://www.businessinsider.com/amazons-alexa-echo-revenue-estimate-by-2020-2017-4
-  domain: www.businessinsider.com
+  title: Amazon ramps up smart speakers battle against Google
+  url: http://www.bbc.co.uk/news/technology-39589233
+  domain: www.bbc.co.uk
+  image: ""
+- curated_id: 5c4c2c565aa833875fa8ea943525f201
+  item_date: "2017-04-13 00:00:00"
+  title: Amazon Offers Echos Voice Recognition Tech to Devs
+  url: http://www.pcmag.com/news/353052/amazon-offers-echos-voice-recognition-tech-to-devs
+  domain: www.pcmag.com
   image: ""
 - curated_id: 55877e995d710b6656223293bf018e2d
   item_date: "2017-04-14 00:00:00"
@@ -4620,6 +4620,31 @@
   url: https://cloudplatform.googleblog.com/2017/04/Cloud-Speech-API-is-now-generally-available.html
   domain: cloudplatform.googleblog.com
   image: ""
+- curated_id: 9cc81aa0b2e695936f9c9c33fb454b48
+  item_date: "2017-04-19 00:00:00"
+  title: Amazon rolls out chatbot tools in race to dominate voice-powered tech
+  url: http://www.reuters.com/article/us-amazon-com-cloud-idUSKBN17L2FY
+  domain: www.reuters.com
+  image: ""
+- curated_id: rLk1167zKcM5ZqN0JvIulYhpCouEXRLnhFGpOhDP116Z4Ly7123YKtyUEyFCBwt5hK3lHLP116pqBmZFULBoMSPYnykb116w117117
+  item_date: "2017-04-19 00:00:00"
+  title: Building an API  lessons learned the hard way part 2
+  url: https://medium.com/m/global-identity
+  domain: medium.com
+  image: ""
+- curated_id: dc22e40202c93d235bc810530602e023
+  item_date: "2017-04-19 00:00:00"
+  title: "Your app can now use the same deep-learning technology inside Amazon\u2019s
+    Alexa"
+  url: https://medium.com/slack-developer-blog/your-app-can-now-use-the-same-deep-learning-technology-inside-amazons-alexa-6972c635e01a
+  domain: medium.com
+  image: ""
+- curated_id: c703a2e9cc564da3e80290c7cceaab26
+  item_date: "2017-04-19 00:00:00"
+  title: "Amazon Lex \u2013 Now Generally Available"
+  url: https://aws.amazon.com/blogs/aws/amazon-lex-now-generally-available/
+  domain: aws.amazon.com
+  image: ""
 - curated_id: 5b0f23d6a667b8f9fb47800758441c48
   item_date: "2017-04-19 00:00:00"
   title: "Amazon Polly \u2013 Announcing Speech Marks and Whispering"
@@ -4638,30 +4663,17 @@
   url: https://dzone.com/articles/microservices-apis-and-swagger-how-they-fit-togeth
   domain: dzone.com
   image: ""
-- curated_id: c703a2e9cc564da3e80290c7cceaab26
-  item_date: "2017-04-19 00:00:00"
-  title: "Amazon Lex \u2013 Now Generally Available"
-  url: https://aws.amazon.com/blogs/aws/amazon-lex-now-generally-available/
-  domain: aws.amazon.com
+- curated_id: 21DFk7fxErnKg2QXLJL9U5gBMqhi7JGlBaiVt2IROkM0bUfdSmCKWZ14TBzmBrwqreUi9NKBqDjbzBss8NuMLA117117
+  item_date: "2017-04-20 00:00:00"
+  title: Is Protobuf 5x Faster Than JSON Part 2
+  url: https://dzone.com/articles/is-protobuf-5x-faster-than-json-part-ii
+  domain: dzone.com
   image: ""
-- curated_id: rLk1167zKcM5ZqN0JvIulYhpCouEXRLnhFGpOhDP116Z4Ly7123YKtyUEyFCBwt5hK3lHLP116pqBmZFULBoMSPYnykb116w117117
-  item_date: "2017-04-19 00:00:00"
-  title: Building an API  lessons learned the hard way part 2
-  url: https://medium.com/m/global-identity
-  domain: medium.com
-  image: ""
-- curated_id: 9cc81aa0b2e695936f9c9c33fb454b48
-  item_date: "2017-04-19 00:00:00"
-  title: Amazon rolls out chatbot tools in race to dominate voice-powered tech
-  url: http://www.reuters.com/article/us-amazon-com-cloud-idUSKBN17L2FY
-  domain: www.reuters.com
-  image: ""
-- curated_id: dc22e40202c93d235bc810530602e023
-  item_date: "2017-04-19 00:00:00"
-  title: "Your app can now use the same deep-learning technology inside Amazon\u2019s
-    Alexa"
-  url: https://medium.com/slack-developer-blog/your-app-can-now-use-the-same-deep-learning-technology-inside-amazons-alexa-6972c635e01a
-  domain: medium.com
+- curated_id: ABu4d7a123Thk93UlswkJAXycX6UkiQeRUcAQ116nXtCSqarYYEuAS8Ps1234n9J1P96FoL31KfgR9caoaYWHgQ0l4FQ117117
+  item_date: "2017-04-20 00:00:00"
+  title: SOAP vs REST A Look at Two Different API Styles
+  url: http://www.business2community.com/brandviews/upwork/soap-vs-rest-look-two-different-api-styles-01827446
+  domain: www.business2community.com
   image: ""
 - curated_id: 16960ff88072e503e967d4b39cb8cbd1
   item_date: "2017-04-20 00:00:00"
@@ -4674,18 +4686,6 @@
   title: Amazon Lex, the technology behind Alexa, opens up to developers
   url: https://techcrunch.com/2017/04/20/amazon-lex-the-technology-behind-alexa-opens-up-to-developers/
   domain: techcrunch.com
-  image: ""
-- curated_id: ABu4d7a123Thk93UlswkJAXycX6UkiQeRUcAQ116nXtCSqarYYEuAS8Ps1234n9J1P96FoL31KfgR9caoaYWHgQ0l4FQ117117
-  item_date: "2017-04-20 00:00:00"
-  title: SOAP vs REST A Look at Two Different API Styles
-  url: http://www.business2community.com/brandviews/upwork/soap-vs-rest-look-two-different-api-styles-01827446
-  domain: www.business2community.com
-  image: ""
-- curated_id: 21DFk7fxErnKg2QXLJL9U5gBMqhi7JGlBaiVt2IROkM0bUfdSmCKWZ14TBzmBrwqreUi9NKBqDjbzBss8NuMLA117117
-  item_date: "2017-04-20 00:00:00"
-  title: Is Protobuf 5x Faster Than JSON Part 2
-  url: https://dzone.com/articles/is-protobuf-5x-faster-than-json-part-ii
-  domain: dzone.com
   image: ""
 - curated_id: n11651h6Axb4vAX9IXQp4x7YvgBJrHboX6L123vp23Kf7HkQ81JR1D6OQvEz0sRbkn116nlpDuYqMZ1123Z6ydiEkzxg116w117117
   item_date: "2017-04-20 09:37:05"
@@ -4737,6 +4737,19 @@
   url: http://www.businessinsider.com/spotify-building-its-own-hardware-2017-4
   domain: www.businessinsider.com
   image: ""
+- curated_id: 2f3b083a93a6f9d3c48e29d979ebcab3
+  item_date: "2017-04-25 00:00:00"
+  title: With Dialpad-Amazon Echo integration, Alexa can make phone calls for you
+  url: https://techcrunch.com/2017/04/25/with-dialpad-amazon-echo-integration-alexa-can-make-phone-calls-for-you/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 0be5364e9f91fe9d92e6dd37f28dd791
+  item_date: "2017-04-25 00:00:00"
+  title: "Emergent // Future \u2013 Facebook\u2019s AI Research, Google\u2019s speech
+    recognition and more"
+  url: http://blog.algorithmia.com/emergent-future-facebooks-ai-research-googles-speech-recognition/
+  domain: blog.algorithmia.com
+  image: ""
 - curated_id: qPMVyOTH8Dpv116AoQ0Vr7UejhQzqbE1165z6W123JNmrJA9U6vf8lHbVdJJbG8slWosbw5i1232123aILigQniCLcxHKreA117117
   item_date: "2017-04-25 00:00:00"
   title: Introducing ProtocolOriented BDD in Swift for iOS Apps Part 1
@@ -4748,19 +4761,6 @@
   title: Deliveroo API Design Guidelines added to the API Stylebook
   url: https://apihandyman.io/deliveroo-api-design-guidelines-added-to-the-api-stylebook/
   domain: apihandyman.io
-  image: ""
-- curated_id: 0be5364e9f91fe9d92e6dd37f28dd791
-  item_date: "2017-04-25 00:00:00"
-  title: "Emergent // Future \u2013 Facebook\u2019s AI Research, Google\u2019s speech
-    recognition and more"
-  url: http://blog.algorithmia.com/emergent-future-facebooks-ai-research-googles-speech-recognition/
-  domain: blog.algorithmia.com
-  image: ""
-- curated_id: 2f3b083a93a6f9d3c48e29d979ebcab3
-  item_date: "2017-04-25 00:00:00"
-  title: With Dialpad-Amazon Echo integration, Alexa can make phone calls for you
-  url: https://techcrunch.com/2017/04/25/with-dialpad-amazon-echo-integration-alexa-can-make-phone-calls-for-you/
-  domain: techcrunch.com
   image: ""
 - curated_id: yNDL6OQYIJayeVJjtplUDL2H8123YXL792Uelek9O123N5ug1cKPZ5ERSxTbDRsoa22stYYmncb8SSkFopoH3svsyA117117
   item_date: "2017-04-25 12:10:12"
@@ -4774,23 +4774,11 @@
   url: https://twitter.com/Runscope/statuses/856992717330673664
   domain: twitter.com
   image: ""
-- curated_id: c3afe00e9bef94f581bdd513ce47994b
+- curated_id: f0d5c44b3595a102536c7e5efc84a1f7
   item_date: "2017-04-26 00:00:00"
-  title: Amazons new Echo Look device wants to be your AI-powered stylist
-  url: http://www.zdnet.com/article/amazons-new-echo-look-device-wants-to-be-your-ai-powered-stylist/
-  domain: www.zdnet.com
-  image: ""
-- curated_id: B4JNeA123K4BBbXcxPThwBmHsG99LdR2G1pDAA49RiLeWB4FCBEIIcLb4116fJ7ncC10eWULPKlyajAsrsjNNSOtOA117117
-  item_date: "2017-04-26 00:00:00"
-  title: Summarizing requests
-  url: http://www.apiful.io/intro/2017/04/27/summarizing-requests.html
-  domain: www.apiful.io
-  image: ""
-- curated_id: Wl8yWdJEUUBQXYXWW7dG1235SuuE3NFvjgW4lBDcuw16G116oCKuPhIuoHNwW7yLO5I9CaGdv4ddGh4iw8TDi2iJNg117117
-  item_date: "2017-04-26 00:00:00"
-  title: Manage your gRPC APIs with Google Cloud Endpoints
-  url: http://cloudplatform.googleblog.com/2017/04/manage-your-gRPC-APIs-with-Google-Cloud-Endpoints.html
-  domain: cloudplatform.googleblog.com
+  title: Amazon Wants to Put a Camera and Microphone in Your Bedroom
+  url: https://motherboard.vice.com/en_us/article/amazon-echo-look-bedroom-camera
+  domain: motherboard.vice.com
   image: ""
 - curated_id: 45ed70234c266f4442db9462d3b75e4a
   item_date: "2017-04-26 00:00:00"
@@ -4798,11 +4786,23 @@
   url: http://www.cringely.com/2017/04/26/15429/
   domain: www.cringely.com
   image: ""
-- curated_id: f0d5c44b3595a102536c7e5efc84a1f7
+- curated_id: Wl8yWdJEUUBQXYXWW7dG1235SuuE3NFvjgW4lBDcuw16G116oCKuPhIuoHNwW7yLO5I9CaGdv4ddGh4iw8TDi2iJNg117117
   item_date: "2017-04-26 00:00:00"
-  title: Amazon Wants to Put a Camera and Microphone in Your Bedroom
-  url: https://motherboard.vice.com/en_us/article/amazon-echo-look-bedroom-camera
-  domain: motherboard.vice.com
+  title: Manage your gRPC APIs with Google Cloud Endpoints
+  url: http://cloudplatform.googleblog.com/2017/04/manage-your-gRPC-APIs-with-Google-Cloud-Endpoints.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: B4JNeA123K4BBbXcxPThwBmHsG99LdR2G1pDAA49RiLeWB4FCBEIIcLb4116fJ7ncC10eWULPKlyajAsrsjNNSOtOA117117
+  item_date: "2017-04-26 00:00:00"
+  title: Summarizing requests
+  url: http://www.apiful.io/intro/2017/04/27/summarizing-requests.html
+  domain: www.apiful.io
+  image: ""
+- curated_id: c3afe00e9bef94f581bdd513ce47994b
+  item_date: "2017-04-26 00:00:00"
+  title: Amazons new Echo Look device wants to be your AI-powered stylist
+  url: http://www.zdnet.com/article/amazons-new-echo-look-device-wants-to-be-your-ai-powered-stylist/
+  domain: www.zdnet.com
   image: ""
 - curated_id: b9d36f88c6428cfed34db5b7dce00b3b
   item_date: "2017-04-26 09:22:46"
@@ -4816,6 +4816,31 @@
   url: http://boingboing.net/2017/04/26/black-mirror-is-everting.html
   domain: boingboing.net
   image: ""
+- curated_id: df977339f251916ce37da7d5a8587d5e
+  item_date: "2017-04-27 00:00:00"
+  title: Hacking Alexa Skills With Service Virtualization
+  url: http://embedded-computing.com/articles/hacking-alexa-skills-with-service-virtualization-the-value-of-simulation-for-iot/
+  domain: embedded-computing.com
+  image: ""
+- curated_id: 4aa6539a6ed7069db22387a530c2f274
+  item_date: "2017-04-27 00:00:00"
+  title: Are the wheels falling off the digital assistant bandwagon?
+  url: https://disruptiveviews.com/digital-assistant-bandwagon/
+  domain: disruptiveviews.com
+  image: ""
+- curated_id: fa6a391f4ee8b61a601360ba39b9e74a
+  item_date: "2017-04-27 00:00:00"
+  title: Google opens up the Google Assistant to developers, shows off mocktail mixer
+    to prove it
+  url: https://thenextweb.com/google/2017/04/27/1043688/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 8e970485c5321f60a9346a80529d6429
+  item_date: "2017-04-27 00:00:00"
+  title: Google eyes massive AI expansion with new Assistant SDK
+  url: http://www.pcworld.com/article/3192964/android/google-eyes-massive-ai-expansion-with-new-assistant-sdk.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
 - curated_id: 06e5341d00e9d6f2bac3425571c87532
   item_date: "2017-04-27 00:00:00"
   title: Introducing the Google Assistant SDK
@@ -4828,36 +4853,23 @@
   url: https://www.aivanet.com/2017/04/google-assistant-sdk-lets-anyone-make-an-intelligent-voice-controlled-device/
   domain: www.aivanet.com
   image: ""
-- curated_id: 8e970485c5321f60a9346a80529d6429
-  item_date: "2017-04-27 00:00:00"
-  title: Google eyes massive AI expansion with new Assistant SDK
-  url: http://www.pcworld.com/article/3192964/android/google-eyes-massive-ai-expansion-with-new-assistant-sdk.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
-- curated_id: df977339f251916ce37da7d5a8587d5e
-  item_date: "2017-04-27 00:00:00"
-  title: Hacking Alexa Skills With Service Virtualization
-  url: http://embedded-computing.com/articles/hacking-alexa-skills-with-service-virtualization-the-value-of-simulation-for-iot/
-  domain: embedded-computing.com
-  image: ""
-- curated_id: fa6a391f4ee8b61a601360ba39b9e74a
-  item_date: "2017-04-27 00:00:00"
-  title: Google opens up the Google Assistant to developers, shows off mocktail mixer
-    to prove it
-  url: https://thenextweb.com/google/2017/04/27/1043688/
-  domain: thenextweb.com
-  image: ""
-- curated_id: 4aa6539a6ed7069db22387a530c2f274
-  item_date: "2017-04-27 00:00:00"
-  title: Are the wheels falling off the digital assistant bandwagon?
-  url: https://disruptiveviews.com/digital-assistant-bandwagon/
-  domain: disruptiveviews.com
-  image: ""
 - curated_id: drWoJN0PKccMe2Yhq50tDcqwTvmHEhqgIb38jaA5rlwINKXrYHViri0KnN8XZSzzwo9123fE8XNaPfjIVwM1NRbw117117
   item_date: "2017-04-27 12:47:45"
   title: gRPCWeb Moving past RESTJSON towards typesafe Web APIs
   url: https://spatialos.improbable.io/games/grpc-web-moving-past-restjson-towards-type-safe-web-apis
   domain: spatialos.improbable.io
+  image: ""
+- curated_id: fde8cb00ebcded5389c8d55369cac35d
+  item_date: "2017-04-28 00:00:00"
+  title: Alexa learns to talk like a human with whispers, pauses  emotion
+  url: https://techcrunch.com/2017/04/28/alexa-learns-to-talk-like-a-human-with-whispers-pauses-emotion/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 4bd5249cf2f65a374eb61a39a4158c4e
+  item_date: "2017-04-28 00:00:00"
+  title: Amazon style assistant divides opinion
+  url: http://www.bbc.co.uk/news/technology-39744293
+  domain: www.bbc.co.uk
   image: ""
 - curated_id: tFf9kDz7g1uiW70aPxn123LywLK39m5POyBucQuLXTgPC123JIu4w12395I123NwyKjdDZilnDDCre2ubAiWpTuEH9riOQ117117
   item_date: "2017-04-28 00:00:00"
@@ -4871,17 +4883,11 @@
   url: http://spectrum.ieee.org/geek-life/hands-on/how-to-build-your-own-amazon-echo
   domain: spectrum.ieee.org
   image: ""
-- curated_id: 4bd5249cf2f65a374eb61a39a4158c4e
-  item_date: "2017-04-28 00:00:00"
-  title: Amazon style assistant divides opinion
-  url: http://www.bbc.co.uk/news/technology-39744293
-  domain: www.bbc.co.uk
-  image: ""
-- curated_id: fde8cb00ebcded5389c8d55369cac35d
-  item_date: "2017-04-28 00:00:00"
-  title: Alexa learns to talk like a human with whispers, pauses  emotion
-  url: https://techcrunch.com/2017/04/28/alexa-learns-to-talk-like-a-human-with-whispers-pauses-emotion/
-  domain: techcrunch.com
+- curated_id: m1163m116H6J123jVjP2ICFSmbaZNHbwmiCvRgl1236FDBuFIC9wZrEfhbJXweWOSA8oi6d4sc1XrtbR9JwYc8WXeRXS8w117117
+  item_date: "2017-05-01 00:00:00"
+  title: API Mediation Why You Need an API Experience Layer
+  url: http://nordicapis.com/api-mediation-why-you-need-api-experience-layer/
+  domain: nordicapis.com
   image: ""
 - curated_id: 364e56c78616641f0f321341b3141d68
   item_date: "2017-05-01 00:00:00"
@@ -4889,23 +4895,11 @@
   url: https://www.codeproject.com/Articles/1184834/Writing-Your-Own-Voice-Recognition-Application
   domain: www.codeproject.com
   image: ""
-- curated_id: m1163m116H6J123jVjP2ICFSmbaZNHbwmiCvRgl1236FDBuFIC9wZrEfhbJXweWOSA8oi6d4sc1XrtbR9JwYc8WXeRXS8w117117
-  item_date: "2017-05-01 00:00:00"
-  title: API Mediation Why You Need an API Experience Layer
-  url: http://nordicapis.com/api-mediation-why-you-need-api-experience-layer/
-  domain: nordicapis.com
-  image: ""
 - curated_id: edd8f817a114c462d85668ade84fe372
   item_date: "2017-05-01 09:00:38"
   title: Lyrebird - An API to copy the voice of anyone
   url: https://lyrebird.ai/demo
   domain: lyrebird.ai
-  image: ""
-- curated_id: 134fade2eb0a43c751a730fdb8f27ee6
-  item_date: "2017-05-02 00:00:00"
-  title: Sound Masking for Speech Privacy in Open Offices and Healthcare Environments
-  url: http://www.avnetwork.com/avtechnology/sound-masking-for-speech-privacy-in-open-offices-and-healthcare-environments/126317
-  domain: www.avnetwork.com
   image: ""
 - curated_id: 55317b9839d8447a8421f08c17e39469
   item_date: "2017-05-02 00:00:00"
@@ -4913,6 +4907,12 @@
     Sounds Of Anyone Saying Anything
   url: https://www.techdirt.com/articles/20170425/07092537229/new-tools-allow-voice-patterns-to-be-cloned-to-produce-realistic-fake-sounds-anyone-saying-anything.shtml
   domain: www.techdirt.com
+  image: ""
+- curated_id: 134fade2eb0a43c751a730fdb8f27ee6
+  item_date: "2017-05-02 00:00:00"
+  title: Sound Masking for Speech Privacy in Open Offices and Healthcare Environments
+  url: http://www.avnetwork.com/avtechnology/sound-masking-for-speech-privacy-in-open-offices-and-healthcare-environments/126317
+  domain: www.avnetwork.com
   image: ""
 - curated_id: 9b7ad403be6914e34cef2fb1055e8b0f
   item_date: "2017-05-02 09:00:25"
@@ -4926,23 +4926,17 @@
   url: https://github.com/18F/doi-extractives-data/wiki/Little-rules-for-designing-with-data
   domain: github.com
   image: ""
-- curated_id: W07EnCoRP4i0F3dLBpZku0xDNXV123GLaaPTNhBzIMrDTO2UJd4Tguc116L116n1BFUUCklkzbVJ1V3E4nmsropW116Jdg117117
-  item_date: "2017-05-03 00:00:00"
-  title: REST API Industry Debate OData vs GraphQL vs ORDS
-  url: https://www.progress.com/blogs/rest-api-industry-debate-odata-vs-graphql-vs-ords
-  domain: www.progress.com
-  image: ""
 - curated_id: YESer1QlB0ywuCcgSxl116JAWB6UjFCPUQNBgRPzGPcD123URPs9tetLeSHqUQbJ886osMMKr1167ctZXYx5h8VafAnA117117
   item_date: "2017-05-03 00:00:00"
   title: The two perspectives of API design
   url: https://restlet.com/company/blog/2017/05/03/the-two-perspectives-of-api-design/
   domain: restlet.com
   image: ""
-- curated_id: 10f667b4d3bab61eb26a318fc9535428
-  item_date: "2017-05-04 00:00:00"
-  title: Forging Voice
-  url: https://www.schneier.com/blog/archives/2017/05/forging_voice.html
-  domain: www.schneier.com
+- curated_id: W07EnCoRP4i0F3dLBpZku0xDNXV123GLaaPTNhBzIMrDTO2UJd4Tguc116L116n1BFUUCklkzbVJ1V3E4nmsropW116Jdg117117
+  item_date: "2017-05-03 00:00:00"
+  title: REST API Industry Debate OData vs GraphQL vs ORDS
+  url: https://www.progress.com/blogs/rest-api-industry-debate-odata-vs-graphql-vs-ords
+  domain: www.progress.com
   image: ""
 - curated_id: Hjeb94UAR03xqLCT123OSpCjFvg116saP2gANJbbeigUwyk2k2bhvOwj1239Qoved123VwvCptzrSQ9hvxKkcPZqlblzbg117117
   item_date: "2017-05-04 00:00:00"
@@ -4950,6 +4944,12 @@
     Developers
   url: https://www.programmableweb.com/news/building-builders-stripes-8-tips-designing-apis-and-supporting-developers/analysis/2017/05/04
   domain: www.programmableweb.com
+  image: ""
+- curated_id: 10f667b4d3bab61eb26a318fc9535428
+  item_date: "2017-05-04 00:00:00"
+  title: Forging Voice
+  url: https://www.schneier.com/blog/archives/2017/05/forging_voice.html
+  domain: www.schneier.com
   image: ""
 - curated_id: 8NbSo6116bEVV5Alxvk0gW123VlIAeQrBNtWytu2MIrvnW0JLMuee116QUvAocbiSqkU7fLs3yXVyE3F0z8SPtlN8SKQ117117
   item_date: "2017-05-05 00:00:00"
@@ -4976,11 +4976,11 @@
   url: https://www.programmableweb.com/news/8-steps-to-help-your-api-be-forward-compatible/elsewhere-web/2017/05/07
   domain: www.programmableweb.com
   image: ""
-- curated_id: fc311bee47451e8b51ae1b7e642263a2
+- curated_id: 98489fe9f7a3c42027afa4bc6fe394ee
   item_date: "2017-05-08 00:00:00"
-  title: 'Apples Schiller: Echo-Like Devices Need a Screen'
-  url: http://www.pcmag.com/news/353548/apples-schiller-echo-like-devices-need-a-screen
-  domain: www.pcmag.com
+  title: Waze can now shout directions using your own voice
+  url: https://thenextweb.com/apps/2017/05/09/waze-can-now-shout-directions-using-voice/
+  domain: thenextweb.com
   image: ""
 - curated_id: VcY86fe116Hol1ovTdRcMWaEZpOiiK8ytcK3ERSBRD1itOtVTTmW86oiqjIu1eq1238eO9UoNBqA3OHea1rggR3q1A117117
   item_date: "2017-05-08 00:00:00"
@@ -4988,11 +4988,11 @@
   url: https://cloudplatform.googleblog.com/2017/05/putting-gRPC-multi-language-support-to-the-test.html
   domain: cloudplatform.googleblog.com
   image: ""
-- curated_id: 98489fe9f7a3c42027afa4bc6fe394ee
+- curated_id: fc311bee47451e8b51ae1b7e642263a2
   item_date: "2017-05-08 00:00:00"
-  title: Waze can now shout directions using your own voice
-  url: https://thenextweb.com/apps/2017/05/09/waze-can-now-shout-directions-using-voice/
-  domain: thenextweb.com
+  title: 'Apples Schiller: Echo-Like Devices Need a Screen'
+  url: http://www.pcmag.com/news/353548/apples-schiller-echo-like-devices-need-a-screen
+  domain: www.pcmag.com
   image: ""
 - curated_id: d5f8200053247e20e5aa2a256a6d74ba
   item_date: "2017-05-09 00:00:00"
@@ -5025,17 +5025,11 @@
   url: https://thenextweb.com/apple/2017/05/11/apple-patent-details-siri-work-noisy-environments/
   domain: thenextweb.com
   image: ""
-- curated_id: a76a02e67b22629c27a5388ff4d14b36
+- curated_id: 43d349cee0bca20f568666b3d7398dea
   item_date: "2017-05-12 00:00:00"
-  title: "Amazon\u2019s Echo skills to get adverts\u2026 kinda"
-  url: https://thenextweb.com/insider/2017/05/12/amazons-echo-skills-get-adverts-kinda/
-  domain: thenextweb.com
-  image: ""
-- curated_id: a143a4a21d18e6c9101fe9abfc5f4d45
-  item_date: "2017-05-12 00:00:00"
-  title: "Amazon\u2019s Echo calling doesn\u2019t let you block people"
-  url: https://www.theverge.com/2017/5/12/15631502/amazon-echo-alexa-calling-messaging-bad-privacy
-  domain: www.theverge.com
+  title: "FIs Should Keep An Eye On Alexa, Before It Goes Full \u2018Star Trek\u2019"
+  url: http://bankinnovation.net/2017/05/fis-should-keep-an-eye-on-alexa-before-it-goes-full-star-trek/
+  domain: bankinnovation.net
   image: ""
 - curated_id: 4dbbadb89796027a028936a0b699e8b4
   item_date: "2017-05-12 00:00:00"
@@ -5043,11 +5037,17 @@
   url: https://www.schneier.com/blog/archives/2017/05/stealing_voice_.html
   domain: www.schneier.com
   image: ""
-- curated_id: 43d349cee0bca20f568666b3d7398dea
+- curated_id: a143a4a21d18e6c9101fe9abfc5f4d45
   item_date: "2017-05-12 00:00:00"
-  title: "FIs Should Keep An Eye On Alexa, Before It Goes Full \u2018Star Trek\u2019"
-  url: http://bankinnovation.net/2017/05/fis-should-keep-an-eye-on-alexa-before-it-goes-full-star-trek/
-  domain: bankinnovation.net
+  title: "Amazon\u2019s Echo calling doesn\u2019t let you block people"
+  url: https://www.theverge.com/2017/5/12/15631502/amazon-echo-alexa-calling-messaging-bad-privacy
+  domain: www.theverge.com
+  image: ""
+- curated_id: a76a02e67b22629c27a5388ff4d14b36
+  item_date: "2017-05-12 00:00:00"
+  title: "Amazon\u2019s Echo skills to get adverts\u2026 kinda"
+  url: https://thenextweb.com/insider/2017/05/12/amazons-echo-skills-get-adverts-kinda/
+  domain: thenextweb.com
   image: ""
 - curated_id: 07cfa09f7235ea26874c8570a50412af
   item_date: "2017-05-13 00:00:00"
